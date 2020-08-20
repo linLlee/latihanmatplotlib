@@ -1,0 +1,14 @@
+[commands]: 134
+acm
+alexaforbusiness
+apigateway
+application-autoscaling
+appstream
+appsync
+athena
+autoscaling
+autoscaling-plans
+batch
+budgets
+ce
+cloud9
