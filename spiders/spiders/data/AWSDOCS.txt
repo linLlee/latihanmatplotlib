@@ -128,4 +128,15 @@ swf
 transcribe
 translate
 waf
-waf-region
+waf-regional
+workdocs
+workmail
+workspaces
+xray
+[sub_commands]: 5674
+abort-document-version-upload
+abort-environment-update
+abort-multipart-upload
+abort-vault-lock
+accept-certificate-transfer
+accept-direct-connect-gateway
