@@ -139,4 +139,11 @@ abort-environment-update
 abort-multipart-upload
 abort-vault-lock
 accept-certificate-transfer
-accept-direct-connect-gateway
+accept-direct-connect-gateway-association-proposal
+accept-domain-transfer-from-another-aws-account
+accept-handshake
+accept-inbound-cross-cluster-search-connection
+accept-input-device-transfer
+accept-invitation
+accept-match
+accept
