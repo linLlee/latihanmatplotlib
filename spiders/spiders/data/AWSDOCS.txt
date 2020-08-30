@@ -146,4 +146,10 @@ accept-inbound-cross-cluster-search-connection
 accept-input-device-transfer
 accept-invitation
 accept-match
-accept
+accept-portfolio-share
+accept-qualification-request
+accept-reserved-instances-exchange-quote
+accept-reserved-node-exchange
+accept-shared-directory
+accept-transit-gateway-multicast-domain-associations
+accept-transi
