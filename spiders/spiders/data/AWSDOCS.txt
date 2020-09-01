@@ -152,4 +152,10 @@ accept-reserved-instances-exchange-quote
 accept-reserved-node-exchange
 accept-shared-directory
 accept-transit-gateway-multicast-domain-associations
-accept-transi
+accept-transit-gateway-peering-attachment
+accept-transit-gateway-vpc-attachment
+accept-vpc-endpoint-connections
+accept-vpc-peering-connection
+acknowledge-job
+acknowledge-third-party-job
+activate-ev
