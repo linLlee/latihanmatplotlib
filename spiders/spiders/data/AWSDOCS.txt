@@ -158,4 +158,13 @@ accept-vpc-endpoint-connections
 accept-vpc-peering-connection
 acknowledge-job
 acknowledge-third-party-job
-activate-ev
+activate-event-source
+activate-gateway
+activate-key-signing-key
+activate-pipeline
+activate-type
+activate-user
+add-application-cloud-watch-logging-option
+add-application-input
+add-application-input-processing-configuration
+add
