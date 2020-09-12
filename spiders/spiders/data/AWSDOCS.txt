@@ -196,4 +196,14 @@ add-steps
 add-tags
 add-tags-to-certificate
 add-tags-to-on-premises-instances
-add-tags-to-res
+add-tags-to-resource
+add-tags-to-stream
+add-tags-to-vault
+add-thing-to-billing-group
+add-thing-to-thing-group
+add-upload-buffer
+add-user-to-group
+add-working-storage
+admin-add-user-to-group
+admin-confirm-sign-up
+admin-create-u
