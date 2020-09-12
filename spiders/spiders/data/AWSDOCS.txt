@@ -167,4 +167,12 @@ activate-user
 add-application-cloud-watch-logging-option
 add-application-input
 add-application-input-processing-configuration
-add
+add-application-output
+add-application-reference-data-source
+add-association
+add-attachments-to-set
+add-attributes-to-findings
+add-cache
+add-client-id-to-open-id-connect-provider
+add-communication-to-case
+add-custom-att
