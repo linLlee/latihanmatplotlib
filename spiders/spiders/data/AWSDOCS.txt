@@ -175,4 +175,16 @@ add-attributes-to-findings
 add-cache
 add-client-id-to-open-id-connect-provider
 add-communication-to-case
-add-custom-att
+add-custom-attributes
+add-facet-to-object
+add-instance-fleet
+add-instance-groups
+add-ip-routes
+add-layer-version-permission
+add-listener-certificates
+add-model
+add-option-to-option-group
+add-partner
+add-permission
+add-region
+add-re
