@@ -187,4 +187,13 @@ add-option-to-option-group
 add-partner
 add-permission
 add-region
-add-re
+add-resource-permissions
+add-role-to-db-cluster
+add-role-to-db-instance
+add-role-to-instance-profile
+add-source-identifier-to-subscription
+add-steps
+add-tags
+add-tags-to-certificate
+add-tags-to-on-premises-instances
+add-tags-to-res
