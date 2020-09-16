@@ -225,4 +225,14 @@ admin-reset-user-password
 admin-respond-to-auth-challenge
 admin-set-user-mfa-preference
 admin-set-user-password
-a
+admin-set-user-settings
+admin-update-auth-event-feedback
+admin-update-device-status
+admin-update-user-attributes
+admin-user-global-sign-out
+advertise-byoip-cidr
+allocate-address
+allocate-hosted-connection
+allocate-hosts
+allocate-ipam-pool-cidr
+alloc
