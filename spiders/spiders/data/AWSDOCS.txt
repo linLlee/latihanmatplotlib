@@ -216,4 +216,13 @@ admin-forget-device
 admin-get-device
 admin-get-user
 admin-initiate-auth
-admin-link-pr
+admin-link-provider-for-user
+admin-list-devices
+admin-list-groups-for-user
+admin-list-user-auth-events
+admin-remove-user-from-group
+admin-reset-user-password
+admin-respond-to-auth-challenge
+admin-set-user-mfa-preference
+admin-set-user-password
+a
