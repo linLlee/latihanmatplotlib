@@ -206,4 +206,14 @@ add-user-to-group
 add-working-storage
 admin-add-user-to-group
 admin-confirm-sign-up
-admin-create-u
+admin-create-user
+admin-delete-user
+admin-delete-user-attributes
+admin-disable-provider-for-user
+admin-disable-user
+admin-enable-user
+admin-forget-device
+admin-get-device
+admin-get-user
+admin-initiate-auth
+admin-link-pr
