@@ -235,4 +235,10 @@ allocate-address
 allocate-hosted-connection
 allocate-hosts
 allocate-ipam-pool-cidr
-alloc
+allocate-private-virtual-interface
+allocate-public-virtual-interface
+allocate-static-ip
+allocate-transit-virtual-interface
+apply-environment-managed-action
+apply-pending-maintenance-action
+apply-schema
