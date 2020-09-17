@@ -251,4 +251,11 @@ assign-instance
 assign-ipv6-addresses
 assign-private-ip-addresses
 assign-tape-pool
-assign
+assign-volume
+associate-address
+associate-alias
+associate-api
+associate-application-fleet
+associate-application-to-entitlement
+associate-approval-rule-template-with-repository
+associat
