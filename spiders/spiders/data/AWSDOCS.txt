@@ -242,3 +242,13 @@ allocate-transit-virtual-interface
 apply-environment-managed-action
 apply-pending-maintenance-action
 apply-schema
+apply-security-groups-to-client-vpn-target-network
+apply-security-groups-to-load-balancer
+approve-assignment
+approve-skill
+archive-findings
+assign-instance
+assign-ipv6-addresses
+assign-private-ip-addresses
+assign-tape-pool
+assign
