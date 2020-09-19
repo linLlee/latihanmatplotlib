@@ -258,4 +258,11 @@ associate-api
 associate-application-fleet
 associate-application-to-entitlement
 associate-approval-rule-template-with-repository
-associat
+associate-budget-with-resource
+associate-certificate
+associate-client-vpn-target-network
+associate-configuration-items-to-application
+associate-connection-alias
+associate-connection-with-lag
+associate-contact-with-address-book
+associate-create
