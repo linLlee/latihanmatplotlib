@@ -273,4 +273,12 @@ associate-device-with-room
 associate-dhcp-options
 associate-discovered-resource
 associate-drt-log-bucket
-as
+associate-drt-role
+associate-elastic-ip
+associate-enclave-certificate-iam-role
+associate-environment-operations-role
+associate-file-system
+associate-fleet
+associate-health-check
+associate-hosted-connection
+associate-iam-i
