@@ -281,4 +281,13 @@ associate-file-system
 associate-fleet
 associate-health-check
 associate-hosted-connection
-associate-iam-i
+associate-iam-instance-profile
+associate-instance-event-window
+associate-ip-groups
+associate-kms-key
+associate-mac-sec-key
+associate-member-to-group
+associate-node
+associate-ops-item-related-item
+associate-package
+associate-princ
