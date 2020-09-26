@@ -290,4 +290,10 @@ associate-member-to-group
 associate-node
 associate-ops-item-related-item
 associate-package
-associate-princ
+associate-principal-with-portfolio
+associate-proactive-engagement-details
+associate-product-with-portfolio
+associate-qualification-with-worker
+associate-role-to-group
+associate-route-table
+associate-service-action-with-prov
