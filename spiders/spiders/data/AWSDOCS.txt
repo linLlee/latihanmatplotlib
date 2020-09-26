@@ -296,4 +296,10 @@ associate-product-with-portfolio
 associate-qualification-with-worker
 associate-role-to-group
 associate-route-table
-associate-service-action-with-prov
+associate-service-action-with-provisioning-artifact
+associate-service-role-to-account
+associate-skill-group-with-room
+associate-skill-with-skill-group
+associate-skill-with-users
+associate-software-token
+associate-subnet-cidr
