@@ -317,4 +317,13 @@ associate-web-acl
 assume-role
 assume-role-with-saml
 assume-role-with-web-identity
-attach-certifica
+attach-certificate-to-distribution
+attach-classic-link-vpc
+attach-disk
+attach-elastic-load-balancer
+attach-group-policy
+attach-instances
+attach-instances-to-load-balancer
+attach-internet-gateway
+attach-load-balancer-target-groups
+attach-loa
