@@ -308,4 +308,13 @@ associate-targets-with-job
 associate-team-member
 associate-transit-gateway-multicast-domain
 associate-transit-gateway-route-table
-associate-trial-compo
+associate-trial-component
+associate-trunk-interface
+associate-virtual-interface
+associate-vpc-cidr-block
+associate-vpc-with-hosted-zone
+associate-web-acl
+assume-role
+assume-role-with-saml
+assume-role-with-web-identity
+attach-certifica
