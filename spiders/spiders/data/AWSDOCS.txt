@@ -302,4 +302,10 @@ associate-skill-group-with-room
 associate-skill-with-skill-group
 associate-skill-with-users
 associate-software-token
-associate-subnet-cidr
+associate-subnet-cidr-block
+associate-tag-option-with-resource
+associate-targets-with-job
+associate-team-member
+associate-transit-gateway-multicast-domain
+associate-transit-gateway-route-table
+associate-trial-compo
