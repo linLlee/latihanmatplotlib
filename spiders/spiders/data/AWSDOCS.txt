@@ -326,4 +326,13 @@ attach-instances
 attach-instances-to-load-balancer
 attach-internet-gateway
 attach-load-balancer-target-groups
-attach-loa
+attach-load-balancer-tls-certificate
+attach-load-balancer-to-subnets
+attach-load-balancers
+attach-network-interface
+attach-object
+attach-policy
+attach-role-policy
+attach-security-profile
+attach-static-ip
+attach-thing-
