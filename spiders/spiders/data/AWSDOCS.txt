@@ -335,4 +335,12 @@ attach-policy
 attach-role-policy
 attach-security-profile
 attach-static-ip
-attach-thing-
+attach-thing-principal
+attach-to-index
+attach-typed-link
+attach-user-policy
+attach-volume
+attach-vpn-gateway
+authorize-cache-security-group-ingress
+authorize-client-vpn-ingress
+authorize-cluster-security-gr
