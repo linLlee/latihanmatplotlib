@@ -343,4 +343,12 @@ attach-volume
 attach-vpn-gateway
 authorize-cache-security-group-ingress
 authorize-client-vpn-ingress
-authorize-cluster-security-gr
+authorize-cluster-security-group-ingress
+authorize-data-share
+authorize-db-security-group-ingress
+authorize-endpoint-access
+authorize-ip-rules
+authorize-security-group-egress
+authorize-security-group-ingress
+authorize-snapshot-access
+ba
