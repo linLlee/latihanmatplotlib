@@ -351,4 +351,9 @@ authorize-ip-rules
 authorize-security-group-egress
 authorize-security-group-ingress
 authorize-snapshot-access
-ba
+backtrack-db-cluster
+batch-apply-update-action
+batch-associate-approval-rule-template-with-repositories
+batch-associate-service-action-with-provisioning-artifact
+batch-associate-user-stack
+batch-check-layer-a
