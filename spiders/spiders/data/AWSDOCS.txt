@@ -380,3 +380,13 @@ batch-detect-syntax
 batch-disassociate-approval-rule-template-from-repositories
 batch-disassociate-service-action-from-provisioning-artifact
 batch-disassociate-user-stack
+batch-execute-statement
+batch-get-aggregate-resource-config
+batch-get-application-revisions
+batch-get-applications
+batch-get-blueprints
+batch-get-build-batches
+batch-get-builds
+batch-get-commits
+batch-get-crawlers
+b
