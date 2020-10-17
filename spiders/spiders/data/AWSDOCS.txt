@@ -356,4 +356,14 @@ batch-apply-update-action
 batch-associate-approval-rule-template-with-repositories
 batch-associate-service-action-with-provisioning-artifact
 batch-associate-user-stack
-batch-check-layer-a
+batch-check-layer-availability
+batch-create-partition
+batch-delete
+batch-delete-attributes
+batch-delete-builds
+batch-delete-cluster-snapshots
+batch-delete-connection
+batch-delete-image
+batch-delete-import-data
+batch-delete-partition
+batch-dele
