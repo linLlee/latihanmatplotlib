@@ -373,4 +373,10 @@ batch-describe-merge-conflicts
 batch-describe-model-package
 batch-describe-type-configurations
 batch-detect-dominant-language
-batch-detec
+batch-detect-entities
+batch-detect-key-phrases
+batch-detect-sentiment
+batch-detect-syntax
+batch-disassociate-approval-rule-template-from-repositories
+batch-disassociate-service-action-from-provisioning-artifact
+batch-disassociate-user-stack
