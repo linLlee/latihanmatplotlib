@@ -366,4 +366,11 @@ batch-delete-connection
 batch-delete-image
 batch-delete-import-data
 batch-delete-partition
-batch-dele
+batch-delete-scheduled-action
+batch-delete-table
+batch-delete-table-version
+batch-describe-merge-conflicts
+batch-describe-model-package
+batch-describe-type-configurations
+batch-detect-dominant-language
+batch-detec
