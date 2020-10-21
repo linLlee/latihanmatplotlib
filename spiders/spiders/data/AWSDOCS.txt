@@ -389,4 +389,13 @@ batch-get-build-batches
 batch-get-builds
 batch-get-commits
 batch-get-crawlers
-b
+batch-get-deployment-groups
+batch-get-deployment-targets
+batch-get-deployments
+batch-get-dev-endpoints
+batch-get-image
+batch-get-item
+batch-get-jobs
+batch-get-named-query
+batch-get-on-premises-instances
+batch-get-partitio
