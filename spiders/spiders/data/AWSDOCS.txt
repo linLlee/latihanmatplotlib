@@ -428,4 +428,12 @@ bundle-instance
 cancel-archival
 cancel-audit-mitigation-actions-task
 cancel-audit-task
-cancel-bundl
+cancel-bundle-task
+cancel-capacity-reservation
+cancel-capacity-reservation-fleets
+cancel-certificate-transfer
+cancel-cluster
+cancel-command
+cancel-conversion-task
+cancel-detect-mitigation-actions-task
+cancel-domain-tra
