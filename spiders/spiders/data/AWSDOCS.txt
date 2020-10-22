@@ -398,4 +398,13 @@ batch-get-item
 batch-get-jobs
 batch-get-named-query
 batch-get-on-premises-instances
-batch-get-partitio
+batch-get-partition
+batch-get-projects
+batch-get-query-execution
+batch-get-report-groups
+batch-get-reports
+batch-get-repositories
+batch-get-repository-scanning-configuration
+batch-get-resource-config
+batch-get-traces
+ba
