@@ -417,4 +417,15 @@ batch-read
 batch-start
 batch-stop
 batch-stop-job-run
-batch-stop-update-a
+batch-stop-update-action
+batch-update-partition
+batch-update-schedule
+batch-write
+batch-write-item
+build-suggesters
+bulk-publish
+bundle-instance
+cancel-archival
+cancel-audit-mitigation-actions-task
+cancel-audit-task
+cancel-bundl
