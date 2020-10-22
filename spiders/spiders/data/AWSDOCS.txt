@@ -407,4 +407,14 @@ batch-get-repositories
 batch-get-repository-scanning-configuration
 batch-get-resource-config
 batch-get-traces
-ba
+batch-get-triggers
+batch-get-workflows
+batch-meter-usage
+batch-modify-cluster-snapshots
+batch-put-attributes
+batch-put-scheduled-update-group-action
+batch-read
+batch-start
+batch-stop
+batch-stop-job-run
+batch-stop-update-a
