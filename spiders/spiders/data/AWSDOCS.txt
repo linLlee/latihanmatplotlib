@@ -436,4 +436,13 @@ cancel-cluster
 cancel-command
 cancel-conversion-task
 cancel-detect-mitigation-actions-task
-cancel-domain-tra
+cancel-domain-transfer-to-another-aws-account
+cancel-elasticsearch-service-software-update
+cancel-export-task
+cancel-handshake
+cancel-import-task
+cancel-input-device-transfer
+cancel-instance-refresh
+cancel-job
+cancel-job-execution
+cancel-key-deleti
