@@ -445,4 +445,13 @@ cancel-input-device-transfer
 cancel-instance-refresh
 cancel-job
 cancel-job-execution
-cancel-key-deleti
+cancel-key-deletion
+cancel-mailbox-export-job
+cancel-maintenance-window-execution
+cancel-ml-task-run
+cancel-query
+cancel-replay
+cancel-replication-task-assessment-run
+cancel-reserved-instances-listing
+cancel-resize
+cancel-retr
