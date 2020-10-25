@@ -454,4 +454,15 @@ cancel-replay
 cancel-replication-task-assessment-run
 cancel-reserved-instances-listing
 cancel-resize
-cancel-retr
+cancel-retrieval
+cancel-schema-extension
+cancel-spot-fleet-requests
+cancel-spot-instance-requests
+cancel-steps
+cancel-update-stack
+change-message-visibility
+change-message-visibility-batch
+change-password
+change-resource-record-sets
+change-tags-for-resource
+check-d
