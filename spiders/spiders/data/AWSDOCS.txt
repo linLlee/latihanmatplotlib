@@ -474,4 +474,13 @@ claim-device
 claim-game-server
 classify-document
 clear-default-authorizer
-clo
+clone-receipt-rule-set
+clone-stack
+close-instance-public-ports
+compare-faces
+complete-layer-upload
+complete-lifecycle-action
+complete-migration
+complete-multipart-upload
+complete-vault-lock
+compose-environmen
