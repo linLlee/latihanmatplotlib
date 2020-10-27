@@ -483,4 +483,14 @@ complete-lifecycle-action
 complete-migration
 complete-multipart-upload
 complete-vault-lock
-compose-environmen
+compose-environments
+configure-health-check
+configure-logs
+confirm-connection
+confirm-customer-agreement
+confirm-device
+confirm-forgot-password
+confirm-private-virtual-interface
+confirm-product-instance
+confirm-public-virtual-interface
+conf
