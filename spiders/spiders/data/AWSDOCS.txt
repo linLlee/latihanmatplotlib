@@ -465,4 +465,13 @@ change-message-visibility-batch
 change-password
 change-resource-record-sets
 change-tags-for-resource
-check-d
+check-dns-availability
+check-domain-availability
+check-domain-transferability
+check-if-phone-number-is-opted-out
+check-schema-version-validity
+claim-device
+claim-game-server
+classify-document
+clear-default-authorizer
+clo
