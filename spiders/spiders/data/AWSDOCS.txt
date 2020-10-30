@@ -504,4 +504,15 @@ continue-deployment
 continue-update-rollback
 copy-backup-to-region
 copy-cluster-snapshot
-copy-d
+copy-db-cluster-parameter-group
+copy-db-cluster-snapshot
+copy-db-parameter-group
+copy-db-snapshot
+copy-fpga-image
+copy-image
+copy-object
+copy-option-group
+copy-product
+copy-snapshot
+copy-workspace-image
+count-closed-workflo
