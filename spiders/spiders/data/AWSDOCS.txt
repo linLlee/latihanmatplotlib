@@ -493,4 +493,15 @@ confirm-forgot-password
 confirm-private-virtual-interface
 confirm-product-instance
 confirm-public-virtual-interface
-conf
+confirm-sign-up
+confirm-subscription
+confirm-topic-rule-destination
+confirm-transit-virtual-interface
+connect-custom-key-store
+connect-directory
+contains-pii-entities
+continue-deployment
+continue-update-rollback
+copy-backup-to-region
+copy-cluster-snapshot
+copy-d
