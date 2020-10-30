@@ -515,4 +515,14 @@ copy-option-group
 copy-product
 copy-snapshot
 copy-workspace-image
-count-closed-workflo
+count-closed-workflow-executions
+count-open-workflow-executions
+count-pending-activity-tasks
+count-pending-decision-tasks
+cp
+create-access-key
+create-access-point
+create-account
+create-account-alias
+create-action
+create-activa
