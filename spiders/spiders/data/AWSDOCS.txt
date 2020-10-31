@@ -525,4 +525,15 @@ create-access-point
 create-account
 create-account-alias
 create-action
-create-activa
+create-activation
+create-activity
+create-additional-assignments-for-hit
+create-address
+create-address-book
+create-algorithm
+create-alias
+create-anomaly-monitor
+create-anomaly-subscription
+create-api-cache
+create-api-destination
+create-api-ke
