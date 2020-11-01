@@ -536,4 +536,15 @@ create-anomaly-monitor
 create-anomaly-subscription
 create-api-cache
 create-api-destination
-create-api-ke
+create-api-key
+create-app
+create-app-block
+create-app-cookie-stickiness-policy
+create-app-image-config
+create-application
+create-application-version
+create-approval-rule-template
+create-archive
+create-artifact
+create-assessment-target
+c
