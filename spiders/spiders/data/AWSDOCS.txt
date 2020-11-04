@@ -547,4 +547,12 @@ create-approval-rule-template
 create-archive
 create-artifact
 create-assessment-target
-c
+create-assessment-template
+create-association
+create-association-batch
+create-audit-suppression
+create-authentication-profile
+create-authorizer
+create-auto-ml-job
+create-auto-scaling-group
+create-back
