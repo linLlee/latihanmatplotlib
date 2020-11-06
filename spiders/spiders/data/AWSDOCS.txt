@@ -577,3 +577,12 @@ create-cache-policy
 create-cache-security-group
 create-cache-subnet-group
 create-cached-iscsi-volume
+create-call-analytics-category
+create-campaign
+create-capacity-provider
+create-capacity-reservation
+create-capacity-reservation-fleet
+create-carrier-gateway
+create-case
+create-certificate
+create-certifica
