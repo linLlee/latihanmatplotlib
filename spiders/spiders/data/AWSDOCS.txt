@@ -585,4 +585,13 @@ create-capacity-reservation-fleet
 create-carrier-gateway
 create-case
 create-certificate
-create-certifica
+create-certificate-from-csr
+create-change-set
+create-channel
+create-classifier
+create-client-vpn-endpoint
+create-client-vpn-route
+create-cloud-formation-change-set
+create-cloud-formation-stack
+create-cloud-formation-template
+create-cloud-front-origin-
