@@ -569,4 +569,11 @@ create-bucket-access-key
 create-budget
 create-budget-action
 create-build
-create-busin
+create-business-report-schedule
+create-byte-match-set
+create-cache-cluster
+create-cache-parameter-group
+create-cache-policy
+create-cache-security-group
+create-cache-subnet-group
+create-cached-iscsi-volume
