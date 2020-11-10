@@ -594,4 +594,13 @@ create-client-vpn-route
 create-cloud-formation-change-set
 create-cloud-formation-stack
 create-cloud-formation-template
-create-cloud-front-origin-
+create-cloud-front-origin-access-identity
+create-cluster
+create-cluster-parameter-group
+create-cluster-security-group
+create-cluster-snapshot
+create-cluster-subnet-group
+create-code-repository
+create-code-signing-config
+create-collection
+create-comme
