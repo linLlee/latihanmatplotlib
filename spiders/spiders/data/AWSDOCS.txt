@@ -612,4 +612,11 @@ create-conditional-forwarder
 create-conference-provider
 create-configuration
 create-configuration-set
-create-con
+create-configuration-set-event-destination
+create-configuration-set-tracking-options
+create-configuration-template
+create-connection
+create-connection-alias
+create-connector-definition
+create-connector-definition-version
+create-constraint
