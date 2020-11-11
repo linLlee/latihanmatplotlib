@@ -603,4 +603,13 @@ create-cluster-subnet-group
 create-code-repository
 create-code-signing-config
 create-collection
-create-comme
+create-comment
+create-commit
+create-compilation-job
+create-compute-environment
+create-computer
+create-conditional-forwarder
+create-conference-provider
+create-configuration
+create-configuration-set
+create-con
