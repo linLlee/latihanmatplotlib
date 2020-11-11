@@ -620,3 +620,12 @@ create-connection-alias
 create-connector-definition
 create-connector-definition-version
 create-constraint
+create-contact
+create-contact-method
+create-container
+create-container-service
+create-container-service-deployment
+create-container-service-registry-login
+create-context
+create-core-definition
+create-core-definition-ve
