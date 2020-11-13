@@ -628,4 +628,13 @@ create-container-service-deployment
 create-container-service-registry-login
 create-context
 create-core-definition
-create-core-definition-ve
+create-core-definition-version
+create-cost-category-definition
+create-crawler
+create-custom-action-type
+create-custom-availability-zone
+create-custom-db-engine-version
+create-custom-key-store
+create-custom-metadata
+create-custom-metric
+create-custom-verificat
