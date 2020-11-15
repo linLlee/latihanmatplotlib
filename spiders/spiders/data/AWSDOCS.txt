@@ -654,4 +654,14 @@ create-db-cluster-snapshot
 create-db-instance
 create-db-instance-read-replica
 create-db-parameter-group
-cre
+create-db-proxy
+create-db-proxy-endpoint
+create-db-security-group
+create-db-snapshot
+create-db-subnet-group
+create-default-roles
+create-default-subnet
+create-default-vpc
+create-delivery-stream
+create-deployment
+create-deploymen
