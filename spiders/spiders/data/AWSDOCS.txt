@@ -645,4 +645,13 @@ create-data-source
 create-data-source-from-rds
 create-data-source-from-redshift
 create-data-source-from-s3
+create-database
+create-dataset
+create-db-cluster
+create-db-cluster-endpoint
+create-db-cluster-parameter-group
+create-db-cluster-snapshot
+create-db-instance
+create-db-instance-read-replica
+create-db-parameter-group
 cre
