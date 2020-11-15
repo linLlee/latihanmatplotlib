@@ -637,4 +637,12 @@ create-custom-db-engine-version
 create-custom-key-store
 create-custom-metadata
 create-custom-metric
-create-custom-verificat
+create-custom-verification-email-template
+create-customer-gateway
+create-data-catalog
+create-data-quality-job-definition
+create-data-source
+create-data-source-from-rds
+create-data-source-from-redshift
+create-data-source-from-s3
+cre
