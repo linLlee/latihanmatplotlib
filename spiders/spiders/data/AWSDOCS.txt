@@ -674,4 +674,11 @@ create-device-fleet
 create-device-pool
 create-dhcp-options
 create-dimension
-create-direct-connect-gate
+create-direct-connect-gateway
+create-direct-connect-gateway-association
+create-direct-connect-gateway-association-proposal
+create-directory
+create-directory-config
+create-disk
+create-disk-from-snapshot
+create-disk-snapsh
