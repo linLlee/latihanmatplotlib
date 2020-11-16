@@ -664,4 +664,14 @@ create-default-subnet
 create-default-vpc
 create-delivery-stream
 create-deployment
-create-deploymen
+create-deployment-config
+create-deployment-group
+create-detector
+create-dev-endpoint
+create-device-definition
+create-device-definition-version
+create-device-fleet
+create-device-pool
+create-dhcp-options
+create-dimension
+create-direct-connect-gate
