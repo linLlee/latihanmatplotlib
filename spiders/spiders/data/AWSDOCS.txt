@@ -681,4 +681,13 @@ create-directory
 create-directory-config
 create-disk
 create-disk-from-snapshot
-create-disk-snapsh
+create-disk-snapshot
+create-distribution
+create-distribution-with-tags
+create-document
+create-document-classifier
+create-documentation-part
+create-documentation-version
+create-domain
+create-domain-configuration
+create-dom
