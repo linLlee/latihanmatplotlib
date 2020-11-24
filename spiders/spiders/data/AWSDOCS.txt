@@ -690,4 +690,11 @@ create-documentation-part
 create-documentation-version
 create-domain
 create-domain-configuration
-create-dom
+create-domain-entry
+create-domain-name
+create-dynamic-thing-group
+create-edge-packaging-job
+create-egress-only-internet-gateway
+create-elasticsearch-domain
+create-email-template
+create-endpoin
