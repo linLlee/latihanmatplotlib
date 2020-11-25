@@ -717,4 +717,16 @@ create-export-task
 create-facet
 create-feature-group
 create-field-level-encryption-config
-create-field-level-encr
+create-field-level-encryption-profile
+create-file-system
+create-filter
+create-fleet
+create-fleet-locations
+create-fleet-metric
+create-flow-definition
+create-flow-logs
+create-folder
+create-fpga-image
+create-function
+create-function-definition
+create-function-def
