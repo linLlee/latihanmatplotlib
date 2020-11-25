@@ -707,4 +707,14 @@ create-environment-ec2
 create-environment-membership
 create-evaluation
 create-event-bus
-create-ev
+create-event-data-store
+create-event-source-mapping
+create-event-subscription
+create-exclusions-preview
+create-experiment
+create-export-job
+create-export-task
+create-facet
+create-feature-group
+create-field-level-encryption-config
+create-field-level-encr
