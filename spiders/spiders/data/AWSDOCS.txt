@@ -697,4 +697,14 @@ create-edge-packaging-job
 create-egress-only-internet-gateway
 create-elasticsearch-domain
 create-email-template
-create-endpoin
+create-endpoint
+create-endpoint-access
+create-endpoint-config
+create-entitlement
+create-entity-recognizer
+create-environment
+create-environment-ec2
+create-environment-membership
+create-evaluation
+create-event-bus
+create-ev
