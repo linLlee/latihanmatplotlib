@@ -729,4 +729,13 @@ create-folder
 create-fpga-image
 create-function
 create-function-definition
-create-function-def
+create-function-definition-version
+create-game-server-group
+create-game-session
+create-game-session-queue
+create-gateway-group
+create-geo-match-set
+create-global-cluster
+create-global-replication-group
+create-global-table
+create-gov-
