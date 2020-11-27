@@ -738,4 +738,14 @@ create-geo-match-set
 create-global-cluster
 create-global-replication-group
 create-global-table
-create-gov-
+create-gov-cloud-account
+create-grant
+create-graphql-api
+create-group
+create-group-certificate-authority
+create-group-version
+create-hapg
+create-harvest-job
+create-hbase-backup
+create-health-check
+create-hit
