@@ -749,3 +749,13 @@ create-harvest-job
 create-hbase-backup
 create-health-check
 create-hit
+create-hit-type
+create-hit-with-hit-type
+create-hosted-zone
+create-hsm
+create-hsm-client-certificate
+create-hsm-configuration
+create-http-namespace
+create-human-task-ui
+create-hyper-parameter-tuning-job
+create-identity-
