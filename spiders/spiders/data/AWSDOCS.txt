@@ -769,4 +769,13 @@ create-in-app-template
 create-index
 create-inference-recommendations-job
 create-input
-create-in
+create-input-security-group
+create-instance
+create-instance-event-window
+create-instance-export-task
+create-instance-profile
+create-instance-snapshot
+create-instances
+create-instances-from-snapshot
+create-intent-version
+create
