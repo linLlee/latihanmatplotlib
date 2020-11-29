@@ -758,4 +758,15 @@ create-hsm-configuration
 create-http-namespace
 create-human-task-ui
 create-hyper-parameter-tuning-job
-create-identity-
+create-identity-pool
+create-identity-provider
+create-image
+create-image-builder
+create-image-builder-streaming-url
+create-image-version
+create-import-job
+create-in-app-template
+create-index
+create-inference-recommendations-job
+create-input
+create-in
