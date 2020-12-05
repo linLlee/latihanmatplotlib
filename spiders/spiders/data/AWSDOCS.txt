@@ -792,4 +792,13 @@ create-job-template
 create-journey
 create-key
 create-key-group
-cre
+create-key-pair
+create-key-signing-key
+create-keys-and-certificate
+create-labeling-job
+create-labels
+create-lag
+create-language-model
+create-launch-configuration
+create-launch-template
+create-launch-template-v
