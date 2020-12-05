@@ -810,4 +810,12 @@ create-load-balancer-listeners
 create-load-balancer-policy
 create-load-balancer-tls-certificate
 create-local-gateway-route
-c
+create-local-gateway-route-table-vpc-association
+create-log-group
+create-log-stream
+create-log-subscription
+create-logger-definition
+create-logger-definition-version
+create-login-profile
+create-long-term-pricing
+cr
