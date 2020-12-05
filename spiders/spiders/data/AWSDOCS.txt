@@ -801,4 +801,13 @@ create-lag
 create-language-model
 create-launch-configuration
 create-launch-template
-create-launch-template-v
+create-launch-template-version
+create-layer
+create-lb-cookie-stickiness-policy
+create-listener
+create-load-balancer
+create-load-balancer-listeners
+create-load-balancer-policy
+create-load-balancer-tls-certificate
+create-local-gateway-route
+c
