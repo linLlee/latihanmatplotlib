@@ -818,4 +818,14 @@ create-logger-definition
 create-logger-definition-version
 create-login-profile
 create-long-term-pricing
-cr
+create-luna-client
+create-maintenance-window
+create-managed-prefix-list
+create-matchmaking-configuration
+create-matchmaking-rule-set
+create-medical-vocabulary
+create-members
+create-microsoft-ad
+create-mitigation-action
+create-ml-model
+crea
