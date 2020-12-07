@@ -836,3 +836,13 @@ create-model-explainability-job-definition
 create-model-package
 create-model-package-group
 create-model-quality-job-definition
+create-monitoring-schedule
+create-monitoring-subscription
+create-mount-target
+create-multipart-upload
+create-multiplex
+create-multiplex-program
+create-named-query
+create-nat-gateway
+create-network-acl
+crea
