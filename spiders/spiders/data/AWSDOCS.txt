@@ -845,4 +845,11 @@ create-multiplex-program
 create-named-query
 create-nat-gateway
 create-network-acl
-crea
+create-network-acl-entry
+create-network-insights-access-scope
+create-network-insights-path
+create-network-interface
+create-network-interface-permission
+create-network-profile
+create-nfs-file-share
+create-n
