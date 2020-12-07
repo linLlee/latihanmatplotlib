@@ -828,4 +828,11 @@ create-members
 create-microsoft-ad
 create-mitigation-action
 create-ml-model
-crea
+create-ml-transform
+create-mobile-device-access-rule
+create-model
+create-model-bias-job-definition
+create-model-explainability-job-definition
+create-model-package
+create-model-package-group
+create-model-quality-job-definition
