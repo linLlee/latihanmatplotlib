@@ -868,4 +868,15 @@ create-origin-endpoint
 create-origin-request-policy
 create-ota-update
 create-outbound-cross-cluster-search-connection
-create-packa
+create-package
+create-parallel-data
+create-parameter-group
+create-partition
+create-partition-index
+create-partner-event-source
+create-partner-input
+create-patch-baseline
+create-pipeline
+create-placement-group
+create-platform-application
+cre
