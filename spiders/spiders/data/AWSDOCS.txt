@@ -852,4 +852,11 @@ create-network-interface
 create-network-interface-permission
 create-network-profile
 create-nfs-file-share
-create-n
+create-notebook-instance
+create-notebook-instance-lifecycle-config
+create-notification
+create-notification-subscription
+create-object
+create-open-id-connect-provider
+create-ops-item
+create-ops-metadat
