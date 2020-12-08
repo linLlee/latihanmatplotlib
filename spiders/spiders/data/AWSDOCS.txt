@@ -859,4 +859,13 @@ create-notification-subscription
 create-object
 create-open-id-connect-provider
 create-ops-item
-create-ops-metadat
+create-ops-metadata
+create-option-group
+create-or-update-tags
+create-organization
+create-organizational-unit
+create-origin-endpoint
+create-origin-request-policy
+create-ota-update
+create-outbound-cross-cluster-search-connection
+create-packa
