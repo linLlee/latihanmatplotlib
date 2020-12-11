@@ -896,4 +896,13 @@ create-private-virtual-interface
 create-processing-job
 create-product
 create-profile
-create-progress-update-str
+create-progress-update-stream
+create-project
+create-project-version
+create-protection
+create-protection-group
+create-provisioned-product-plan
+create-provisioning-artifact
+create-provisioning-claim
+create-provisioning-template
+create-provision
