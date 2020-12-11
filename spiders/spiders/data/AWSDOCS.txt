@@ -879,4 +879,14 @@ create-patch-baseline
 create-pipeline
 create-placement-group
 create-platform-application
-cre
+create-platform-endpoint
+create-platform-version
+create-player-session
+create-player-sessions
+create-policy
+create-policy-version
+create-portfolio
+create-portfolio-share
+create-prepared-statement
+create-preset
+create-presig
