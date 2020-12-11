@@ -889,4 +889,11 @@ create-portfolio
 create-portfolio-share
 create-prepared-statement
 create-preset
-create-presig
+create-presigned-domain-url
+create-presigned-notebook-instance-url
+create-private-dns-namespace
+create-private-virtual-interface
+create-processing-job
+create-product
+create-profile
+create-progress-update-str
