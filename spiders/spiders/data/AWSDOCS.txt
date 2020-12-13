@@ -905,4 +905,11 @@ create-provisioned-product-plan
 create-provisioning-artifact
 create-provisioning-claim
 create-provisioning-template
-create-provision
+create-provisioning-template-version
+create-public-dns-namespace
+create-public-ipv4-pool
+create-public-key
+create-public-virtual-interface
+create-publishing-destination
+create-pull-request
+create-pull-request-
