@@ -921,3 +921,12 @@ create-queue
 create-rate-based-rule
 create-realtime-endpoint
 create-realtime-log-config
+create-receipt-filter
+create-receipt-rule
+create-receipt-rule-set
+create-recommender-configuration
+create-regex-match-set
+create-regex-pattern-set
+create-registry
+create-relational-database
+create-relational-database-from-sna
