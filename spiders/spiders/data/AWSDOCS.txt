@@ -912,4 +912,12 @@ create-public-key
 create-public-virtual-interface
 create-publishing-destination
 create-pull-request
-create-pull-request-
+create-pull-request-approval-rule
+create-pull-through-cache-rule
+create-push-template
+create-qualification-type
+create-query-logging-config
+create-queue
+create-rate-based-rule
+create-realtime-endpoint
+create-realtime-log-config
