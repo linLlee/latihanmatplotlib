@@ -936,4 +936,13 @@ create-replace-root-volume-task
 create-replication-group
 create-replication-instance
 create-replication-job
-create-replica
+create-replication-subnet-group
+create-replication-task
+create-report-group
+create-repository
+create-request-validator
+create-reserved-instances-listing
+create-resolver
+create-resource
+create-resource-data-sync
+creat
