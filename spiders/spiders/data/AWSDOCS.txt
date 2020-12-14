@@ -929,4 +929,11 @@ create-regex-match-set
 create-regex-pattern-set
 create-registry
 create-relational-database
-create-relational-database-from-sna
+create-relational-database-from-snapshot
+create-relational-database-snapshot
+create-remote-access-session
+create-replace-root-volume-task
+create-replication-group
+create-replication-instance
+create-replication-job
+create-replica
