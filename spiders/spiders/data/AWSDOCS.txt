@@ -945,4 +945,13 @@ create-reserved-instances-listing
 create-resolver
 create-resource
 create-resource-data-sync
-creat
+create-resource-definition
+create-resource-definition-version
+create-resource-group
+create-resource-server
+create-response-headers-policy
+create-rest-api
+create-restore-image-task
+create-return-shipping-label
+create-reusable-delegation-set
+c
