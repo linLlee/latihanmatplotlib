@@ -976,4 +976,12 @@ create-security-profile
 create-segment
 create-server
 create-service
-cre
+create-service-action
+create-service-linked-role
+create-service-specific-credential
+create-signaling-channel
+create-size-constraint-set
+create-skill-group
+create-slot-type-version
+create-smb-file-share
+c
