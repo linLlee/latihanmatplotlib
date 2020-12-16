@@ -965,4 +965,15 @@ create-saml-provider
 create-sample-findings
 create-sampling-rule
 create-scaling-plan
-create-sc
+create-scheduled-action
+create-scheduled-audit
+create-scheduling-policy
+create-schema
+create-script
+create-security-configuration
+create-security-group
+create-security-profile
+create-segment
+create-server
+create-service
+cre
