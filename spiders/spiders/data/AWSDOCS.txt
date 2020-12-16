@@ -954,4 +954,15 @@ create-rest-api
 create-restore-image-task
 create-return-shipping-label
 create-reusable-delegation-set
-c
+create-role
+create-role-alias
+create-room
+create-route
+create-route-table
+create-rule
+create-rule-group
+create-saml-provider
+create-sample-findings
+create-sampling-rule
+create-scaling-plan
+create-sc
