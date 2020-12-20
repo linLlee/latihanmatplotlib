@@ -991,4 +991,14 @@ create-snapshot-copy-grant
 create-snapshot-from-volume-recovery-point
 create-snapshot-schedule
 create-snapshots
-create-s
+create-software-update-job
+create-spot-datafeed-subscription
+create-sql-injection-match-set
+create-stack
+create-stack-instances
+create-stack-set
+create-stage
+create-state-machine
+create-storage-location
+create-store-image-task
+cr
