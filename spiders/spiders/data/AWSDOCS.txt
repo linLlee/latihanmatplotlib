@@ -984,4 +984,11 @@ create-size-constraint-set
 create-skill-group
 create-slot-type-version
 create-smb-file-share
-c
+create-sms-sandbox-phone-number
+create-sms-template
+create-snapshot
+create-snapshot-copy-grant
+create-snapshot-from-volume-recovery-point
+create-snapshot-schedule
+create-snapshots
+create-s
