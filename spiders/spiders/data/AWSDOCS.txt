@@ -1009,4 +1009,13 @@ create-streaming-distribution-with-tags
 create-streaming-url
 create-studio
 create-studio-lifecycle-config
-create-stu
+create-studio-session-mapping
+create-subnet
+create-subnet-cidr-reservation
+create-subnet-group
+create-subscriber
+create-subscription
+create-subscription-definition
+create-subscription-definition-version
+create-table
+create-
