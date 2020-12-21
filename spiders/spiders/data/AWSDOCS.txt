@@ -1001,4 +1001,12 @@ create-stage
 create-state-machine
 create-storage-location
 create-store-image-task
-cr
+create-stored-iscsi-volume
+create-stream
+create-stream-processor
+create-streaming-distribution
+create-streaming-distribution-with-tags
+create-streaming-url
+create-studio
+create-studio-lifecycle-config
+create-stu
