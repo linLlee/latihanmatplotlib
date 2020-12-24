@@ -1038,4 +1038,13 @@ create-topic-rule-destination
 create-traffic-mirror-filter
 create-traffic-mirror-filter-rule
 create-traffic-mirror-session
-create-traffic-m
+create-traffic-mirror-target
+create-traffic-policy
+create-traffic-policy-instance
+create-traffic-policy-version
+create-trail
+create-training-job
+create-transform-job
+create-transit-gateway
+create-transit-gateway-connect
+c
