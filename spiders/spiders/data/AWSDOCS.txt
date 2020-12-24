@@ -1018,4 +1018,16 @@ create-subscription
 create-subscription-definition
 create-subscription-definition-version
 create-table
-create-
+create-tag-option
+create-tags
+create-tape-pool
+create-tape-with-barcode
+create-tapes
+create-target-group
+create-task-set
+create-template
+create-test-grid-project
+create-test-grid-url
+create-thing
+create-thing-group
+create-t
