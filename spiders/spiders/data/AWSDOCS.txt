@@ -1030,4 +1030,12 @@ create-test-grid-project
 create-test-grid-url
 create-thing
 create-thing-group
-create-t
+create-thing-type
+create-threat-intel-set
+create-topic
+create-topic-rule
+create-topic-rule-destination
+create-traffic-mirror-filter
+create-traffic-mirror-filter-rule
+create-traffic-mirror-session
+create-traffic-m
