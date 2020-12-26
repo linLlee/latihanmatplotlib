@@ -1052,4 +1052,14 @@ create-transit-gateway-multicast-domain
 create-transit-gateway-peering-attachment
 create-transit-gateway-prefix-list-reference
 create-transit-gateway-route
-create-transit-gateway-rout
+create-transit-gateway-route-table
+create-transit-gateway-vpc-attachment
+create-transit-virtual-interface
+create-trial
+create-trial-component
+create-trigger
+create-trust
+create-type
+create-typed-link-facet
+create-unreferenced-merge-commit
+create-updated
