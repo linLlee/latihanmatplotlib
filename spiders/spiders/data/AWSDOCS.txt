@@ -1047,4 +1047,9 @@ create-training-job
 create-transform-job
 create-transit-gateway
 create-transit-gateway-connect
-c
+create-transit-gateway-connect-peer
+create-transit-gateway-multicast-domain
+create-transit-gateway-peering-attachment
+create-transit-gateway-prefix-list-reference
+create-transit-gateway-route
+create-transit-gateway-rout
