@@ -1062,4 +1062,15 @@ create-trust
 create-type
 create-typed-link-facet
 create-unreferenced-merge-commit
-create-updated
+create-updated-image
+create-updated-workspace-image
+create-upload
+create-usage-limit
+create-usage-plan
+create-usage-plan-key
+create-usage-report-subscription
+create-user
+create-user-defined-function
+create-user-group
+create-user-import-job
+crea
