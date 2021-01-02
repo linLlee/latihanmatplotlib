@@ -1073,4 +1073,15 @@ create-user
 create-user-defined-function
 create-user-group
 create-user-import-job
-crea
+create-user-pool
+create-user-pool-client
+create-user-pool-domain
+create-user-profile
+create-vault
+create-virtual-mfa-device
+create-vocabulary
+create-vocabulary-filter
+create-voice-template
+create-volume
+create-vpc
+cr
