@@ -1090,4 +1090,12 @@ create-vpc-endpoint-connection-notification
 create-vpc-endpoint-service-configuration
 create-vpc-link
 create-vpc-peering-authorization
-creat
+create-vpc-peering-connection
+create-vpce-configuration
+create-vpn-connection
+create-vpn-connection-route
+create-vpn-gateway
+create-web-acl
+create-web-acl-migration-stack
+create-webhook
+create-work-group
