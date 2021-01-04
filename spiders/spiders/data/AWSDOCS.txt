@@ -1084,4 +1084,10 @@ create-vocabulary-filter
 create-voice-template
 create-volume
 create-vpc
-cr
+create-vpc-association-authorization
+create-vpc-endpoint
+create-vpc-endpoint-connection-notification
+create-vpc-endpoint-service-configuration
+create-vpc-link
+create-vpc-peering-authorization
+creat
