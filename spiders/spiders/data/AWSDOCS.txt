@@ -1099,3 +1099,13 @@ create-web-acl
 create-web-acl-migration-stack
 create-webhook
 create-work-group
+create-worker-block
+create-workflow
+create-workforce
+create-workspace-bundle
+create-workspaces
+create-workteam
+create-xss-match-set
+credential-helper
+deactivate-event-source
+deactivate-ke
