@@ -1108,4 +1108,13 @@ create-workteam
 create-xss-match-set
 credential-helper
 deactivate-event-source
-deactivate-ke
+deactivate-key-signing-key
+deactivate-mfa-device
+deactivate-pipeline
+deactivate-type
+deactivate-user
+deauthorize-connection
+deauthorize-data-share
+decline-handshake
+decline-invitations
+decode-authorization-message
