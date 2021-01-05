@@ -1118,3 +1118,11 @@ deauthorize-data-share
 decline-handshake
 decline-invitations
 decode-authorization-message
+decrease-node-groups-in-global-replication-group
+decrease-replica-count
+decrease-replication-factor
+decrease-stream-retention-period
+decrypt
+define-analysis-scheme
+define-expression
+defin
