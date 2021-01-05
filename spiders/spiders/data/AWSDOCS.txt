@@ -1125,4 +1125,14 @@ decrease-stream-retention-period
 decrypt
 define-analysis-scheme
 define-expression
-defin
+define-index-field
+define-suggester
+delete-access-control-rule
+delete-access-key
+delete-access-point
+delete-account-alias
+delete-account-audit-configuration
+delete-account-password-policy
+delete-account-setting
+delete-action
+delete-a
