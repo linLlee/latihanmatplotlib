@@ -1135,4 +1135,14 @@ delete-account-audit-configuration
 delete-account-password-policy
 delete-account-setting
 delete-action
-delete-a
+delete-activation
+delete-activity
+delete-address-book
+delete-adm-channel
+delete-aggregation-authorization
+delete-alarm
+delete-alarms
+delete-algorithm
+delete-alias
+delete-analysis-scheme
+delete-anomaly-detector
