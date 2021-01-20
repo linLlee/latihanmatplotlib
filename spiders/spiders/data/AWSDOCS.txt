@@ -1146,3 +1146,12 @@ delete-algorithm
 delete-alias
 delete-analysis-scheme
 delete-anomaly-detector
+delete-anomaly-monitor
+delete-anomaly-subscription
+delete-api-cache
+delete-api-destination
+delete-api-key
+delete-apns-channel
+delete-apns-sandbox-channel
+delete-apns-voip-channel
+delete-apns-voip-sandbox-chann
