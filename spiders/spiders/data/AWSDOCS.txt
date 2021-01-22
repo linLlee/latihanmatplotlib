@@ -1154,4 +1154,12 @@ delete-api-key
 delete-apns-channel
 delete-apns-sandbox-channel
 delete-apns-voip-channel
-delete-apns-voip-sandbox-chann
+delete-apns-voip-sandbox-channel
+delete-app
+delete-app-block
+delete-app-image-config
+delete-app-launch-configuration
+delete-app-replication-configuration
+delete-app-validation-configuration
+delete-application
+delete-applic
