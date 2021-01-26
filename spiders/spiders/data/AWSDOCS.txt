@@ -1179,4 +1179,14 @@ delete-attributes
 delete-audit-suppression
 delete-authentication-profile
 delete-authorizer
-delete-auto-scal
+delete-auto-scaling-group
+delete-auto-snapshot
+delete-automatic-tape-creation-policy
+delete-backup
+delete-baidu-channel
+delete-bandwidth-rate-limit
+delete-base-path-mapping
+delete-batch-prediction
+delete-bgp-peer
+delete-billing-group
+delete-bluepr
