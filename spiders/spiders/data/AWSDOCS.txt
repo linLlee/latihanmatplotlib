@@ -1162,4 +1162,10 @@ delete-app-launch-configuration
 delete-app-replication-configuration
 delete-app-validation-configuration
 delete-application
-delete-applic
+delete-application-cloud-watch-logging-option
+delete-application-input-processing-configuration
+delete-application-output
+delete-application-reference-data-source
+delete-application-version
+delete-applications
+delete-approv
