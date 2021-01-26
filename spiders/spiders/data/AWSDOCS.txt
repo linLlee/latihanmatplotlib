@@ -1168,4 +1168,15 @@ delete-application-output
 delete-application-reference-data-source
 delete-application-version
 delete-applications
-delete-approv
+delete-approval-rule-template
+delete-archive
+delete-artifact
+delete-assessment-run
+delete-assessment-target
+delete-assessment-template
+delete-association
+delete-attributes
+delete-audit-suppression
+delete-authentication-profile
+delete-authorizer
+delete-auto-scal
