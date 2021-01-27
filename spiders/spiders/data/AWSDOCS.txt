@@ -1189,4 +1189,15 @@ delete-base-path-mapping
 delete-batch-prediction
 delete-bgp-peer
 delete-billing-group
-delete-bluepr
+delete-blueprint
+delete-bot
+delete-bot-alias
+delete-bot-channel-association
+delete-bot-version
+delete-branch
+delete-broker
+delete-bucket
+delete-bucket-access-key
+delete-bucket-analytics-configuration
+delete-bucket-cors
+delete-buck
