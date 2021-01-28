@@ -1200,4 +1200,10 @@ delete-bucket
 delete-bucket-access-key
 delete-bucket-analytics-configuration
 delete-bucket-cors
-delete-buck
+delete-bucket-encryption
+delete-bucket-intelligent-tiering-configuration
+delete-bucket-inventory-configuration
+delete-bucket-lifecycle
+delete-bucket-metrics-configuration
+delete-bucket-ownership-controls
+delete-bucket-po
