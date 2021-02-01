@@ -1216,4 +1216,13 @@ delete-build
 delete-build-batch
 delete-business-report-schedule
 delete-byte-match-set
-delete-ca-cer
+delete-ca-certificate
+delete-cache-cluster
+delete-cache-parameter-group
+delete-cache-policy
+delete-cache-security-group
+delete-cache-subnet-group
+delete-call-analytics-category
+delete-call-analytics-job
+delete-campaign
+delete-capacity
