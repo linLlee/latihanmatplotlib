@@ -1225,4 +1225,13 @@ delete-cache-subnet-group
 delete-call-analytics-category
 delete-call-analytics-job
 delete-campaign
-delete-capacity
+delete-capacity-provider
+delete-carrier-gateway
+delete-certificate
+delete-change-set
+delete-channel
+delete-chap-credentials
+delete-classifier
+delete-client-certificate
+delete-client-vpn-endpoint
+delete-client-vpn-route
