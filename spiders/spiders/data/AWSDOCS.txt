@@ -1206,4 +1206,14 @@ delete-bucket-inventory-configuration
 delete-bucket-lifecycle
 delete-bucket-metrics-configuration
 delete-bucket-ownership-controls
-delete-bucket-po
+delete-bucket-policy
+delete-bucket-replication
+delete-bucket-tagging
+delete-bucket-website
+delete-budget
+delete-budget-action
+delete-build
+delete-build-batch
+delete-business-report-schedule
+delete-byte-match-set
+delete-ca-cer
