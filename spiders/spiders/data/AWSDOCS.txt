@@ -1235,3 +1235,11 @@ delete-classifier
 delete-client-certificate
 delete-client-vpn-endpoint
 delete-client-vpn-route
+delete-cloud-front-origin-access-identity
+delete-cluster
+delete-cluster-parameter-group
+delete-cluster-security-group
+delete-cluster-snapshot
+delete-cluster-subnet-group
+delete-code-repository
+delete-code
