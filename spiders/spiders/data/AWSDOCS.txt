@@ -1249,4 +1249,11 @@ delete-column-statistics-for-table
 delete-comment
 delete-comment-content
 delete-compute-environment
-delete-conditi
+delete-conditional-forwarder
+delete-conference-provider
+delete-config-rule
+delete-configuration-aggregator
+delete-configuration-recorder
+delete-configuration-set
+delete-configuration-set-event-destination
+delete-configur
