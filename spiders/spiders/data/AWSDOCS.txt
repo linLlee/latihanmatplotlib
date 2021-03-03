@@ -1256,4 +1256,14 @@ delete-configuration-aggregator
 delete-configuration-recorder
 delete-configuration-set
 delete-configuration-set-event-destination
-delete-configur
+delete-configuration-set-tracking-options
+delete-configuration-template
+delete-conformance-pack
+delete-connection
+delete-connection-alias
+delete-connector-definition
+delete-constraint
+delete-contact
+delete-contact-method
+delete-container
+del
