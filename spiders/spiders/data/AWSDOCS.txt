@@ -1242,4 +1242,11 @@ delete-cluster-security-group
 delete-cluster-snapshot
 delete-cluster-subnet-group
 delete-code-repository
-delete-code
+delete-code-signing-config
+delete-collection
+delete-column-statistics-for-partition
+delete-column-statistics-for-table
+delete-comment
+delete-comment-content
+delete-compute-environment
+delete-conditi
