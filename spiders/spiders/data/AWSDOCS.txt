@@ -1275,4 +1275,12 @@ delete-cors-policy
 delete-cost-category-definition
 delete-crawler
 delete-custom-action-type
-delete-custom
+delete-custom-availability-zone
+delete-custom-db-engine-version
+delete-custom-key-store
+delete-custom-metadata
+delete-custom-metric
+delete-custom-verification-email-template
+delete-customer-gateway
+delete-dashboards
+delete
