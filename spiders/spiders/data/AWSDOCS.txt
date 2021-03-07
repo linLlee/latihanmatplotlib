@@ -1283,4 +1283,13 @@ delete-custom-metric
 delete-custom-verification-email-template
 delete-customer-gateway
 delete-dashboards
-delete
+delete-data-catalog
+delete-data-quality-job-definition
+delete-data-source
+delete-database
+delete-dataset
+delete-db-cluster
+delete-db-cluster-endpoint
+delete-db-cluster-parameter-group
+delete-db-cluster-snapshot
+delete-db-inst
