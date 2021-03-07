@@ -1266,4 +1266,13 @@ delete-constraint
 delete-contact
 delete-contact-method
 delete-container
-del
+delete-container-image
+delete-container-policy
+delete-container-service
+delete-context
+delete-core-definition
+delete-cors-policy
+delete-cost-category-definition
+delete-crawler
+delete-custom-action-type
+delete-custom
