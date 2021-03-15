@@ -1292,4 +1292,13 @@ delete-db-cluster
 delete-db-cluster-endpoint
 delete-db-cluster-parameter-group
 delete-db-cluster-snapshot
-delete-db-inst
+delete-db-instance
+delete-db-instance-automated-backup
+delete-db-parameter-group
+delete-db-proxy
+delete-db-proxy-endpoint
+delete-db-security-group
+delete-db-snapshot
+delete-db-subnet-group
+delete-delivery-channel
+delete-deliv
