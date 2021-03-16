@@ -1301,4 +1301,14 @@ delete-db-security-group
 delete-db-snapshot
 delete-db-subnet-group
 delete-delivery-channel
-delete-deliv
+delete-delivery-stream
+delete-deployment
+delete-deployment-config
+delete-deployment-group
+delete-destination
+delete-detector
+delete-dev-endpoint
+delete-device
+delete-device-definition
+delete-device-fleet
+delete-device-poo
