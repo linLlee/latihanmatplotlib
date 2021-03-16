@@ -1311,4 +1311,12 @@ delete-dev-endpoint
 delete-device
 delete-device-definition
 delete-device-fleet
-delete-device-poo
+delete-device-pool
+delete-device-usage-data
+delete-dhcp-options
+delete-dimension
+delete-direct-connect-gateway
+delete-direct-connect-gateway-association
+delete-direct-connect-gateway-association-proposal
+delete-directory
+delete-directory-confi
