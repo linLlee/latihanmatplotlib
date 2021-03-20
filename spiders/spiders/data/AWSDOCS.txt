@@ -1319,4 +1319,14 @@ delete-direct-connect-gateway
 delete-direct-connect-gateway-association
 delete-direct-connect-gateway-association-proposal
 delete-directory
-delete-directory-confi
+delete-directory-config
+delete-disk
+delete-disk-snapshot
+delete-distribution
+delete-document
+delete-document-classifier
+delete-documentation-part
+delete-documentation-version
+delete-domain
+delete-domain-configuration
+delete-
