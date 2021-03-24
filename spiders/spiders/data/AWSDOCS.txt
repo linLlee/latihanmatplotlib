@@ -1329,4 +1329,13 @@ delete-documentation-part
 delete-documentation-version
 delete-domain
 delete-domain-configuration
-delete-
+delete-domain-entry
+delete-domain-name
+delete-dynamic-thing-group
+delete-egress-only-internet-gateway
+delete-elasticsearch-domain
+delete-elasticsearch-service-role
+delete-email-channel
+delete-email-monitoring-configuration
+delete-email-template
+del
