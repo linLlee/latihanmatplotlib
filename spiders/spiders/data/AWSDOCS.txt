@@ -1347,4 +1347,15 @@ delete-environment
 delete-environment-configuration
 delete-environment-membership
 delete-evaluation
-delete-evaluation-resul
+delete-evaluation-results
+delete-event-bus
+delete-event-data-store
+delete-event-source-mapping
+delete-event-stream
+delete-event-subscription
+delete-experiment
+delete-expression
+delete-faces
+delete-facet
+delete-feature-group
+del
