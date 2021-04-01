@@ -1338,4 +1338,13 @@ delete-elasticsearch-service-role
 delete-email-channel
 delete-email-monitoring-configuration
 delete-email-template
-del
+delete-endpoint
+delete-endpoint-access
+delete-endpoint-config
+delete-entitlement
+delete-entity-recognizer
+delete-environment
+delete-environment-configuration
+delete-environment-membership
+delete-evaluation
+delete-evaluation-resul
