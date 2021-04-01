@@ -1358,4 +1358,13 @@ delete-expression
 delete-faces
 delete-facet
 delete-feature-group
-del
+delete-field-level-encryption-config
+delete-field-level-encryption-profile
+delete-file
+delete-file-share
+delete-file-system
+delete-file-system-policy
+delete-filter
+delete-fleet
+delete-fleet-locations
+delete-fl
