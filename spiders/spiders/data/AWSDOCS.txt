@@ -1377,4 +1377,12 @@ delete-fpga-image
 delete-function
 delete-function-code-signing-config
 delete-function-concurrency
-delete-fun
+delete-function-definition
+delete-function-event-invoke-config
+delete-game-server-group
+delete-game-session-queue
+delete-gateway
+delete-gateway-group
+delete-gateway-response
+delete-gcm-channel
+delete-geo-match-set
