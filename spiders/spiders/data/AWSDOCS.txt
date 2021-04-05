@@ -1386,3 +1386,15 @@ delete-gateway-group
 delete-gateway-response
 delete-gcm-channel
 delete-geo-match-set
+delete-git-hub-account-token
+delete-global-cluster
+delete-global-replication-group
+delete-graphql-api
+delete-group
+delete-group-policy
+delete-hapg
+delete-health-check
+delete-hit
+delete-hosted-zone
+delete-hsm
+delete-hsm-client-certifica
