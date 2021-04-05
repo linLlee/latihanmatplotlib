@@ -1397,4 +1397,15 @@ delete-health-check
 delete-hit
 delete-hosted-zone
 delete-hsm
-delete-hsm-client-certifica
+delete-hsm-client-certificate
+delete-hsm-configuration
+delete-human-task-ui
+delete-identities
+delete-identity
+delete-identity-policy
+delete-identity-pool
+delete-identity-provider
+delete-image
+delete-image-builder
+delete-image-permissions
+de
