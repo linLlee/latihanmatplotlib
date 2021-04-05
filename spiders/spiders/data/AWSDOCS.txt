@@ -1408,4 +1408,13 @@ delete-identity-provider
 delete-image
 delete-image-builder
 delete-image-permissions
+delete-image-version
+delete-imported-key-material
+delete-in-app-template
+delete-inbound-cross-cluster-search-connection
+delete-index-field
+delete-input
+delete-input-security-group
+delete-insight-rules
+delete-installation-media
 de
