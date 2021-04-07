@@ -1441,3 +1441,13 @@ delete-job-queue
 delete-job-template
 delete-journey
 delete-key-group
+delete-key-pair
+delete-key-signing-key
+delete-known-host-keys
+delete-labels
+delete-lag
+delete-language-model
+delete-launch-configuration
+delete-launch-template
+delete-launch-template-versions
+del
