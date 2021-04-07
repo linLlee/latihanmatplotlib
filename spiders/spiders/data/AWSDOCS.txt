@@ -1417,4 +1417,14 @@ delete-input
 delete-input-security-group
 delete-insight-rules
 delete-installation-media
-de
+delete-instance
+delete-instance-event-window
+delete-instance-profile
+delete-instance-snapshot
+delete-integration
+delete-integration-response
+delete-intent
+delete-intent-version
+delete-interconnect
+delete-internet-gateway
+d
