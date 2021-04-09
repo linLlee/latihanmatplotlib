@@ -1450,4 +1450,13 @@ delete-language-model
 delete-launch-configuration
 delete-launch-template
 delete-launch-template-versions
-del
+delete-layer
+delete-layer-version
+delete-lexicon
+delete-lifecycle-hook
+delete-lifecycle-policy
+delete-listener
+delete-load-balancer
+delete-load-balancer-listeners
+delete-load-balancer-policy
+delet
