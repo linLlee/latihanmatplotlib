@@ -1492,4 +1492,12 @@ delete-mobile-device-access-rule
 delete-model
 delete-model-bias-job-definition
 delete-model-explainability-job-definition
-delete-mo
+delete-model-package
+delete-model-package-group
+delete-model-package-group-policy
+delete-model-quality-job-definition
+delete-monitoring-schedule
+delete-monitoring-subscription
+delete-mount-target
+delete-multiplex
+delete-multiplex-progra
