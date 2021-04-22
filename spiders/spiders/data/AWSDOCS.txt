@@ -1474,4 +1474,14 @@ delete-maintenance-window
 delete-managed-prefix-list
 delete-matchmaking-configuration
 delete-matchmaking-rule-set
-delete-medical-transcription-j
+delete-medical-transcription-job
+delete-medical-vocabulary
+delete-members
+delete-message
+delete-message-batch
+delete-method
+delete-method-response
+delete-metric-filter
+delete-metric-policy
+delete-metric-stream
+delete-m
