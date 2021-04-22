@@ -1509,4 +1509,11 @@ delete-network-acl-entry
 delete-network-insights-access-scope
 delete-network-insights-access-scope-analysis
 delete-network-insights-analysis
-delete-ne
+delete-network-insights-path
+delete-network-interface
+delete-network-interface-permission
+delete-network-profile
+delete-notebook-instance
+delete-notebook-instance-lifecycle-config
+delete-notification
+delete-notifi
