@@ -1467,4 +1467,11 @@ delete-log-stream
 delete-log-subscription
 delete-logger-definition
 delete-logging-configuration
-delete-login-pr
+delete-login-profile
+delete-luna-client
+delete-mailbox-permissions
+delete-maintenance-window
+delete-managed-prefix-list
+delete-matchmaking-configuration
+delete-matchmaking-rule-set
+delete-medical-transcription-j
