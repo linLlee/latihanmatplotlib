@@ -1484,4 +1484,12 @@ delete-method-response
 delete-metric-filter
 delete-metric-policy
 delete-metric-stream
-delete-m
+delete-mitigation-action
+delete-ml-model
+delete-ml-transform
+delete-mobile-device-access-override
+delete-mobile-device-access-rule
+delete-model
+delete-model-bias-job-definition
+delete-model-explainability-job-definition
+delete-mo
