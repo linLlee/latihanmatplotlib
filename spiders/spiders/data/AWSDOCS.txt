@@ -1500,4 +1500,13 @@ delete-monitoring-schedule
 delete-monitoring-subscription
 delete-mount-target
 delete-multiplex
-delete-multiplex-progra
+delete-multiplex-program
+delete-named-query
+delete-namespace
+delete-nat-gateway
+delete-network-acl
+delete-network-acl-entry
+delete-network-insights-access-scope
+delete-network-insights-access-scope-analysis
+delete-network-insights-analysis
+delete-ne
