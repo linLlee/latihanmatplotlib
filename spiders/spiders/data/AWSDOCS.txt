@@ -1516,4 +1516,13 @@ delete-network-profile
 delete-notebook-instance
 delete-notebook-instance-lifecycle-config
 delete-notification
-delete-notifi
+delete-notification-configuration
+delete-notification-subscription
+delete-object
+delete-object-tagging
+delete-objects
+delete-open-id-connect-provider
+delete-ops-metadata
+delete-option-group
+delete-organization
+delete-organization-config-ru
