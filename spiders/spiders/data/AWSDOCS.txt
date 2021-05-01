@@ -1525,4 +1525,12 @@ delete-open-id-connect-provider
 delete-ops-metadata
 delete-option-group
 delete-organization
-delete-organization-config-ru
+delete-organization-config-rule
+delete-organization-conformance-pack
+delete-organizational-unit
+delete-origin-endpoint
+delete-origin-request-policy
+delete-ota-update
+delete-outbound-cross-cluster-search-connection
+delete-package
+dele
