@@ -1543,4 +1543,15 @@ delete-partner
 delete-partner-event-source
 delete-patch-baseline
 delete-pending-aggregation-request
-delete-p
+delete-permission-policy
+delete-pipeline
+delete-placement-group
+delete-platform-application
+delete-platform-version
+delete-policy
+delete-policy-version
+delete-portfolio
+delete-portfolio-share
+delete-prepared-statement
+delete-preset
+d
