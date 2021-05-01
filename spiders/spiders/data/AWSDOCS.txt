@@ -1579,4 +1579,12 @@ delete-query-logging-config
 delete-queue
 delete-queued-reserved-instances
 delete-rate-based-rule
-delete-
+delete-realtime-endpoint
+delete-realtime-log-config
+delete-receipt-filter
+delete-receipt-rule
+delete-receipt-rule-set
+delete-recommender-configuration
+delete-regex-match-set
+delete-regex-pattern-set
+delete-re
