@@ -1563,4 +1563,11 @@ delete-protection
 delete-protection-group
 delete-provisioned-concurrency-config
 delete-provisioned-product-plan
-delete-provision
+delete-provisioning-artifact
+delete-provisioning-template
+delete-provisioning-template-version
+delete-public-access-block
+delete-public-ipv4-pool
+delete-public-key
+delete-publishing-destination
+delete-pull-request-approval-
