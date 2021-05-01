@@ -1570,4 +1570,13 @@ delete-public-access-block
 delete-public-ipv4-pool
 delete-public-key
 delete-publishing-destination
-delete-pull-request-approval-
+delete-pull-request-approval-rule
+delete-pull-through-cache-rule
+delete-push-template
+delete-qualification-type
+delete-query-definition
+delete-query-logging-config
+delete-queue
+delete-queued-reserved-instances
+delete-rate-based-rule
+delete-
