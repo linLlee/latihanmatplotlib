@@ -1554,4 +1554,13 @@ delete-portfolio
 delete-portfolio-share
 delete-prepared-statement
 delete-preset
-d
+delete-product
+delete-profile
+delete-progress-update-stream
+delete-project
+delete-project-version
+delete-protection
+delete-protection-group
+delete-provisioned-concurrency-config
+delete-provisioned-product-plan
+delete-provision
