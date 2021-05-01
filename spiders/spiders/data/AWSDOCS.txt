@@ -1533,4 +1533,14 @@ delete-origin-request-policy
 delete-ota-update
 delete-outbound-cross-cluster-search-connection
 delete-package
-dele
+delete-parallel-data
+delete-parameter
+delete-parameter-group
+delete-parameters
+delete-partition
+delete-partition-index
+delete-partner
+delete-partner-event-source
+delete-patch-baseline
+delete-pending-aggregation-request
+delete-p
