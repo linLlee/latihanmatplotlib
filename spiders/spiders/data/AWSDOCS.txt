@@ -1604,4 +1604,14 @@ delete-replication-task-assessment-run
 delete-report
 delete-report-definition
 delete-report-group
-delete-rep
+delete-repository
+delete-repository-policy
+delete-request-validator
+delete-reservation
+delete-resolver
+delete-resource
+delete-resource-config
+delete-resource-data-sync
+delete-resource-definition
+delete-resource-policy
+delete-res
