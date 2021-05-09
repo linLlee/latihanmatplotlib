@@ -1622,4 +1622,15 @@ delete-retention-configuration
 delete-retention-policy
 delete-reusable-delegation-set
 delete-role
-delete-role
+delete-role-alias
+delete-role-permissions-boundary
+delete-role-policy
+delete-room
+delete-room-skill-parameter
+delete-route
+delete-route-table
+delete-rule
+delete-rule-group
+delete-run
+delete-saml-provider
+delete-sampling-
