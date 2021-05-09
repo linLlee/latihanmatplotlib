@@ -1614,4 +1614,12 @@ delete-resource-config
 delete-resource-data-sync
 delete-resource-definition
 delete-resource-policy
-delete-res
+delete-resource-server
+delete-resources-by-external-id
+delete-response-headers-policy
+delete-rest-api
+delete-retention-configuration
+delete-retention-policy
+delete-reusable-delegation-set
+delete-role
+delete-role
