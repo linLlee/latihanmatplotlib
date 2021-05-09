@@ -1587,4 +1587,11 @@ delete-receipt-rule-set
 delete-recommender-configuration
 delete-regex-match-set
 delete-regex-pattern-set
-delete-re
+delete-registration-code
+delete-registry
+delete-registry-policy
+delete-relational-database
+delete-relational-database-snapshot
+delete-remediation-configuration
+delete-remediation-exceptions
+delete-remote-access-s
