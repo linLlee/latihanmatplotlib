@@ -1633,4 +1633,14 @@ delete-rule
 delete-rule-group
 delete-run
 delete-saml-provider
-delete-sampling-
+delete-sampling-rule
+delete-scaling-plan
+delete-scaling-policy
+delete-schedule
+delete-scheduled-action
+delete-scheduled-audit
+delete-scheduling-policy
+delete-schema
+delete-schema-versions
+delete-script
+delete-security-configurati
