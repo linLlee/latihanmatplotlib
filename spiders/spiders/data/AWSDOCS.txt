@@ -1661,4 +1661,12 @@ delete-size-constraint-set
 delete-skill-authorization
 delete-skill-group
 delete-slot-type
-delet
+delete-slot-type-version
+delete-sms-channel
+delete-sms-sandbox-phone-number
+delete-sms-template
+delete-snapshot
+delete-snapshot-copy-grant
+delete-snapshot-schedule
+delete-source-credentials
+delete-spot-dat
