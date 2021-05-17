@@ -1711,4 +1711,11 @@ delete-thing-type
 delete-threat-intel-set
 delete-topic
 delete-topic-rule
-delete-topic-r
+delete-topic-rule-destination
+delete-traffic-mirror-filter
+delete-traffic-mirror-filter-rule
+delete-traffic-mirror-session
+delete-traffic-mirror-target
+delete-traffic-policy
+delete-traffic-policy-instance
+dele
