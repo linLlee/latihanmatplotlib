@@ -1688,4 +1688,16 @@ delete-subnet
 delete-subnet-cidr-reservation
 delete-subnet-group
 delete-subscriber
-delete-subscr
+delete-subscription-definition
+delete-subscription-filter
+delete-suggester
+delete-table
+delete-table-version
+delete-tag-option
+delete-tags
+delete-tags-for-domain
+delete-tape
+delete-tape-archive
+delete-tape-pool
+delete-target-group
+de
