@@ -1669,4 +1669,14 @@ delete-snapshot
 delete-snapshot-copy-grant
 delete-snapshot-schedule
 delete-source-credentials
-delete-spot-dat
+delete-spot-datafeed-subscription
+delete-sql-injection-match-set
+delete-ssh-public-key
+delete-stack
+delete-stack-instances
+delete-stack-set
+delete-stage
+delete-state-machine
+delete-stored-query
+delete-stream
+delete-stream-processor
