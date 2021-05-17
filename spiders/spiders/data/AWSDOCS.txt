@@ -1700,4 +1700,15 @@ delete-tape
 delete-tape-archive
 delete-tape-pool
 delete-target-group
-de
+delete-task-set
+delete-template
+delete-terminology
+delete-test-grid-project
+delete-thing
+delete-thing-group
+delete-thing-shadow
+delete-thing-type
+delete-threat-intel-set
+delete-topic
+delete-topic-rule
+delete-topic-r
