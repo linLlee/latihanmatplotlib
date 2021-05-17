@@ -1680,3 +1680,12 @@ delete-state-machine
 delete-stored-query
 delete-stream
 delete-stream-processor
+delete-streaming-distribution
+delete-studio
+delete-studio-lifecycle-config
+delete-studio-session-mapping
+delete-subnet
+delete-subnet-cidr-reservation
+delete-subnet-group
+delete-subscriber
+delete-subscr
