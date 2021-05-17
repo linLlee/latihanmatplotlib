@@ -1653,3 +1653,12 @@ delete-server-certificate
 delete-service
 delete-service-action
 delete-service-linked-role
+delete-service-specific-credential
+delete-session
+delete-signaling-channel
+delete-signing-certificate
+delete-size-constraint-set
+delete-skill-authorization
+delete-skill-group
+delete-slot-type
+delet
