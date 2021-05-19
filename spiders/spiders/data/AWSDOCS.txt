@@ -1718,4 +1718,11 @@ delete-traffic-mirror-session
 delete-traffic-mirror-target
 delete-traffic-policy
 delete-traffic-policy-instance
-dele
+delete-trail
+delete-transcription-job
+delete-transit-gateway
+delete-transit-gateway-connect
+delete-transit-gateway-connect-peer
+delete-transit-gateway-multicast-domain
+delete-transit-gateway-peering-attachment
+delete-transit-ga
