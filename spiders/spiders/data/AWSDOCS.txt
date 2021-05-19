@@ -1725,4 +1725,13 @@ delete-transit-gateway-connect
 delete-transit-gateway-connect-peer
 delete-transit-gateway-multicast-domain
 delete-transit-gateway-peering-attachment
-delete-transit-ga
+delete-transit-gateway-prefix-list-reference
+delete-transit-gateway-route
+delete-transit-gateway-route-table
+delete-transit-gateway-vpc-attachment
+delete-trial
+delete-trial-component
+delete-trigger
+delete-trust
+delete-type
+delete-typed-link-fac
