@@ -1809,4 +1809,12 @@ deregister-game-server
 deregister-image
 deregister-instance
 deregister-instance-event-notification-attributes
-deregister-instances-from-load
+deregister-instances-from-load-balancer
+deregister-job-definition
+deregister-mail-domain
+deregister-managed-instance
+deregister-on-premises-instance
+deregister-patch-baseline-for-patch-group
+deregister-rds-db-instance
+deregister-scalable-target
+dere
