@@ -1783,4 +1783,14 @@ delete-worker-block
 delete-workflow
 delete-workforce
 delete-workspace-bundle
-delete-wo
+delete-workspace-image
+delete-workteam
+delete-xss-match-set
+deliver-config-snapshot
+deploy
+deprecate-activity-type
+deprecate-domain
+deprecate-thing-type
+deprecate-workflow-type
+deprovision-byoip-cidr
+deprovision-ipam-po
