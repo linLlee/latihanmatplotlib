@@ -1764,4 +1764,11 @@ delete-voice-channel
 delete-voice-template
 delete-volume
 delete-vpc
-delete-vpc-associati
+delete-vpc-association-authorization
+delete-vpc-endpoint-connection-notifications
+delete-vpc-endpoint-service-configurations
+delete-vpc-endpoints
+delete-vpc-link
+delete-vpc-peering-authorization
+delete-vpc-peering-connection
+delet
