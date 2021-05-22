@@ -1754,4 +1754,14 @@ delete-user-profile
 delete-utterances
 delete-v2-logging-level
 delete-vault
-delete-vault-access-poli
+delete-vault-access-policy
+delete-vault-notifications
+delete-virtual-interface
+delete-virtual-mfa-device
+delete-vocabulary
+delete-vocabulary-filter
+delete-voice-channel
+delete-voice-template
+delete-volume
+delete-vpc
+delete-vpc-associati
