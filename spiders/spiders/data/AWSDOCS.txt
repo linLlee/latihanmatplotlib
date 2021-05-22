@@ -1802,4 +1802,11 @@ deregister-db-proxy-targets
 deregister-delegated-administrator
 deregister-devices
 deregister-ecs-cluster
-de
+deregister-elastic-ip
+deregister-event-topic
+deregister-from-work-mail
+deregister-game-server
+deregister-image
+deregister-instance
+deregister-instance-event-notification-attributes
+deregister-instances-from-load
