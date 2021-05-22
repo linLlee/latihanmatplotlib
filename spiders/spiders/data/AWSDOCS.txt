@@ -1744,3 +1744,14 @@ delete-user
 delete-user-attributes
 delete-user-defined-function
 delete-user-endpoints
+delete-user-group
+delete-user-permissions-boundary
+delete-user-policy
+delete-user-pool
+delete-user-pool-client
+delete-user-pool-domain
+delete-user-profile
+delete-utterances
+delete-v2-logging-level
+delete-vault
+delete-vault-access-poli
