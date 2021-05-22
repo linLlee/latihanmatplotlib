@@ -1771,4 +1771,16 @@ delete-vpc-endpoints
 delete-vpc-link
 delete-vpc-peering-authorization
 delete-vpc-peering-connection
-delet
+delete-vpce-configuration
+delete-vpn-connection
+delete-vpn-connection-route
+delete-vpn-gateway
+delete-warm-pool
+delete-web-acl
+delete-webhook
+delete-work-group
+delete-worker-block
+delete-workflow
+delete-workforce
+delete-workspace-bundle
+delete-wo
