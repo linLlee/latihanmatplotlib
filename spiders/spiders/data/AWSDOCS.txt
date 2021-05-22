@@ -1734,4 +1734,13 @@ delete-trial-component
 delete-trigger
 delete-trust
 delete-type
-delete-typed-link-fac
+delete-typed-link-facet
+delete-upload
+delete-usage-limit
+delete-usage-plan
+delete-usage-plan-key
+delete-usage-report-subscription
+delete-user
+delete-user-attributes
+delete-user-defined-function
+delete-user-endpoints
