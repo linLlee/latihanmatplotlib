@@ -1793,4 +1793,13 @@ deprecate-domain
 deprecate-thing-type
 deprecate-workflow-type
 deprovision-byoip-cidr
-deprovision-ipam-po
+deprovision-ipam-pool-cidr
+deprovision-public-ipv4-pool-cidr
+deregister
+deregister-certificate
+deregister-container-instance
+deregister-db-proxy-targets
+deregister-delegated-administrator
+deregister-devices
+deregister-ecs-cluster
+de
