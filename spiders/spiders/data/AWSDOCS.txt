@@ -1817,4 +1817,9 @@ deregister-on-premises-instance
 deregister-patch-baseline-for-patch-group
 deregister-rds-db-instance
 deregister-scalable-target
-dere
+deregister-stream-consumer
+deregister-target-from-maintenance-window
+deregister-targets
+deregister-task-definition
+deregister-task-from-maintenance-window
+deregister-transit-gateway-multicast-gro
