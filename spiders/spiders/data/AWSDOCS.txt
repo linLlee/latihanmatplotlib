@@ -1831,3 +1831,12 @@ deregister-workspace-directory
 describe-access-points
 describe-account
 describe-account-attributes
+describe-account-audit-configuration
+describe-account-limits
+describe-account-modifications
+describe-account-preferences
+describe-action
+describe-activations
+describe-active-receipt-rule-set
+describe-activities
+describe-acti
