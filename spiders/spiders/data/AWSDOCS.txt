@@ -1822,4 +1822,12 @@ deregister-target-from-maintenance-window
 deregister-targets
 deregister-task-definition
 deregister-task-from-maintenance-window
-deregister-transit-gateway-multicast-gro
+deregister-transit-gateway-multicast-group-members
+deregister-transit-gateway-multicast-group-sources
+deregister-type
+deregister-volume
+deregister-webhook-with-third-party
+deregister-workspace-directory
+describe-access-points
+describe-account
+describe-account-attributes
