@@ -1853,4 +1853,15 @@ describe-agents
 describe-aggregate-compliance-by-config-rules
 describe-aggregate-compliance-by-conformance-packs
 describe-aggregate-id-format
-describe-aggregation-authorization
+describe-aggregation-authorizations
+describe-alarm-history
+describe-alarms
+describe-alarms-for-metric
+describe-algorithm
+describe-alias
+describe-analysis-schemes
+describe-anomaly-detectors
+describe-api-destination
+describe-app
+describe-app-blocks
+descr
