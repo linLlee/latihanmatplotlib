@@ -1839,4 +1839,12 @@ describe-action
 describe-activations
 describe-active-receipt-rule-set
 describe-activities
-describe-acti
+describe-activity
+describe-activity-type
+describe-address
+describe-addresses
+describe-addresses-attribute
+describe-adjustment-types
+describe-affected-accounts-for-organization
+describe-affected-entities
+describe-affected-entities-for-org
