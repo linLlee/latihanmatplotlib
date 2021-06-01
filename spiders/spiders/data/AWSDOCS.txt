@@ -1847,4 +1847,10 @@ describe-addresses-attribute
 describe-adjustment-types
 describe-affected-accounts-for-organization
 describe-affected-entities
-describe-affected-entities-for-org
+describe-affected-entities-for-organization
+describe-agent-versions
+describe-agents
+describe-aggregate-compliance-by-config-rules
+describe-aggregate-compliance-by-conformance-packs
+describe-aggregate-id-format
+describe-aggregation-authorization
