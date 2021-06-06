@@ -1864,4 +1864,12 @@ describe-anomaly-detectors
 describe-api-destination
 describe-app
 describe-app-blocks
-descr
+describe-app-image-config
+describe-applicable-individual-assessments
+describe-application
+describe-application-fleet-associations
+describe-application-state
+describe-application-versions
+describe-applications
+describe-apps
+describe-a
