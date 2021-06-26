@@ -1880,4 +1880,12 @@ describe-assessment-templates
 describe-association
 describe-association-execution-targets
 describe-association-executions
-describe-att
+describe-attachment
+describe-attack
+describe-attack-statistics
+describe-audit-finding
+describe-audit-mitigation-actions-task
+describe-audit-suppression
+describe-audit-task
+describe-authentication-profiles
+desc
