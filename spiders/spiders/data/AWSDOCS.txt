@@ -1872,4 +1872,12 @@ describe-application-state
 describe-application-versions
 describe-applications
 describe-apps
-describe-a
+describe-archive
+describe-artifact
+describe-assessment-runs
+describe-assessment-targets
+describe-assessment-templates
+describe-association
+describe-association-execution-targets
+describe-association-executions
+describe-att
