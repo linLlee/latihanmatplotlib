@@ -1888,4 +1888,10 @@ describe-audit-mitigation-actions-task
 describe-audit-suppression
 describe-audit-task
 describe-authentication-profiles
-desc
+describe-authorizer
+describe-auto-ml-job
+describe-auto-scaling-groups
+describe-auto-scaling-instances
+describe-auto-scaling-notification-types
+describe-automation-executions
+describe-automation-step-ex
