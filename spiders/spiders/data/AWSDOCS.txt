@@ -1894,4 +1894,13 @@ describe-auto-scaling-groups
 describe-auto-scaling-instances
 describe-auto-scaling-notification-types
 describe-automation-executions
-describe-automation-step-ex
+describe-automation-step-executions
+describe-availability-monitor-test
+describe-availability-options
+describe-availability-zones
+describe-available-patches
+describe-backup
+describe-backup-policy
+describe-backups
+describe-bandwidth-rate-limit
+descri
