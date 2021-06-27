@@ -1903,4 +1903,12 @@ describe-backup
 describe-backup-policy
 describe-backups
 describe-bandwidth-rate-limit
-descri
+describe-bandwidth-rate-limit-schedule
+describe-batch-predictions
+describe-billing-group
+describe-broker
+describe-broker-engine-types
+describe-broker-instance-options
+describe-budget
+describe-budget-action
+describe-bud
