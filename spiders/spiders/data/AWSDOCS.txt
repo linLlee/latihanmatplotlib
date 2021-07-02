@@ -1919,4 +1919,12 @@ describe-budgets
 describe-build
 describe-bundle
 describe-bundle-tasks
-descri
+describe-byoip-cidrs
+describe-ca-certificate
+describe-cache
+describe-cache-clusters
+describe-cache-engine-versions
+describe-cache-parameter-groups
+describe-cache-parameters
+describe-cache-security-groups
+describe-
