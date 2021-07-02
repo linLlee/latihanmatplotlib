@@ -1911,4 +1911,12 @@ describe-broker-engine-types
 describe-broker-instance-options
 describe-budget
 describe-budget-action
-describe-bud
+describe-budget-action-histories
+describe-budget-actions-for-account
+describe-budget-actions-for-budget
+describe-budget-performance-history
+describe-budgets
+describe-build
+describe-bundle
+describe-bundle-tasks
+descri
