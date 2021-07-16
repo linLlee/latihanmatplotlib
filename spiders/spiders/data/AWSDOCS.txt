@@ -1927,4 +1927,12 @@ describe-cache-engine-versions
 describe-cache-parameter-groups
 describe-cache-parameters
 describe-cache-security-groups
-describe-
+describe-cache-subnet-groups
+describe-cached-iscsi-volumes
+describe-capacity-providers
+describe-capacity-reservation-fleets
+describe-capacity-reservations
+describe-carrier-gateways
+describe-cases
+describe-certificate
+describe
