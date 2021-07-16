@@ -1935,4 +1935,11 @@ describe-capacity-reservations
 describe-carrier-gateways
 describe-cases
 describe-certificate
-describe
+describe-certificates
+describe-change-set
+describe-channel
+describe-chap-credentials
+describe-classic-link-instances
+describe-client-authentication-settings
+describe-client-properties
+describe-client-vpn-autho
