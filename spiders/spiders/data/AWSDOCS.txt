@@ -1942,4 +1942,11 @@ describe-chap-credentials
 describe-classic-link-instances
 describe-client-authentication-settings
 describe-client-properties
-describe-client-vpn-autho
+describe-client-vpn-authorization-rules
+describe-client-vpn-connections
+describe-client-vpn-endpoints
+describe-client-vpn-routes
+describe-client-vpn-target-networks
+describe-cluster
+describe-cluster-db-revisions
+describe-
