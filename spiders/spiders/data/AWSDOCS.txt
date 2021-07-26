@@ -1949,4 +1949,11 @@ describe-client-vpn-routes
 describe-client-vpn-target-networks
 describe-cluster
 describe-cluster-db-revisions
-describe-
+describe-cluster-parameter-groups
+describe-cluster-parameters
+describe-cluster-security-groups
+describe-cluster-snapshots
+describe-cluster-subnet-groups
+describe-cluster-tracks
+describe-cluster-versions
+describe-cluste
