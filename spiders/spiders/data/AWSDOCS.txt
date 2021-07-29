@@ -1956,4 +1956,13 @@ describe-cluster-snapshots
 describe-cluster-subnet-groups
 describe-cluster-tracks
 describe-cluster-versions
-describe-cluste
+describe-clusters
+describe-code-coverages
+describe-code-repository
+describe-coip-pools
+describe-collection
+describe-commands
+describe-comments
+describe-communications
+describe-compilation-job
+describe-compliance-by-config-ru
