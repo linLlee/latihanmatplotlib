@@ -1965,4 +1965,11 @@ describe-commands
 describe-comments
 describe-communications
 describe-compilation-job
-describe-compliance-by-config-ru
+describe-compliance-by-config-rule
+describe-compliance-by-resource
+describe-compute-environments
+describe-conditional-forwarders
+describe-config-rule-evaluation-status
+describe-config-rules
+describe-configuration
+describe-configuration-aggregat
