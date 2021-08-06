@@ -1985,4 +1985,13 @@ describe-conformance-pack-compliance
 describe-conformance-pack-status
 describe-conformance-packs
 describe-connection
-describe-connection-
+describe-connection-alias-permissions
+describe-connection-aliases
+describe-connections
+describe-constraint
+describe-container
+describe-container-instances
+describe-context
+describe-continuous-backups
+describe-continuous-exports
+describe-contributor-i
