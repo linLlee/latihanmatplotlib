@@ -1972,4 +1972,10 @@ describe-conditional-forwarders
 describe-config-rule-evaluation-status
 describe-config-rules
 describe-configuration
-describe-configuration-aggregat
+describe-configuration-aggregator-sources-status
+describe-configuration-aggregators
+describe-configuration-options
+describe-configuration-recorder-status
+describe-configuration-recorders
+describe-configuration-revision
+describe-configura
