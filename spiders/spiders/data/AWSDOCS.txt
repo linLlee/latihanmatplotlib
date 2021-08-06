@@ -1978,4 +1978,11 @@ describe-configuration-options
 describe-configuration-recorder-status
 describe-configuration-recorders
 describe-configuration-revision
-describe-configura
+describe-configuration-set
+describe-configuration-settings
+describe-configurations
+describe-conformance-pack-compliance
+describe-conformance-pack-status
+describe-conformance-packs
+describe-connection
+describe-connection-
