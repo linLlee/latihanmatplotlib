@@ -1994,4 +1994,10 @@ describe-container-instances
 describe-context
 describe-continuous-backups
 describe-continuous-exports
-describe-contributor-i
+describe-contributor-insights
+describe-conversion-tasks
+describe-copy-product-status
+describe-cost-category-definition
+describe-create-account-status
+describe-cross-account-access-role
+describe-custom-availability
