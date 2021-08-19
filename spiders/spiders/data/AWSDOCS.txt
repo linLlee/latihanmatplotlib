@@ -2000,4 +2000,12 @@ describe-copy-product-status
 describe-cost-category-definition
 describe-create-account-status
 describe-cross-account-access-role
-describe-custom-availability
+describe-custom-availability-zones
+describe-custom-key-stores
+describe-custom-metric
+describe-customer-gateways
+describe-customer-metadata
+describe-data-quality-job-definition
+describe-data-shares
+describe-data-shares-for-consumer
+d
