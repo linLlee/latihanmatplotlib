@@ -2008,4 +2008,11 @@ describe-customer-metadata
 describe-data-quality-job-definition
 describe-data-shares
 describe-data-shares-for-consumer
-d
+describe-data-shares-for-producer
+describe-data-sources
+describe-dataset
+describe-db-cluster-backtracks
+describe-db-cluster-endpoints
+describe-db-cluster-parameter-groups
+describe-db-cluster-parameters
+describe-db-cl
