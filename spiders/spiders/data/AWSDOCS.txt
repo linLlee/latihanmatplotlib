@@ -2015,4 +2015,11 @@ describe-db-cluster-backtracks
 describe-db-cluster-endpoints
 describe-db-cluster-parameter-groups
 describe-db-cluster-parameters
-describe-db-cl
+describe-db-cluster-snapshot-attributes
+describe-db-cluster-snapshots
+describe-db-clusters
+describe-db-engine-versions
+describe-db-instance-automated-backups
+describe-db-instances
+describe-db-log-files
+describe-db-parame
