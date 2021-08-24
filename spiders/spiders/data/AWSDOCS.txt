@@ -2022,4 +2022,11 @@ describe-db-engine-versions
 describe-db-instance-automated-backups
 describe-db-instances
 describe-db-log-files
-describe-db-parame
+describe-db-parameter-groups
+describe-db-parameters
+describe-db-proxies
+describe-db-proxy-endpoints
+describe-db-proxy-target-groups
+describe-db-proxy-targets
+describe-db-security-groups
+describe-db-snapshot-attributes
