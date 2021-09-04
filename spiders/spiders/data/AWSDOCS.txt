@@ -2037,4 +2037,12 @@ describe-default-cluster-parameters
 describe-default-parameters
 describe-delivery-channel-status
 describe-delivery-channels
-describe-deliver
+describe-delivery-stream
+describe-deployments
+describe-destinations
+describe-detect-mitigation-actions-task
+describe-device
+describe-device-fleet
+describe-dhcp-options
+describe-dimension
+describe-direct-connect-gateway-association-propo
