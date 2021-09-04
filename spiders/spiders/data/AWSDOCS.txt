@@ -2030,3 +2030,11 @@ describe-db-proxy-target-groups
 describe-db-proxy-targets
 describe-db-security-groups
 describe-db-snapshot-attributes
+describe-db-snapshots
+describe-db-subnet-groups
+describe-default-authorizer
+describe-default-cluster-parameters
+describe-default-parameters
+describe-delivery-channel-status
+describe-delivery-channels
+describe-deliver
