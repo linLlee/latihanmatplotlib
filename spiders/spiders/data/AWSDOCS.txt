@@ -2045,4 +2045,11 @@ describe-device
 describe-device-fleet
 describe-dhcp-options
 describe-dimension
-describe-direct-connect-gateway-association-propo
+describe-direct-connect-gateway-association-proposals
+describe-direct-connect-gateway-associations
+describe-direct-connect-gateway-attachments
+describe-direct-connect-gateways
+describe-directories
+describe-directory-configs
+describe-document
+describe-document-classificatio
