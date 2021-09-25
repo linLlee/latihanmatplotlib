@@ -2080,4 +2080,11 @@ describe-elasticsearch-domains
 describe-elasticsearch-instance-type-limits
 describe-email-monitoring-configuration
 describe-emergency-contact-settings
-describe-endpoi
+describe-endpoint
+describe-endpoint-access
+describe-endpoint-authorization
+describe-endpoint-config
+describe-endpoint-settings
+describe-endpoint-types
+describe-endpoints
+describe-engine-default-cluster-parameter
