@@ -2060,4 +2060,11 @@ describe-domain
 describe-domain-auto-tunes
 describe-domain-configuration
 describe-domain-controllers
-describe-domain-endpoi
+describe-domain-endpoint-options
+describe-domains
+describe-dominant-language-detection-job
+describe-drt-access
+describe-ec2-instance-limits
+describe-ecs-clusters
+describe-edge-packaging-job
+describe-effective-instance-associat
