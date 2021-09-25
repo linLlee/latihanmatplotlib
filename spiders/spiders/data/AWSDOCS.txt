@@ -2074,4 +2074,10 @@ describe-egress-only-internet-gateways
 describe-elastic-gpus
 describe-elastic-ips
 describe-elastic-load-balancers
-describe-elastic
+describe-elasticsearch-domain
+describe-elasticsearch-domain-config
+describe-elasticsearch-domains
+describe-elasticsearch-instance-type-limits
+describe-email-monitoring-configuration
+describe-emergency-contact-settings
+describe-endpoi
