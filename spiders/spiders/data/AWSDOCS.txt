@@ -2067,4 +2067,11 @@ describe-drt-access
 describe-ec2-instance-limits
 describe-ecs-clusters
 describe-edge-packaging-job
-describe-effective-instance-associat
+describe-effective-instance-associations
+describe-effective-patches-for-patch-baseline
+describe-effective-policy
+describe-egress-only-internet-gateways
+describe-elastic-gpus
+describe-elastic-ips
+describe-elastic-load-balancers
+describe-elastic
