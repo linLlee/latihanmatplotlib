@@ -2087,4 +2087,11 @@ describe-endpoint-config
 describe-endpoint-settings
 describe-endpoint-types
 describe-endpoints
-describe-engine-default-cluster-parameter
+describe-engine-default-cluster-parameters
+describe-engine-default-parameters
+describe-entities-detection-job
+describe-entitlements
+describe-entity-aggregates
+describe-entity-recognizer
+describe-environment-health
+describe-environment-managed-action-h
