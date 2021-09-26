@@ -2094,4 +2094,11 @@ describe-entitlements
 describe-entity-aggregates
 describe-entity-recognizer
 describe-environment-health
-describe-environment-managed-action-h
+describe-environment-managed-action-history
+describe-environment-managed-actions
+describe-environment-memberships
+describe-environment-resources
+describe-environment-status
+describe-environments
+describe-evaluations
+describe-event-aggregate
