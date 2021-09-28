@@ -2101,4 +2101,12 @@ describe-environment-resources
 describe-environment-status
 describe-environments
 describe-evaluations
-describe-event-aggregate
+describe-event-aggregates
+describe-event-bus
+describe-event-categories
+describe-event-configurations
+describe-event-details
+describe-event-details-for-organization
+describe-event-source
+describe-event-subscriptions
+descr
