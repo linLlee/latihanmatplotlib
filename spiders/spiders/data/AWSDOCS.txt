@@ -2109,4 +2109,14 @@ describe-event-details
 describe-event-details-for-organization
 describe-event-source
 describe-event-subscriptions
-descr
+describe-event-topics
+describe-event-types
+describe-events
+describe-events-detection-job
+describe-events-for-organization
+describe-exclusions
+describe-execution
+describe-experiment
+describe-export
+describe-export-image-tasks
+describ
