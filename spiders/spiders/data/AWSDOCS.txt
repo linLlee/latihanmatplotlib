@@ -2119,4 +2119,12 @@ describe-execution
 describe-experiment
 describe-export
 describe-export-image-tasks
-describ
+describe-export-tasks
+describe-expressions
+describe-fast-snapshot-restores
+describe-feature-group
+describe-file-system-associations
+describe-file-system-policy
+describe-file-systems
+describe-findings
+describe-fleet
