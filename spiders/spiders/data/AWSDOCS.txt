@@ -2162,4 +2162,13 @@ describe-groups
 describe-handshake
 describe-hapg
 describe-harvest-job
-describe-health-service-status-for-orga
+describe-health-service-status-for-organization
+describe-host-reservation-offerings
+describe-host-reservations
+describe-hosted-connections
+describe-hosts
+describe-hsm
+describe-hsm-client-certificates
+describe-hsm-configurations
+describe-human-task-ui
+describe-hyper
