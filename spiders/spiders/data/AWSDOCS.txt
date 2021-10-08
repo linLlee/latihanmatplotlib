@@ -2188,4 +2188,11 @@ describe-image-replication-status
 describe-image-scan-findings
 describe-image-version
 describe-images
-describe-
+describe-import-image-tasks
+describe-import-snapshot-tasks
+describe-import-tasks
+describe-inbound-cross-cluster-search-connections
+describe-inbound-dmarc-settings
+describe-index
+describe-index-fields
+describe-inference
