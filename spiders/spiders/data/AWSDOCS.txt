@@ -2179,4 +2179,13 @@ describe-identity-id-format
 describe-identity-pool
 describe-identity-pool-usage
 describe-identity-provider
-describe-identity-u
+describe-identity-usage
+describe-image
+describe-image-attribute
+describe-image-builders
+describe-image-permissions
+describe-image-replication-status
+describe-image-scan-findings
+describe-image-version
+describe-images
+describe-
