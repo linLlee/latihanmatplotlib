@@ -2153,4 +2153,13 @@ describe-game-session-placement
 describe-game-session-queues
 describe-game-sessions
 describe-gateway-information
-describe-gl
+describe-global-clusters
+describe-global-replication-groups
+describe-global-table
+describe-global-table-settings
+describe-group
+describe-groups
+describe-handshake
+describe-hapg
+describe-harvest-job
+describe-health-service-status-for-orga
