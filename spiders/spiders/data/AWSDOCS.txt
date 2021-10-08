@@ -2136,4 +2136,13 @@ describe-fleet-location-attributes
 describe-fleet-location-capacity
 describe-fleet-location-utilization
 describe-fleet-metric
-de
+describe-fleet-port-settings
+describe-fleet-utilization
+describe-fleets
+describe-flow-definition
+describe-flow-logs
+describe-folder-contents
+describe-fpga-image-attribute
+describe-fpga-images
+describe-function
+describe-game-serv
