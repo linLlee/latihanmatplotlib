@@ -2127,4 +2127,13 @@ describe-file-system-associations
 describe-file-system-policy
 describe-file-systems
 describe-findings
-describe-fleet
+describe-fleet-attributes
+describe-fleet-capacity
+describe-fleet-events
+describe-fleet-history
+describe-fleet-instances
+describe-fleet-location-attributes
+describe-fleet-location-capacity
+describe-fleet-location-utilization
+describe-fleet-metric
+de
