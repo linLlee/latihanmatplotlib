@@ -2195,4 +2195,11 @@ describe-inbound-cross-cluster-search-connections
 describe-inbound-dmarc-settings
 describe-index
 describe-index-fields
-describe-inference
+describe-inference-recommendations-job
+describe-input
+describe-input-device
+describe-input-device-thumbnail
+describe-input-security-group
+describe-insight-rules
+describe-installation-media
+describe-instance-associations-s
