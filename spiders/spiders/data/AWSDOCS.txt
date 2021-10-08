@@ -2145,4 +2145,12 @@ describe-folder-contents
 describe-fpga-image-attribute
 describe-fpga-images
 describe-function
-describe-game-serv
+describe-game-server
+describe-game-server-group
+describe-game-server-instances
+describe-game-session-details
+describe-game-session-placement
+describe-game-session-queues
+describe-game-sessions
+describe-gateway-information
+describe-gl
