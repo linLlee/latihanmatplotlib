@@ -2209,4 +2209,10 @@ describe-instance-event-notification-attributes
 describe-instance-event-windows
 describe-instance-health
 describe-instance-information
-describe-ins
+describe-instance-patch-states
+describe-instance-patch-states-for-patch-group
+describe-instance-patches
+describe-instance-refreshes
+describe-instance-status
+describe-instance-type-offerings
+describe-instanc
