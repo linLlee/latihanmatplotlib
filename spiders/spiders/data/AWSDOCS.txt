@@ -2202,4 +2202,11 @@ describe-input-device-thumbnail
 describe-input-security-group
 describe-insight-rules
 describe-installation-media
-describe-instance-associations-s
+describe-instance-associations-status
+describe-instance-attribute
+describe-instance-credit-specifications
+describe-instance-event-notification-attributes
+describe-instance-event-windows
+describe-instance-health
+describe-instance-information
+describe-ins
