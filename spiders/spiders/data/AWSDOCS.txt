@@ -2215,4 +2215,12 @@ describe-instance-patches
 describe-instance-refreshes
 describe-instance-status
 describe-instance-type-offerings
-describe-instanc
+describe-instance-types
+describe-instances
+describe-instances-health
+describe-interconnects
+describe-internet-gateways
+describe-inventory-deletions
+describe-ip-groups
+describe-ipam-pools
+desc
