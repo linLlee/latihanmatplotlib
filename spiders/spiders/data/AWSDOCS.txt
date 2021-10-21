@@ -2223,4 +2223,15 @@ describe-internet-gateways
 describe-inventory-deletions
 describe-ip-groups
 describe-ipam-pools
-desc
+describe-ipam-scopes
+describe-ipams
+describe-ipv6-pools
+describe-job
+describe-job-definitions
+describe-job-execution
+describe-job-queues
+describe-job-template
+describe-jobs
+describe-key
+describe-key-pairs
+describ
