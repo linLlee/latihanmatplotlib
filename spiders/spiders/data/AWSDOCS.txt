@@ -2234,4 +2234,13 @@ describe-job-template
 describe-jobs
 describe-key
 describe-key-pairs
-describ
+describe-key-phrases-detection-job
+describe-kinesis-streaming-destination
+describe-labeling-job
+describe-lags
+describe-language-model
+describe-launch-configurations
+describe-launch-template-versions
+describe-launch-templates
+describe-layers
+d
