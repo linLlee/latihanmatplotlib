@@ -2243,4 +2243,13 @@ describe-launch-configurations
 describe-launch-template-versions
 describe-launch-templates
 describe-layers
-d
+describe-ldaps-settings
+describe-lifecycle-configuration
+describe-lifecycle-hook-types
+describe-lifecycle-hooks
+describe-limits
+describe-lineage-group
+describe-listener-certificates
+describe-listeners
+describe-loa
+describ
