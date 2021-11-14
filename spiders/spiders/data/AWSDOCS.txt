@@ -2252,4 +2252,10 @@ describe-lineage-group
 describe-listener-certificates
 describe-listeners
 describe-loa
-describ
+describe-load-balancer-attributes
+describe-load-balancer-policies
+describe-load-balancer-policy-types
+describe-load-balancer-target-groups
+describe-load-balancers
+describe-load-based-auto-scaling
+describe-local-gatewa
