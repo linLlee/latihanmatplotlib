@@ -2258,4 +2258,7 @@ describe-load-balancer-policy-types
 describe-load-balancer-target-groups
 describe-load-balancers
 describe-load-based-auto-scaling
-describe-local-gatewa
+describe-local-gateway-route-table-virtual-interface-group-associations
+describe-local-gateway-route-table-vpc-associations
+describe-local-gateway-route-tables
+describe-local-gateway-virtual-interfa
