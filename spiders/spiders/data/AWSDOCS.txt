@@ -2261,4 +2261,13 @@ describe-load-based-auto-scaling
 describe-local-gateway-route-table-virtual-interface-group-associations
 describe-local-gateway-route-table-vpc-associations
 describe-local-gateway-route-tables
-describe-local-gateway-virtual-interfa
+describe-local-gateway-virtual-interface-groups
+describe-local-gateway-virtual-interfaces
+describe-local-gateways
+describe-locations
+describe-log-groups
+describe-log-streams
+describe-logging-status
+describe-luna-client
+describe-mailbox-export-job
+describe-main
