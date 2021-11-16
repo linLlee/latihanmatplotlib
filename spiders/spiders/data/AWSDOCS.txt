@@ -2270,4 +2270,9 @@ describe-log-streams
 describe-logging-status
 describe-luna-client
 describe-mailbox-export-job
-describe-main
+describe-maintenance-start-time
+describe-maintenance-window-execution-task-invocations
+describe-maintenance-window-execution-tasks
+describe-maintenance-window-executions
+describe-maintenance-window-schedule
+describe-ma
