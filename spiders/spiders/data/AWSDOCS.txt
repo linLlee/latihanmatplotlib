@@ -2282,4 +2282,12 @@ describe-maintenance-windows-for-target
 describe-managed-job-template
 describe-managed-prefix-lists
 describe-matchmaking
-describe-matchmakin
+describe-matchmaking-configurations
+describe-matchmaking-rule-sets
+describe-merge-conflicts
+describe-metric-collection-types
+describe-metric-filters
+describe-migration-task
+describe-mitigation-action
+describe-ml-models
+describe-model
