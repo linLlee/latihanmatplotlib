@@ -2297,3 +2297,12 @@ describe-model-package
 describe-model-package-group
 describe-model-quality-job-definition
 describe-monitoring-schedule
+describe-mount-target-security-groups
+describe-mount-targets
+describe-moving-addresses
+describe-multiplex
+describe-multiplex-program
+describe-my-user-profile
+describe-nat-gateways
+describe-network-acls
+describe-network-insi
