@@ -2291,3 +2291,9 @@ describe-migration-task
 describe-mitigation-action
 describe-ml-models
 describe-model
+describe-model-bias-job-definition
+describe-model-explainability-job-definition
+describe-model-package
+describe-model-package-group
+describe-model-quality-job-definition
+describe-monitoring-schedule
