@@ -2305,4 +2305,9 @@ describe-multiplex-program
 describe-my-user-profile
 describe-nat-gateways
 describe-network-acls
-describe-network-insi
+describe-network-insights-access-scope-analyses
+describe-network-insights-access-scopes
+describe-network-insights-analyses
+describe-network-insights-paths
+describe-network-interface-attribute
+describe-network-in
