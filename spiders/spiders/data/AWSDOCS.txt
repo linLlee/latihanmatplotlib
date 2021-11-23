@@ -2310,4 +2310,11 @@ describe-network-insights-access-scopes
 describe-network-insights-analyses
 describe-network-insights-paths
 describe-network-interface-attribute
-describe-network-in
+describe-network-interface-permissions
+describe-network-interfaces
+describe-nfs-file-shares
+describe-node-association-status
+describe-node-configuration-options
+describe-notebook-execution
+describe-notebook-instance
+describe-notebook-instance-lifecycle-con
