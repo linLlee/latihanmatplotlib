@@ -2324,4 +2324,10 @@ describe-notifications-for-budget
 describe-object
 describe-objects
 describe-offering
-describe-operating-
+describe-operating-systems
+describe-ops-items
+describe-option-group-options
+describe-option-groups
+describe-orderable-cluster-options
+describe-orderable-db-instance-options
+describe-orderable-replication-instances
