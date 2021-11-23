@@ -2317,4 +2317,11 @@ describe-node-association-status
 describe-node-configuration-options
 describe-notebook-execution
 describe-notebook-instance
-describe-notebook-instance-lifecycle-con
+describe-notebook-instance-lifecycle-config
+describe-notification-configurations
+describe-notification-subscriptions
+describe-notifications-for-budget
+describe-object
+describe-objects
+describe-offering
+describe-operating-
