@@ -2345,4 +2345,13 @@ describe-parameter-groups
 describe-parameters
 describe-partner-event-source
 describe-partners
-describe-patch-ba
+describe-patch-baselines
+describe-patch-group-state
+describe-patch-groups
+describe-patch-properties
+describe-pending-aggregation-requests
+describe-pending-maintenance-actions
+describe-permissions
+describe-pii-entities-detection-job
+describe-pipeline
+descri
