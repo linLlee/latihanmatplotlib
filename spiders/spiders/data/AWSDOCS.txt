@@ -2337,4 +2337,12 @@ describe-organization-config-rules
 describe-organization-configuration
 describe-organization-conformance-pack-statuses
 describe-organization-conformance-packs
-describe-
+describe-organizational-unit
+describe-origin-endpoint
+describe-outbound-cross-cluster-search-connections
+describe-packages
+describe-parameter-groups
+describe-parameters
+describe-partner-event-source
+describe-partners
+describe-patch-ba
