@@ -2331,3 +2331,10 @@ describe-option-groups
 describe-orderable-cluster-options
 describe-orderable-db-instance-options
 describe-orderable-replication-instances
+describe-organization
+describe-organization-config-rule-statuses
+describe-organization-config-rules
+describe-organization-configuration
+describe-organization-conformance-pack-statuses
+describe-organization-conformance-packs
+describe-
