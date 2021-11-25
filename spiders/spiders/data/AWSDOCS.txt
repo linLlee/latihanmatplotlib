@@ -2386,4 +2386,13 @@ describe-public-ipv4-pools
 describe-publisher
 describe-publishing-destination
 describe-pull-request-events
-describe-pull-through-cache-ru
+describe-pull-through-cache-rules
+describe-queries
+describe-query
+describe-query-definitions
+describe-raid-arrays
+describe-rds-db-instances
+describe-receipt-rule
+describe-receipt-rule-set
+describe-record
+describe-refresh-schemas-statu
