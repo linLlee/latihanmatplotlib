@@ -2380,4 +2380,10 @@ describe-provisioned-product
 describe-provisioned-product-plan
 describe-provisioning-artifact
 describe-provisioning-parameters
-desc
+describe-provisioning-template
+describe-provisioning-template-version
+describe-public-ipv4-pools
+describe-publisher
+describe-publishing-destination
+describe-pull-request-events
+describe-pull-through-cache-ru
