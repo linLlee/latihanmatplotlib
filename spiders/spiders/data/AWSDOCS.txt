@@ -2354,4 +2354,12 @@ describe-pending-maintenance-actions
 describe-permissions
 describe-pii-entities-detection-job
 describe-pipeline
-descri
+describe-pipeline-definition-for-execution
+describe-pipeline-execution
+describe-pipelines
+describe-placement-groups
+describe-platform-version
+describe-player-sessions
+describe-policies
+describe-policy
+describe-portfo
