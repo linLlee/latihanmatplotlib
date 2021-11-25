@@ -2371,4 +2371,13 @@ describe-processing-job
 describe-product
 describe-product-as-admin
 describe-product-view
-describe-pr
+describe-project
+describe-project-versions
+describe-projects
+describe-protection
+describe-protection-group
+describe-provisioned-product
+describe-provisioned-product-plan
+describe-provisioning-artifact
+describe-provisioning-parameters
+desc
