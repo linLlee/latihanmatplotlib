@@ -2362,4 +2362,13 @@ describe-platform-version
 describe-player-sessions
 describe-policies
 describe-policy
-describe-portfo
+describe-portfolio
+describe-portfolio-share-status
+describe-portfolio-shares
+describe-prefix-lists
+describe-principal-id-format
+describe-processing-job
+describe-product
+describe-product-as-admin
+describe-product-view
+describe-pr
