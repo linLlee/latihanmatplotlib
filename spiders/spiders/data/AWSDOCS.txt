@@ -2395,4 +2395,12 @@ describe-rds-db-instances
 describe-receipt-rule
 describe-receipt-rule-set
 describe-record
-describe-refresh-schemas-statu
+describe-refresh-schemas-status
+describe-regions
+describe-registry
+describe-release-label
+describe-remediation-configurations
+describe-remediation-exceptions
+describe-remediation-execution-status
+describe-replace-root-volume-tasks
+describe
