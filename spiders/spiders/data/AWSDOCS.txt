@@ -2409,4 +2409,11 @@ describe-replication-instance-task-logs
 describe-replication-instances
 describe-replication-subnet-groups
 describe-replication-task-assessment-results
-describe-replication-task-assessment-
+describe-replication-task-assessment-runs
+describe-replication-task-individual-assessments
+describe-replication-tasks
+describe-report-creation
+describe-report-definitions
+describe-repositories
+describe-reservation
+describe-reserved-cache-node
