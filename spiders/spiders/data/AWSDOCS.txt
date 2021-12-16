@@ -2403,4 +2403,10 @@ describe-remediation-configurations
 describe-remediation-exceptions
 describe-remediation-execution-status
 describe-replace-root-volume-tasks
-describe
+describe-replay
+describe-replication-groups
+describe-replication-instance-task-logs
+describe-replication-instances
+describe-replication-subnet-groups
+describe-replication-task-assessment-results
+describe-replication-task-assessment-
