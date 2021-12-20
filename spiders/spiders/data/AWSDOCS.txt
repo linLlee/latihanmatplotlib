@@ -2416,4 +2416,10 @@ describe-report-creation
 describe-report-definitions
 describe-repositories
 describe-reservation
-describe-reserved-cache-node
+describe-reserved-cache-nodes
+describe-reserved-cache-nodes-offerings
+describe-reserved-db-instances
+describe-reserved-db-instances-offerings
+describe-reserved-elasticsearch-instance-offerings
+describe-reserved-elasticsearch-instances
+describe-reserved-instance
