@@ -2422,4 +2422,10 @@ describe-reserved-db-instances
 describe-reserved-db-instances-offerings
 describe-reserved-elasticsearch-instance-offerings
 describe-reserved-elasticsearch-instances
-describe-reserved-instance
+describe-reserved-instances
+describe-reserved-instances-listings
+describe-reserved-instances-modifications
+describe-reserved-instances-offerings
+describe-reserved-node-exchange-status
+describe-reserved-node-offerings
+describe-reserv
