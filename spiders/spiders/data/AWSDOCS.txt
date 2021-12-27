@@ -2437,4 +2437,13 @@ describe-resource-policies
 describe-resource-server
 describe-retention-configurations
 describe-return-shipping-label
-describe-risk-con
+describe-risk-configuration
+describe-role-alias
+describe-root-folders
+describe-route-tables
+describe-router-configuration
+describe-rule
+describe-rules
+describe-rules-packages
+describe-runtime-configuration
+describe-
