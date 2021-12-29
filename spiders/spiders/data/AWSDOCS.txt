@@ -2446,4 +2446,12 @@ describe-rule
 describe-rules
 describe-rules-packages
 describe-runtime-configuration
-describe-
+describe-scalable-targets
+describe-scaling-activities
+describe-scaling-parameters
+describe-scaling-plan-resources
+describe-scaling-plans
+describe-scaling-policies
+describe-scaling-process-types
+describe-schedule
+describe-scheduled-act
