@@ -2454,4 +2454,13 @@ describe-scaling-plans
 describe-scaling-policies
 describe-scaling-process-types
 describe-schedule
-describe-scheduled-act
+describe-scheduled-actions
+describe-scheduled-audit
+describe-scheduled-instance-availability
+describe-scheduled-instances
+describe-scheduling-policies
+describe-schemas
+describe-script
+describe-security-configuration
+describe-security-group-references
+d
