@@ -2463,4 +2463,11 @@ describe-schemas
 describe-script
 describe-security-configuration
 describe-security-group-references
-d
+describe-security-group-rules
+describe-security-groups
+describe-security-profile
+describe-sentiment-detection-job
+describe-servers
+describe-service-access-policies
+describe-service-action
+describe-service-action-
