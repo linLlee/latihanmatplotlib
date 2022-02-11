@@ -2479,4 +2479,12 @@ describe-severity-levels
 describe-shared-directories
 describe-signaling-channel
 describe-smb-file-shares
-des
+describe-smb-settings
+describe-snapshot-attribute
+describe-snapshot-copy-grants
+describe-snapshot-schedule
+describe-snapshot-schedules
+describe-snapshot-tier-status
+describe-snapshots
+describe-source-regions
+describe-spot-da
