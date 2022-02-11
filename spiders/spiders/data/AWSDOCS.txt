@@ -2493,4 +2493,11 @@ describe-spot-fleet-request-history
 describe-spot-fleet-requests
 describe-spot-instance-requests
 describe-spot-price-history
-describe-ssl-pol
+describe-ssl-policies
+describe-stack-drift-detection-status
+describe-stack-events
+describe-stack-instance
+describe-stack-provisioning-parameters
+describe-stack-resource
+describe-stack-resource-drifts
+describe-stack-
