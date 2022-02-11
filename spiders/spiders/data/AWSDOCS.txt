@@ -2487,4 +2487,10 @@ describe-snapshot-schedules
 describe-snapshot-tier-status
 describe-snapshots
 describe-source-regions
-describe-spot-da
+describe-spot-datafeed-subscription
+describe-spot-fleet-instances
+describe-spot-fleet-request-history
+describe-spot-fleet-requests
+describe-spot-instance-requests
+describe-spot-price-history
+describe-ssl-pol
