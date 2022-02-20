@@ -2518,4 +2518,13 @@ describe-stream-processor
 describe-stream-summary
 describe-studio
 describe-studio-lifecycle-config
-d
+describe-subnet-groups
+describe-subnets
+describe-subscribed-workteam
+describe-subscribers-for-notification
+describe-subscription
+describe-subscription-filters
+describe-suggesters
+describe-table
+describe-table-replica-auto-scaling
+describe-table-r
