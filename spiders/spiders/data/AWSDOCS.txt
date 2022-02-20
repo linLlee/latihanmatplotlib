@@ -2527,4 +2527,14 @@ describe-subscription-filters
 describe-suggesters
 describe-table
 describe-table-replica-auto-scaling
-describe-table-r
+describe-table-restore-status
+describe-table-statistics
+describe-tag-option
+describe-tags
+describe-tape-archives
+describe-tape-recovery-points
+describe-tapes
+describe-target-group-attributes
+describe-target-groups
+describe-target-health
+desc
