@@ -2500,4 +2500,12 @@ describe-stack-instance
 describe-stack-provisioning-parameters
 describe-stack-resource
 describe-stack-resource-drifts
-describe-stack-
+describe-stack-resources
+describe-stack-set
+describe-stack-set-operation
+describe-stack-summary
+describe-stacks
+describe-stale-security-groups
+describe-state-machine
+describe-state-machine-for-execution
+describe-
