@@ -2508,4 +2508,14 @@ describe-stacks
 describe-stale-security-groups
 describe-state-machine
 describe-state-machine-for-execution
-describe-
+describe-step
+describe-storage
+describe-store-image-tasks
+describe-stored-iscsi-volumes
+describe-stream
+describe-stream-consumer
+describe-stream-processor
+describe-stream-summary
+describe-studio
+describe-studio-lifecycle-config
+d
