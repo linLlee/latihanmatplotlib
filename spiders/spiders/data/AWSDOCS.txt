@@ -2537,4 +2537,13 @@ describe-tapes
 describe-target-group-attributes
 describe-target-groups
 describe-target-health
-desc
+describe-task-definition
+describe-task-sets
+describe-tasks
+describe-termination-policy-types
+describe-test-cases
+describe-text-translation-job
+describe-thing
+describe-thing-group
+describe-thing-registration-task
+describe-
