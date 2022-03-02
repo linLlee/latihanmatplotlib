@@ -2546,4 +2546,12 @@ describe-text-translation-job
 describe-thing
 describe-thing-group
 describe-thing-registration-task
-describe-
+describe-thing-type
+describe-time-based-auto-scaling
+describe-time-to-live
+describe-topics-detection-job
+describe-traffic-mirror-filters
+describe-traffic-mirror-sessions
+describe-traffic-mirror-targets
+describe-trails
+des
