@@ -2576,4 +2576,13 @@ describe-type
 describe-type-registration
 describe-update-actions
 describe-upload-buffer
-describ
+describe-usage-limits
+describe-usage-report-subscriptions
+describe-user
+describe-user-groups
+describe-user-import-job
+describe-user-pool
+describe-user-pool-client
+describe-user-pool-domain
+describe-user-profile
+describe-use
