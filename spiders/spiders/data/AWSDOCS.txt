@@ -2585,4 +2585,12 @@ describe-user-pool
 describe-user-pool-client
 describe-user-pool-domain
 describe-user-profile
-describe-use
+describe-user-profiles
+describe-user-stack-associations
+describe-users
+describe-valid-db-instance-modifications
+describe-vault
+describe-virtual-gateways
+describe-virtual-interfaces
+describe-voices
+describe-volume-att
