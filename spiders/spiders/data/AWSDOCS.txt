@@ -2561,4 +2561,11 @@ describe-transit-gateway-connect-peers
 describe-transit-gateway-connects
 describe-transit-gateway-multicast-domains
 describe-transit-gateway-peering-attachments
-describe-tran
+describe-transit-gateway-route-tables
+describe-transit-gateway-vpc-attachments
+describe-transit-gateways
+describe-trial
+describe-trial-component
+describe-trunk-interface-associations
+describe-trusted-advisor-check-refresh-statuses
+descr
