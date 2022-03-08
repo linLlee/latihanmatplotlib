@@ -2593,4 +2593,12 @@ describe-vault
 describe-virtual-gateways
 describe-virtual-interfaces
 describe-voices
-describe-volume-att
+describe-volume-attribute
+describe-volume-status
+describe-volumes
+describe-volumes-modifications
+describe-vpc-attribute
+describe-vpc-classic-link
+describe-vpc-classic-link-dns-support
+describe-vpc-endpoint-connection-notifications
+d
