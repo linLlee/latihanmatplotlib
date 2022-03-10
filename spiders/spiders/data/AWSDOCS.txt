@@ -2616,4 +2616,11 @@ describe-warm-pool
 describe-workflow-execution
 describe-workflow-type
 describe-workforce
-describe-working-s
+describe-working-storage
+describe-workspace-bundles
+describe-workspace-directories
+describe-workspace-image-permissions
+describe-workspace-images
+describe-workspace-snapshots
+describe-workspaces
+describe-workspac
