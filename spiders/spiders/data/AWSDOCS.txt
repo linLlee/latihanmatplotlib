@@ -2623,4 +2623,13 @@ describe-workspace-image-permissions
 describe-workspace-images
 describe-workspace-snapshots
 describe-workspaces
-describe-workspac
+describe-workspaces-connection-status
+describe-workteam
+detach-certificate-from-distribution
+detach-classic-link-vpc
+detach-disk
+detach-elastic-load-balancer
+detach-from-index
+detach-group-policy
+detach-instances
+detach-instances-from-
