@@ -2601,4 +2601,10 @@ describe-vpc-attribute
 describe-vpc-classic-link
 describe-vpc-classic-link-dns-support
 describe-vpc-endpoint-connection-notifications
+describe-vpc-endpoint-connections
+describe-vpc-endpoint-service-configurations
+describe-vpc-endpoint-service-permissions
+describe-vpc-endpoint-services
+describe-vpc-endpoints
+describe-vpc-peering-authorizations
 d
