@@ -2607,4 +2607,13 @@ describe-vpc-endpoint-service-permissions
 describe-vpc-endpoint-services
 describe-vpc-endpoints
 describe-vpc-peering-authorizations
-d
+describe-vpc-peering-connections
+describe-vpcs
+describe-vpn-connections
+describe-vpn-gateways
+describe-vtl-devices
+describe-warm-pool
+describe-workflow-execution
+describe-workflow-type
+describe-workforce
+describe-working-s
