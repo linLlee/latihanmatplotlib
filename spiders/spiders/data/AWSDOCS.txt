@@ -2641,3 +2641,15 @@ detach-network-interface
 detach-object
 detach-policy
 detach-role-policy
+detach-security-profile
+detach-static-ip
+detach-thing-principal
+detach-typed-link
+detach-user-policy
+detach-volume
+detach-vpn-gateway
+detect-custom-labels
+detect-dominant-language
+detect-entities
+detect-faces
+det
