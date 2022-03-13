@@ -2632,4 +2632,12 @@ detach-elastic-load-balancer
 detach-from-index
 detach-group-policy
 detach-instances
-detach-instances-from-
+detach-instances-from-load-balancer
+detach-internet-gateway
+detach-load-balancer-from-subnets
+detach-load-balancer-target-groups
+detach-load-balancers
+detach-network-interface
+detach-object
+detach-policy
+detach-role-policy
