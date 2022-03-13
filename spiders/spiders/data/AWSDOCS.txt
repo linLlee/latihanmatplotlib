@@ -2662,4 +2662,10 @@ detect-stack-drift
 detect-stack-resource-drift
 detect-stack-set-drift
 detect-syntax
-de
+detect-text
+disable-add-on
+disable-alarm-actions
+disable-application-layer-automatic-response
+disable-availability-zones-for-load-balancer
+disable-aws-organizations-access
+disable-aws-service-ac
