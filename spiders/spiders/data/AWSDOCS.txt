@@ -2652,4 +2652,14 @@ detect-custom-labels
 detect-dominant-language
 detect-entities
 detect-faces
-det
+detect-key-phrases
+detect-labels
+detect-moderation-labels
+detect-pii-entities
+detect-protective-equipment
+detect-sentiment
+detect-stack-drift
+detect-stack-resource-drift
+detect-stack-set-drift
+detect-syntax
+de
