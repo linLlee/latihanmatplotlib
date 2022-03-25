@@ -2677,4 +2677,13 @@ disable-ebs-encryption-by-default
 disable-enhanced-monitoring
 disable-fast-snapshot-restores
 disable-gateway
-disable-hbase-back
+disable-hbase-backups
+disable-health-service-access-for-organization
+disable-hosted-zone-dnssec
+disable-image-deprecation
+disable-insight-rules
+disable-ipam-organization-admin-account
+disable-key
+disable-key-rotation
+disable-kinesis-streaming-destination
+disa
