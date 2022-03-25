@@ -2686,4 +2686,13 @@ disable-ipam-organization-admin-account
 disable-key
 disable-key-rotation
 disable-kinesis-streaming-destination
-disa
+disable-ldaps
+disable-logging
+disable-metrics-collection
+disable-organization-admin-account
+disable-policy-type
+disable-proactive-engagement
+disable-radius
+disable-rule
+disable-sagemaker-servicecatalog-portfolio
+disable-s
