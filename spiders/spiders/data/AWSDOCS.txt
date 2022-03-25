@@ -2668,4 +2668,13 @@ disable-alarm-actions
 disable-application-layer-automatic-response
 disable-availability-zones-for-load-balancer
 disable-aws-organizations-access
-disable-aws-service-ac
+disable-aws-service-access
+disable-client-authentication
+disable-directory
+disable-domain-auto-renew
+disable-domain-transfer-lock
+disable-ebs-encryption-by-default
+disable-enhanced-monitoring
+disable-fast-snapshot-restores
+disable-gateway
+disable-hbase-back
