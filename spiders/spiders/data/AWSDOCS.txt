@@ -2703,4 +2703,11 @@ disable-topic-rule
 disable-transit-gateway-route-table-propagation
 disable-user
 disable-vgw-route-propagation
-disable-vpc-clas
+disable-vpc-classic-link
+disable-vpc-classic-link-dns-support
+disassociate-address
+disassociate-api
+disassociate-application-fleet
+disassociate-application-from-entitlement
+disassociate-approval-rule-template-from-repository
+disassociate-budget-from-
