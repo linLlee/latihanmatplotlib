@@ -2695,4 +2695,12 @@ disable-proactive-engagement
 disable-radius
 disable-rule
 disable-sagemaker-servicecatalog-portfolio
-disable-s
+disable-serial-console-access
+disable-snapshot-copy
+disable-sso
+disable-stage-transition
+disable-topic-rule
+disable-transit-gateway-route-table-propagation
+disable-user
+disable-vgw-route-propagation
+disable-vpc-clas
