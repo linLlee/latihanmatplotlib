@@ -2710,4 +2710,10 @@ disassociate-api
 disassociate-application-fleet
 disassociate-application-from-entitlement
 disassociate-approval-rule-template-from-repository
-disassociate-budget-from-
+disassociate-budget-from-resource
+disassociate-certificate
+disassociate-client-vpn-target-network
+disassociate-configuration-items-from-application
+disassociate-connection-alias
+disassociate-connection-from-lag
+disassociate-
