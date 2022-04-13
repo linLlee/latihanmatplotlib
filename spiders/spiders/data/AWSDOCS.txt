@@ -2716,4 +2716,11 @@ disassociate-client-vpn-target-network
 disassociate-configuration-items-from-application
 disassociate-connection-alias
 disassociate-connection-from-lag
+disassociate-connector
+disassociate-contact-from-address-book
+disassociate-created-artifact
+disassociate-data-share-consumer
+disassociate-delegate-from-resource
+disassociate-device-from-room
+disassociate-discovered-resource
 disassociate-
