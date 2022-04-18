@@ -2723,4 +2723,11 @@ disassociate-data-share-consumer
 disassociate-delegate-from-resource
 disassociate-device-from-room
 disassociate-discovered-resource
-disassociate-
+disassociate-drt-log-bucket
+disassociate-drt-role
+disassociate-elastic-ip
+disassociate-enclave-certificate-iam-role
+disassociate-environment-operations-role
+disassociate-file-system
+disassociate-fleet
+disassociate-from-master-accoun
