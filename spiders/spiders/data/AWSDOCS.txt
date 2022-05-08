@@ -2730,4 +2730,12 @@ disassociate-enclave-certificate-iam-role
 disassociate-environment-operations-role
 disassociate-file-system
 disassociate-fleet
-disassociate-from-master-accoun
+disassociate-from-master-account
+disassociate-global-replication-group
+disassociate-health-check
+disassociate-iam-instance-profile
+disassociate-instance-event-window
+disassociate-ip-groups
+disassociate-kms-key
+disassociate-mac-sec-key
+disassocia
