@@ -2738,4 +2738,10 @@ disassociate-instance-event-window
 disassociate-ip-groups
 disassociate-kms-key
 disassociate-mac-sec-key
-disassocia
+disassociate-member-from-group
+disassociate-members
+disassociate-node
+disassociate-ops-item-related-item
+disassociate-principal-from-portfolio
+disassociate-product-from-portfolio
+disassociate-qualification-from-wor
