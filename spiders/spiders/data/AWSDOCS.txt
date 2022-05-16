@@ -2744,4 +2744,11 @@ disassociate-node
 disassociate-ops-item-related-item
 disassociate-principal-from-portfolio
 disassociate-product-from-portfolio
-disassociate-qualification-from-wor
+disassociate-qualification-from-worker
+disassociate-role-from-group
+disassociate-route-table
+disassociate-service-action-from-provisioning-artifact
+disassociate-service-role-from-account
+disassociate-skill-from-skill-group
+disassociate-skill-from-users
+disassociate-skill
