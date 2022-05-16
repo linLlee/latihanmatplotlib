@@ -2807,4 +2807,15 @@ enable-serial-console-access
 enable-snapshot-copy
 enable-sso
 enable-stage-transition
-enable-top
+enable-topic-rule
+enable-transit-gateway-route-table-propagation
+enable-user
+enable-vgw-route-propagation
+enable-volume-io
+enable-vpc-classic-link
+enable-vpc-classic-link-dns-support
+encrypt
+enter-standby
+estimate-template-cost
+evaluate-expression
+evaluate-p
