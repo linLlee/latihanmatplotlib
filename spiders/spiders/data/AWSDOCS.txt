@@ -2774,4 +2774,12 @@ download-default-key-pair
 enable-add-on
 enable-alarm-actions
 enable-all-features
-enable-application-layer-automatic-
+enable-application-layer-automatic-response
+enable-availability-zones-for-load-balancer
+enable-aws-organizations-access
+enable-aws-service-access
+enable-client-authentication
+enable-directory
+enable-domain-auto-renew
+enable-domain-transfer-lock
+enable-ebs-encr
