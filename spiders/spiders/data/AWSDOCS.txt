@@ -2765,4 +2765,13 @@ disassociate-web-acl
 disconnect-custom-key-store
 discover-input-schema
 discover-instances
-discover-p
+discover-poll-endpoint
+dissociate-package
+distribute-dataset-entries
+domain-metadata
+download-db-log-file-portion
+download-default-key-pair
+enable-add-on
+enable-alarm-actions
+enable-all-features
+enable-application-layer-automatic-
