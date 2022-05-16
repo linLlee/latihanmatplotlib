@@ -2797,4 +2797,14 @@ enable-ldaps
 enable-logging
 enable-metrics-collection
 enable-mfa-device
-enable-organization-admin
+enable-organization-admin-account
+enable-policy-type
+enable-proactive-engagement
+enable-radius
+enable-rule
+enable-sagemaker-servicecatalog-portfolio
+enable-serial-console-access
+enable-snapshot-copy
+enable-sso
+enable-stage-transition
+enable-top
