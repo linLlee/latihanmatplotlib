@@ -2751,4 +2751,10 @@ disassociate-service-action-from-provisioning-artifact
 disassociate-service-role-from-account
 disassociate-skill-from-skill-group
 disassociate-skill-from-users
-disassociate-skill
+disassociate-skill-group-from-room
+disassociate-subnet-cidr-block
+disassociate-tag-option-from-resource
+disassociate-team-member
+disassociate-transit-gateway-multicast-domain
+disassociate-transit-gateway-route-table
+disassociate-tr
