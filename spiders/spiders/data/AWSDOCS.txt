@@ -2757,4 +2757,12 @@ disassociate-tag-option-from-resource
 disassociate-team-member
 disassociate-transit-gateway-multicast-domain
 disassociate-transit-gateway-route-table
-disassociate-tr
+disassociate-trial-component
+disassociate-trunk-interface
+disassociate-vpc-cidr-block
+disassociate-vpc-from-hosted-zone
+disassociate-web-acl
+disconnect-custom-key-store
+discover-input-schema
+discover-instances
+discover-p
