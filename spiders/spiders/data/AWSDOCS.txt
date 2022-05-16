@@ -2789,4 +2789,12 @@ enable-health-service-access-for-organization
 enable-hosted-zone-dnssec
 enable-image-deprecation
 enable-insight-rules
-e
+enable-ipam-organization-admin-account
+enable-key
+enable-key-rotation
+enable-kinesis-streaming-destination
+enable-ldaps
+enable-logging
+enable-metrics-collection
+enable-mfa-device
+enable-organization-admin
