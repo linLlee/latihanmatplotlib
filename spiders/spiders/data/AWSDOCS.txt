@@ -2782,4 +2782,11 @@ enable-client-authentication
 enable-directory
 enable-domain-auto-renew
 enable-domain-transfer-lock
-enable-ebs-encr
+enable-ebs-encryption-by-default
+enable-enhanced-monitoring
+enable-fast-snapshot-restores
+enable-health-service-access-for-organization
+enable-hosted-zone-dnssec
+enable-image-deprecation
+enable-insight-rules
+e
