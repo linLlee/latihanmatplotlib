@@ -2818,4 +2818,13 @@ encrypt
 enter-standby
 estimate-template-cost
 evaluate-expression
-evaluate-p
+evaluate-pull-request-approval-rules
+execute-budget-action
+execute-change-set
+execute-command
+execute-policy
+execute-provisioned-product-plan
+execute-provisioned-product-service-action
+execute-statement
+execute-transaction
+exit-stan
