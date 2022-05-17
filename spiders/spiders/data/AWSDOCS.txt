@@ -2827,4 +2827,14 @@ execute-provisioned-product-plan
 execute-provisioned-product-service-action
 execute-statement
 execute-transaction
-exit-stan
+exit-standby
+expire-session
+export-bundle
+export-certificate
+export-client-vpn-client-certificate-revocation-list
+export-client-vpn-client-configuration
+export-image
+export-project
+export-server-engine-attribute
+export-snapshot
+export-table-to
