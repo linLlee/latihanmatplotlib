@@ -2837,4 +2837,12 @@ export-image
 export-project
 export-server-engine-attribute
 export-snapshot
-export-table-to
+export-table-to-point-in-time
+export-transit-gateway-routes
+failover-db-cluster
+failover-global-cluster
+failover-global-replication-group
+filter-log-events
+flush-api-cache
+flush-stage-authorizers-cache
+flush-stage-ca
