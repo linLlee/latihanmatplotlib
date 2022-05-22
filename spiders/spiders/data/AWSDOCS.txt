@@ -2845,4 +2845,14 @@ failover-global-replication-group
 filter-log-events
 flush-api-cache
 flush-stage-authorizers-cache
-flush-stage-ca
+flush-stage-cache
+forget-device
+forget-smart-home-appliances
+forgot-password
+generate
+generate-change-set
+generate-client-certificate
+generate-credential-report
+generate-data-key
+generate-data-key-pair
+generate-data-key-pair-without-pla
