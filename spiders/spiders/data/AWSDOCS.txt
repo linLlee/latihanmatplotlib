@@ -2855,4 +2855,14 @@ generate-client-certificate
 generate-credential-report
 generate-data-key
 generate-data-key-pair
-generate-data-key-pair-without-pla
+generate-data-key-pair-without-plaintext
+generate-data-key-without-plaintext
+generate-data-set
+generate-db-auth-token
+generate-organizations-access-report
+generate-random
+generate-service-last-accessed-details
+generate-template
+get
+get-access-control-effect
+get-acc
