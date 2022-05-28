@@ -2865,4 +2865,13 @@ generate-service-last-accessed-details
 generate-template
 get
 get-access-control-effect
-get-acc
+get-access-key-info
+get-access-key-last-used
+get-account
+get-account-authorization-details
+get-account-balance
+get-account-configuration
+get-account-limit
+get-account-password-policy
+get-account-sending-enabled
+get
