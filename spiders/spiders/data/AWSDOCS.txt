@@ -2874,4 +2874,12 @@ get-account-configuration
 get-account-limit
 get-account-password-policy
 get-account-sending-enabled
-get
+get-account-settings
+get-account-summary
+get-action-type
+get-active-names
+get-activity-task
+get-address-book
+get-adm-channel
+get-aggregate-compliance-details-by-config-rule
+get-aggregate-confi
