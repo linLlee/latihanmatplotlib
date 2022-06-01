@@ -2900,4 +2900,12 @@ get-apns-sandbox-channel
 get-apns-voip-channel
 get-apns-voip-sandbox-channel
 get-app
-get-app-launch-configuratio
+get-app-launch-configuration
+get-app-replication-configuration
+get-app-validation-configuration
+get-app-validation-output
+get-application
+get-application-date-range-kpi
+get-application-policy
+get-application-revision
+get-applicat
