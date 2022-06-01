@@ -2890,4 +2890,14 @@ get-alarms
 get-alias
 get-anomalies
 get-anomaly-monitors
-g
+get-anomaly-subscriptions
+get-api-association
+get-api-cache
+get-api-key
+get-api-keys
+get-apns-channel
+get-apns-sandbox-channel
+get-apns-voip-channel
+get-apns-voip-sandbox-channel
+get-app
+get-app-launch-configuratio
