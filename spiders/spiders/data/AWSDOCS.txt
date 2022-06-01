@@ -2917,4 +2917,13 @@ get-assignment
 get-associated-enclave-certificate-iam-roles
 get-associated-ipv6-pool-cidrs
 get-associated-role
-get-att
+get-attribute-values
+get-attributes
+get-authorization-token
+get-authorizer
+get-authorizers
+get-auto-snapshots
+get-auto-termination-policy
+get-automation-execution
+get-aws-organizations-access-status
+get-ba
