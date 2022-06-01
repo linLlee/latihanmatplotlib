@@ -2908,4 +2908,13 @@ get-application
 get-application-date-range-kpi
 get-application-policy
 get-application-revision
-get-applicat
+get-application-settings
+get-applied-schema-version
+get-approval-rule-template
+get-apps
+get-assessment-report
+get-assignment
+get-associated-enclave-certificate-iam-roles
+get-associated-ipv6-pool-cidrs
+get-associated-role
+get-att
