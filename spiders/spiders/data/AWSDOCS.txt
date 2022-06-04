@@ -2985,4 +2985,13 @@ get-call-analytics-job
 get-caller-identity
 get-campaign
 get-campaign-activities
-get-ca
+get-campaign-date-range-kpi
+get-campaign-version
+get-campaign-versions
+get-campaigns
+get-capacity-reservation-usage
+get-cardinality
+get-catalog-import-status
+get-celebrity-info
+get-celebrity-recognition
+get-certificate
