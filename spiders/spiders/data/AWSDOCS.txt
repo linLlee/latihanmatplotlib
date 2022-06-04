@@ -2976,4 +2976,13 @@ get-builtin-slot-types
 get-bulk-deployment-status
 get-bulk-publish-details
 get-bundles
-get-b
+get-byte-match-set
+get-cache-policy
+get-cache-policy-config
+get-calendar-state
+get-call-analytics-category
+get-call-analytics-job
+get-caller-identity
+get-campaign
+get-campaign-activities
+get-ca
