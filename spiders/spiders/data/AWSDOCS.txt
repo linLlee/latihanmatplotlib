@@ -2936,4 +2936,15 @@ get-block-public-access-configuration
 get-blueprint
 get-blueprint-run
 get-blueprint-runs
-get-bl
+get-blueprints
+get-bot
+get-bot-alias
+get-bot-aliases
+get-bot-channel-association
+get-bot-channel-associations
+get-bot-versions
+get-bots
+get-branch
+get-bucket-accelerate-configuration
+get-bucket-access-keys
+ge
