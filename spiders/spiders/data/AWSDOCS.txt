@@ -2947,4 +2947,13 @@ get-bots
 get-branch
 get-bucket-accelerate-configuration
 get-bucket-access-keys
-ge
+get-bucket-acl
+get-bucket-analytics-configuration
+get-bucket-bundles
+get-bucket-cors
+get-bucket-encryption
+get-bucket-intelligent-tiering-configuration
+get-bucket-inventory-configuration
+get-bucket-lifecycle-configuration
+get-bucket-location
+get-
