@@ -2965,4 +2965,15 @@ get-bucket-policy
 get-bucket-policy-status
 get-bucket-replication
 get-bucket-request-payment
-get-bu
+get-bucket-tagging
+get-bucket-versioning
+get-bucket-website
+get-buckets
+get-buckets-aggregation
+get-builtin-intent
+get-builtin-intents
+get-builtin-slot-types
+get-bulk-deployment-status
+get-bulk-publish-details
+get-bundles
+get-b
