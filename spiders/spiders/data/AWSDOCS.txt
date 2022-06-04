@@ -2956,4 +2956,13 @@ get-bucket-intelligent-tiering-configuration
 get-bucket-inventory-configuration
 get-bucket-lifecycle-configuration
 get-bucket-location
-get-
+get-bucket-logging
+get-bucket-metric-data
+get-bucket-metrics-configuration
+get-bucket-notification-configuration
+get-bucket-ownership-controls
+get-bucket-policy
+get-bucket-policy-status
+get-bucket-replication
+get-bucket-request-payment
+get-bu
