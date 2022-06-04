@@ -2926,4 +2926,14 @@ get-auto-snapshots
 get-auto-termination-policy
 get-automation-execution
 get-aws-organizations-access-status
-get-ba
+get-baidu-channel
+get-base-path-mapping
+get-base-path-mappings
+get-batch-prediction
+get-behavior-model-training-summaries
+get-blob
+get-block-public-access-configuration
+get-blueprint
+get-blueprint-run
+get-blueprint-runs
+get-bl
