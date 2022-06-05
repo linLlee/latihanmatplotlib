@@ -3029,4 +3029,13 @@ get-compliance-summary
 get-compliance-summary-by-config-rule
 get-compliance-summary-by-resource-type
 get-conference-preference
-get-conferenc
+get-conference-provider
+get-config
+get-conformance-pack-compliance-details
+get-conformance-pack-compliance-summary
+get-connection
+get-connection-status
+get-connections
+get-connectivity-info
+get-connector-definition
+get-connector-definition-ve
