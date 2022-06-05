@@ -2995,3 +2995,16 @@ get-catalog-import-status
 get-celebrity-info
 get-celebrity-recognition
 get-certificate
+get-certificates
+get-change
+get-change-token
+get-change-token-status
+get-channels
+get-checker-ip-ranges
+get-classifier
+get-classifiers
+get-client-certificate
+get-client-certificates
+get-clip
+get-cloud-formation-stack-records
+get-cloud-formation-te
