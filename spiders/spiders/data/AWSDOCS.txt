@@ -3023,4 +3023,10 @@ get-comments-for-compared-commit
 get-comments-for-pull-request
 get-commit
 get-compatible-elasticsearch-versions
-get-compli
+get-compliance-details-by-config-rule
+get-compliance-details-by-resource
+get-compliance-summary
+get-compliance-summary-by-config-rule
+get-compliance-summary-by-resource-type
+get-conference-preference
+get-conferenc
