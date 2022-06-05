@@ -3015,4 +3015,12 @@ get-code-signing-config
 get-cognito-events
 get-coip-pool-usage
 get-column-statistics-for-partition
-get-co
+get-column-statistics-for-table
+get-command-invocation
+get-comment
+get-comment-reactions
+get-comments-for-compared-commit
+get-comments-for-pull-request
+get-commit
+get-compatible-elasticsearch-versions
+get-compli
