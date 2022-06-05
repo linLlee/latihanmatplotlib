@@ -3049,3 +3049,10 @@ get-container-api-metadata
 get-container-images
 get-container-log
 get-container-policy
+get-container-service-deployments
+get-container-service-metric-data
+get-container-service-powers
+get-container-services
+get-content-moderation
+get-context-keys-for-custom-policy
+get-context-keys-for-principal-policy
