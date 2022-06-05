@@ -3038,4 +3038,14 @@ get-connection-status
 get-connections
 get-connectivity-info
 get-connector-definition
-get-connector-definition-ve
+get-connector-definition-version
+get-connectors
+get-console-output
+get-console-screenshot
+get-contact
+get-contact-methods
+get-contact-reachability-status
+get-container-api-metadata
+get-container-images
+get-container-log
+get-container-policy
