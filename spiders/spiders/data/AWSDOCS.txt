@@ -3007,4 +3007,12 @@ get-client-certificate
 get-client-certificates
 get-clip
 get-cloud-formation-stack-records
-get-cloud-formation-te
+get-cloud-formation-template
+get-cloud-front-origin-access-identity
+get-cloud-front-origin-access-identity-config
+get-cluster-credentials
+get-code-signing-config
+get-cognito-events
+get-coip-pool-usage
+get-column-statistics-for-partition
+get-co
