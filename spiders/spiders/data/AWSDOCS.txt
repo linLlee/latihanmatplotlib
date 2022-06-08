@@ -3056,3 +3056,14 @@ get-container-services
 get-content-moderation
 get-context-keys-for-custom-policy
 get-context-keys-for-principal-policy
+get-core-definition
+get-core-definition-version
+get-cors-policy
+get-cost-and-usage
+get-cost-and-usage-with-resources
+get-cost-categories
+get-cost-forecast
+get-crawler
+get-crawler-metrics
+get-crawlers
+get-credenti
