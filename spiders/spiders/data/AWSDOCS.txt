@@ -3066,4 +3066,12 @@ get-cost-forecast
 get-crawler
 get-crawler-metrics
 get-crawlers
-get-credenti
+get-credential-report
+get-credentials-for-identity
+get-csv-header
+get-current-user
+get-custom-verification-email-template
+get-dash-streaming-session-url
+get-dashboard
+get-data-catalog
+get-data-catalog-en
