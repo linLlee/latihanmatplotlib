@@ -3074,4 +3074,13 @@ get-custom-verification-email-template
 get-dash-streaming-session-url
 get-dashboard
 get-data-catalog
-get-data-catalog-en
+get-data-catalog-encryption-settings
+get-data-endpoint
+get-data-retrieval-policy
+get-data-source
+get-database
+get-databases
+get-dataflow-graph
+get-default-credit-specification
+get-default-patch-baseline
+get-default-retention-po
