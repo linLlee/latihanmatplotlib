@@ -3083,4 +3083,14 @@ get-databases
 get-dataflow-graph
 get-default-credit-specification
 get-default-patch-baseline
-get-default-retention-po
+get-default-retention-policy
+get-deployable-patch-snapshot-for-instance
+get-deployment
+get-deployment-config
+get-deployment-group
+get-deployment-status
+get-deployment-target
+get-deployments
+get-detector
+get-dev-endpoint
+get-dev-endpoints
