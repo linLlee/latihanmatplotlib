@@ -3094,3 +3094,15 @@ get-deployments
 get-detector
 get-dev-endpoint
 get-dev-endpoints
+get-device
+get-device-definition
+get-device-definition-version
+get-device-fleet-report
+get-device-instance
+get-device-pool
+get-device-pool-compatibility
+get-differences
+get-dimension-values
+get-directory
+get-directory-limits
+ge
