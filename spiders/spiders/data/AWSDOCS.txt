@@ -3105,4 +3105,13 @@ get-differences
 get-dimension-values
 get-directory
 get-directory-limits
-ge
+get-discovered-resource-counts
+get-discovery-summary
+get-disk
+get-disk-snapshot
+get-disk-snapshots
+get-disks
+get-distribution
+get-distribution-bundles
+get-distribution-config
+get-distribution-latest-cache-re
