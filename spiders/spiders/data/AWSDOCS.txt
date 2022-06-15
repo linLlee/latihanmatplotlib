@@ -3114,4 +3114,16 @@ get-disks
 get-distribution
 get-distribution-bundles
 get-distribution-config
-get-distribution-latest-cache-re
+get-distribution-latest-cache-reset
+get-distribution-metric-data
+get-distributions
+get-dnssec
+get-document
+get-document-path
+get-document-version
+get-documentation-part
+get-documentation-parts
+get-documentation-version
+get-documentation-versions
+get-domain
+get-domain-det
