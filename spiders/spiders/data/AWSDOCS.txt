@@ -3126,4 +3126,15 @@ get-documentation-parts
 get-documentation-version
 get-documentation-versions
 get-domain
-get-domain-det
+get-domain-detail
+get-domain-name
+get-domain-names
+get-domain-suggestions
+get-domains
+get-download-url-for-layer
+get-ebs-default-kms-key-id
+get-ebs-encryption-by-default
+get-effective-policies
+get-email-channel
+get-email-template
+ge
