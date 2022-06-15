@@ -3137,4 +3137,15 @@ get-ebs-encryption-by-default
 get-effective-policies
 get-email-channel
 get-email-template
-ge
+get-encryption-config
+get-endpoint
+get-endpoint-attributes
+get-entitlements
+get-evaluation
+get-event-data-store
+get-event-selectors
+get-event-source-mapping
+get-event-stream
+get-exclusions-preview
+get-execution-history
+get-export
