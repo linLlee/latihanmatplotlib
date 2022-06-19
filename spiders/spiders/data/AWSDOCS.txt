@@ -3158,4 +3158,13 @@ get-facet
 get-federation-token
 get-field-level-encryption
 get-field-level-encryption-config
-get-
+get-field-level-encryption-profile
+get-field-level-encryption-profile-config
+get-file
+get-file-upload-url
+get-filter
+get-findings
+get-findings-statistics
+get-flow-logs-integration-template
+get-folder
+g
