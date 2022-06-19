@@ -3149,3 +3149,13 @@ get-event-stream
 get-exclusions-preview
 get-execution-history
 get-export
+get-export-job
+get-export-jobs
+get-export-snapshot-records
+get-face-detection
+get-face-search
+get-facet
+get-federation-token
+get-field-level-encryption
+get-field-level-encryption-config
+get-
