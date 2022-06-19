@@ -3174,4 +3174,16 @@ get-function-concurrency
 get-function-configuration
 get-function-definition
 get-function-definition-version
-get-function-event-invoke-c
+get-function-event-invoke-config
+get-game-session-log
+get-game-session-log-url
+get-gateway
+get-gateway-group
+get-gateway-response
+get-gateway-responses
+get-gcm-channel
+get-geo-location
+get-geo-match-set
+get-graphql-api
+get-group
+get-group-certific
