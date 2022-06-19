@@ -3167,4 +3167,11 @@ get-findings
 get-findings-statistics
 get-flow-logs-integration-template
 get-folder
-g
+get-folder-path
+get-function
+get-function-code-signing-config
+get-function-concurrency
+get-function-configuration
+get-function-definition
+get-function-definition-version
+get-function-event-invoke-c
