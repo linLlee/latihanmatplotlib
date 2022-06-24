@@ -3196,4 +3196,14 @@ get-groups
 get-groups-for-capacity-reservation
 get-health-check
 get-health-check-count
-get-health-chec
+get-health-check-last-failure-reason
+get-health-check-status
+get-hit
+get-hls-streaming-session-url
+get-host-reservation-purchase-preview
+get-hosted-zone
+get-hosted-zone-count
+get-hosted-zone-limit
+get-hostname-suggestion
+get-id
+get-identity-
