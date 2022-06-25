@@ -3206,4 +3206,11 @@ get-hosted-zone-count
 get-hosted-zone-limit
 get-hostname-suggestion
 get-id
-get-identity-
+get-identity-dkim-attributes
+get-identity-mail-from-domain-attributes
+get-identity-notification-attributes
+get-identity-policies
+get-identity-pool-configuration
+get-identity-pool-roles
+get-identity-provider-by-identifier
+get-
