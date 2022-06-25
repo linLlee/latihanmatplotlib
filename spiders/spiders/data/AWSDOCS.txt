@@ -3213,4 +3213,15 @@ get-identity-policies
 get-identity-pool-configuration
 get-identity-pool-roles
 get-identity-provider-by-identifier
-get-
+get-identity-verification-attributes
+get-import
+get-import-job
+get-import-jobs
+get-in-app-messages
+get-in-app-template
+get-indexing-configuration
+get-insight
+get-insight-events
+get-insight-impact-graph
+get-insight-rule-report
+get-ins
