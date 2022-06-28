@@ -3224,4 +3224,13 @@ get-insight
 get-insight-events
 get-insight-impact-graph
 get-insight-rule-report
-get-ins
+get-insight-selectors
+get-insight-summaries
+get-instance
+get-instance-access
+get-instance-access-details
+get-instance-metric-data
+get-instance-port-states
+get-instance-profile
+get-instance-snapshot
+get-instance-s
