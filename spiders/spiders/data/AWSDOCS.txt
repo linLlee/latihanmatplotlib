@@ -3243,4 +3243,14 @@ get-integration-response
 get-intent
 get-intent-versions
 get-intents
-get-int
+get-introspection-schema
+get-invalidation
+get-inventory
+get-inventory-schema
+get-invitation-configuration
+get-invitations-count
+get-ip-set
+get-ipam-address-history
+get-ipam-pool-allocations
+get-ipam-pool-cidrs
+get-
