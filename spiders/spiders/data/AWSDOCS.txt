@@ -3233,4 +3233,14 @@ get-instance-metric-data
 get-instance-port-states
 get-instance-profile
 get-instance-snapshot
-get-instance-s
+get-instance-snapshots
+get-instance-state
+get-instance-types-from-instance-requirements
+get-instances
+get-instances-health-status
+get-integration
+get-integration-response
+get-intent
+get-intent-versions
+get-intents
+get-int
