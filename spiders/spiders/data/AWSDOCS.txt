@@ -3267,4 +3267,14 @@ get-job-template
 get-job-unlock-code
 get-jobs
 get-journey
-get-journ
+get-journey-date-range-kpi
+get-journey-execution-activity-metrics
+get-journey-execution-metrics
+get-key-group
+get-key-group-config
+get-key-pair
+get-key-pairs
+get-key-policy
+get-key-rotation-status
+get-label-detection
+get-
