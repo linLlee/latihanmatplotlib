@@ -3327,4 +3327,16 @@ get-metric-data
 get-metric-policy
 get-metric-statistics
 get-metric-stream
-get-me
+get-metric-widget-image
+get-migration
+get-migrations
+get-ml-model
+get-ml-task-run
+get-ml-task-runs
+get-ml-transform
+get-ml-transforms
+get-mobile-device-access-effect
+get-mobile-device-access-override
+get-model
+get-model-package-group-policy
+get-model-templa
