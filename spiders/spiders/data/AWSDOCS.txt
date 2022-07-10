@@ -3287,4 +3287,14 @@ get-lifecycle-policy-preview
 get-lineage-group-policy
 get-link-attributes
 get-load-balancer
-get-loa
+get-load-balancer-metric-data
+get-load-balancer-tls-certificates
+get-load-balancers
+get-log-events
+get-log-group-fields
+get-log-record
+get-logger-definition
+get-logger-definition-version
+get-logging-configuration
+get-logging-options
+ge
