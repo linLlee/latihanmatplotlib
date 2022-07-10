@@ -3305,4 +3305,13 @@ get-mailbox-details
 get-maintenance-window
 get-maintenance-window-execution
 get-maintenance-window-execution-task
-get-maintenance-window-execution-
+get-maintenance-window-execution-task-invocation
+get-maintenance-window-task
+get-managed-prefix-list-associations
+get-managed-prefix-list-entries
+get-managed-scaling-policy
+get-mapping
+get-master-account
+get-media
+get-media-for-fragment-list
+get-medical-tra
