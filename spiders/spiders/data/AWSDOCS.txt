@@ -3277,4 +3277,14 @@ get-key-pairs
 get-key-policy
 get-key-rotation-status
 get-label-detection
-get-
+get-launch-template-data
+get-layer-version
+get-layer-version-by-arn
+get-layer-version-policy
+get-lexicon
+get-lifecycle-policy
+get-lifecycle-policy-preview
+get-lineage-group-policy
+get-link-attributes
+get-load-balancer
+get-loa
