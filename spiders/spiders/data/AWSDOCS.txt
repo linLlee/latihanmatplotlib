@@ -3297,4 +3297,12 @@ get-logger-definition
 get-logger-definition-version
 get-logging-configuration
 get-logging-options
-ge
+get-login
+get-login-password
+get-login-profile
+get-mail-domain
+get-mailbox-details
+get-maintenance-window
+get-maintenance-window-execution
+get-maintenance-window-execution-task
+get-maintenance-window-execution-
