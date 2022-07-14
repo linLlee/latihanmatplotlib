@@ -3349,4 +3349,14 @@ get-network-insights-access-scope-content
 get-network-profile
 get-object
 get-object-acl
-get-object-at
+get-object-attributes
+get-object-information
+get-object-legal-hold
+get-object-lock-configuration
+get-object-retention
+get-object-tagging
+get-object-torrent
+get-offering-status
+get-on-premises-instance
+get-open-id-connect-provider
+get-open
