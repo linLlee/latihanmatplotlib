@@ -3339,4 +3339,14 @@ get-mobile-device-access-effect
 get-mobile-device-access-override
 get-model
 get-model-package-group-policy
-get-model-templa
+get-model-template
+get-models
+get-monitoring-subscription
+get-named-query
+get-namespace
+get-network-insights-access-scope-analysis-findings
+get-network-insights-access-scope-content
+get-network-profile
+get-object
+get-object-acl
+get-object-at
