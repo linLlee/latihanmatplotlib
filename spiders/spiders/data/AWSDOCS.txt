@@ -3416,3 +3416,14 @@ get-pull-request-approval-states
 get-pull-request-override-state
 get-push-template
 get-qualification-score
+get-qualification-type
+get-query-execution
+get-query-logging-config
+get-query-results
+get-queue
+get-queue-attributes
+get-queue-url
+get-rate-based-rule
+get-rate-based-rule-managed-keys
+get-realtime-log-config
+get-recommend
