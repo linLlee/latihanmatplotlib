@@ -3359,4 +3359,13 @@ get-object-torrent
 get-offering-status
 get-on-premises-instance
 get-open-id-connect-provider
-get-open
+get-open-id-token
+get-open-id-token-for-developer-identity
+get-operation
+get-operation-detail
+get-operations
+get-operations-for-resource
+get-ops-item
+get-ops-metadata
+get-ops-summary
+get-organization-config-rule-detailed-st
