@@ -3386,4 +3386,14 @@ get-partition-indexes
 get-partitions
 get-password-data
 get-patch-baseline
-get
+get-patch-baseline-for-patch-group
+get-pending-job-executions
+get-percentiles
+get-permission-policy
+get-person-tracking
+get-pipeline
+get-pipeline-definition
+get-pipeline-execution
+get-pipeline-state
+get-plan
+get-platform-ap
