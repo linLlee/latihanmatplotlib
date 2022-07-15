@@ -3407,4 +3407,12 @@ get-products
 get-profile
 get-project
 get-provisioned-concurrency-config
-get-pr
+get-provisioned-product-outputs
+get-public-access-block
+get-public-key
+get-public-key-config
+get-pull-request
+get-pull-request-approval-states
+get-pull-request-override-state
+get-push-template
+get-qualification-score
