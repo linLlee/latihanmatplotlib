@@ -3368,4 +3368,11 @@ get-operations-for-resource
 get-ops-item
 get-ops-metadata
 get-ops-summary
-get-organization-config-rule-detailed-st
+get-organization-config-rule-detailed-status
+get-organization-conformance-pack-detailed-status
+get-organizations-access-report
+get-origin-request-policy
+get-origin-request-policy-config
+get-ota-update
+get-package-version-history
+get-parallel-
