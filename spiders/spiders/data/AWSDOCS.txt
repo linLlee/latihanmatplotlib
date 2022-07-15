@@ -3396,4 +3396,15 @@ get-pipeline-definition
 get-pipeline-execution
 get-pipeline-state
 get-plan
-get-platform-ap
+get-platform-application-attributes
+get-policy
+get-policy-version
+get-predictive-scaling-forecast
+get-prepared-statement
+get-preset
+get-principal-tag-attribute-map
+get-products
+get-profile
+get-project
+get-provisioned-concurrency-config
+get-pr
