@@ -3375,4 +3375,15 @@ get-origin-request-policy
 get-origin-request-policy-config
 get-ota-update
 get-package-version-history
-get-parallel-
+get-parallel-data
+get-parameter
+get-parameter-history
+get-parameters
+get-parameters-by-path
+get-parameters-for-import
+get-partition
+get-partition-indexes
+get-partitions
+get-password-data
+get-patch-baseline
+get
