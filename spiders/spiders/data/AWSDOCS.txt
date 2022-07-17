@@ -3426,4 +3426,14 @@ get-queue-url
 get-rate-based-rule
 get-rate-based-rule-managed-keys
 get-realtime-log-config
-get-recommend
+get-recommender-configuration
+get-recommender-configurations
+get-records
+get-regex-match-set
+get-regex-pattern-set
+get-regions
+get-registration-code
+get-registry
+get-registry-policy
+get-registry-scanning-configuration
+get
