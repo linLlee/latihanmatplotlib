@@ -3450,4 +3450,13 @@ get-relational-database-snapshots
 get-relational-databases
 get-remote-access-session
 get-replication-jobs
-get-replication-r
+get-replication-runs
+get-report-group-trend
+get-repository
+get-repository-policy
+get-repository-triggers
+get-request-validator
+get-request-validators
+get-reservation-coverage
+get-reservation-purchase-recommendation
+get-reservati
