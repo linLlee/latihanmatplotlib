@@ -3436,4 +3436,11 @@ get-registration-code
 get-registry
 get-registry-policy
 get-registry-scanning-configuration
-get
+get-relational-database
+get-relational-database-blueprints
+get-relational-database-bundles
+get-relational-database-events
+get-relational-database-log-events
+get-relational-database-log-streams
+get-relational-database-master-user-password
+get-
