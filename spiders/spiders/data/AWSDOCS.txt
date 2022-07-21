@@ -3466,4 +3466,14 @@ get-reserved-node-exchange-offerings
 get-resolver
 get-resource
 get-resource-config-history
-get-resource-defi
+get-resource-definition
+get-resource-definition-version
+get-resource-policies
+get-resource-policy
+get-resources
+get-response-headers-policy
+get-response-headers-policy-config
+get-rest-api
+get-rest-apis
+get-retained-message
+get-reusab
