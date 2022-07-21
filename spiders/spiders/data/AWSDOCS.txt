@@ -3459,4 +3459,11 @@ get-request-validator
 get-request-validators
 get-reservation-coverage
 get-reservation-purchase-recommendation
-get-reservati
+get-reservation-utilization
+get-reserved-instances-exchange-quote
+get-reserved-node-exchange-configuration-options
+get-reserved-node-exchange-offerings
+get-resolver
+get-resource
+get-resource-config-history
+get-resource-defi
