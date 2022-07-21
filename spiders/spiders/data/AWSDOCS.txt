@@ -3476,4 +3476,14 @@ get-response-headers-policy-config
 get-rest-api
 get-rest-apis
 get-retained-message
-get-reusab
+get-reusable-delegation-set
+get-reusable-delegation-set-limit
+get-rightsizing-recommendation
+get-role
+get-role-policy
+get-room
+get-room-skill-parameter
+get-rule
+get-rule-group
+get-run
+get-sagemaker-servicecatalog-portfo
