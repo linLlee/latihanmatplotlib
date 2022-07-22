@@ -3494,4 +3494,12 @@ get-sampling-statistic-summaries
 get-sampling-targets
 get-savings-plans-coverage
 get-savings-plans-purchase-recommendation
-get-savings-plan
+get-savings-plans-utilization
+get-savings-plans-utilization-details
+get-scaling-plan-resource-forecast-data
+get-schema
+get-schema-as-json
+get-schema-by-definition
+get-schema-creation-status
+get-schema-version
+get-sch
