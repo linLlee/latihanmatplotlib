@@ -3486,4 +3486,12 @@ get-room-skill-parameter
 get-rule
 get-rule-group
 get-run
-get-sagemaker-servicecatalog-portfo
+get-sagemaker-servicecatalog-portfolio-status
+get-saml-provider
+get-sampled-requests
+get-sampling-rules
+get-sampling-statistic-summaries
+get-sampling-targets
+get-savings-plans-coverage
+get-savings-plans-purchase-recommendation
+get-savings-plan
