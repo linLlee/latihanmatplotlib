@@ -3502,4 +3502,13 @@ get-schema-as-json
 get-schema-by-definition
 get-schema-creation-status
 get-schema-version
-get-sch
+get-schema-versions-diff
+get-sdk
+get-sdk-type
+get-sdk-types
+get-search-suggestions
+get-security-configuration
+get-security-configurations
+get-segment
+get-segment-detection
+get-segment-export-jobs
