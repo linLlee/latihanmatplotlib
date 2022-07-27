@@ -3522,4 +3522,11 @@ get-serial-console-access-status
 get-server-certificate
 get-servers
 get-service
+get-service-graph
+get-service-last-accessed-details
+get-service-last-accessed-details-with-entities
+get-service-linked-role-deletion-status
+get-service-role-for-account
+get-service-setting
+get-session
 get-s
