@@ -3512,3 +3512,14 @@ get-security-configurations
 get-segment
 get-segment-detection
 get-segment-export-jobs
+get-segment-import-jobs
+get-segment-version
+get-segment-versions
+get-segments
+get-send-quota
+get-send-statistics
+get-serial-console-access-status
+get-server-certificate
+get-servers
+get-service
+get-s
