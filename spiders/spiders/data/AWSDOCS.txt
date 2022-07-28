@@ -3529,4 +3529,13 @@ get-service-linked-role-deletion-status
 get-service-role-for-account
 get-service-setting
 get-session
-get-s
+get-session-token
+get-shard-iterator
+get-shipping-label
+get-signaling-channel-endpoint
+get-signing-certificate
+get-size-constraint-set
+get-skill-group
+get-slot-type
+get-slot-type-versions
+get-slot-types
