@@ -3539,3 +3539,14 @@ get-skill-group
 get-slot-type
 get-slot-type-versions
 get-slot-types
+get-sms-attributes
+get-sms-channel
+get-sms-sandbox-account-status
+get-sms-template
+get-snapshot-limits
+get-snowball-usage
+get-software-updates
+get-speech-synthesis-task
+get-spot-placement-scores
+get-sql-injection-match-set
+get-
