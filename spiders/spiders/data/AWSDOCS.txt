@@ -3549,4 +3549,16 @@ get-software-updates
 get-speech-synthesis-task
 get-spot-placement-scores
 get-sql-injection-match-set
-get-
+get-ssh-public-key
+get-stack-policy
+get-stage
+get-stages
+get-static-ip
+get-static-ips
+get-statistics
+get-status
+get-stored-query
+get-streaming-distribution
+get-streaming-distribution-config
+get-studio-session-mapping
+ge
