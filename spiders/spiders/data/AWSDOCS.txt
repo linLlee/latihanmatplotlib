@@ -3561,4 +3561,14 @@ get-stored-query
 get-streaming-distribution
 get-streaming-distribution-config
 get-studio-session-mapping
-ge
+get-subnet-cidr-reservations
+get-subscription-attributes
+get-subscription-definition
+get-subscription-definition-version
+get-subscription-state
+get-suite
+get-table
+get-table-metadata
+get-table-version
+get-table-versions
+get-
