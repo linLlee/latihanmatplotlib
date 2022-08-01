@@ -3651,4 +3651,15 @@ get-workflow-execution-history
 get-workflow-run
 get-workflow-run-properties
 get-workflow-runs
-get-xss-ma
+get-xss-match-set
+global-sign-out
+grant-access
+group-resources
+head-bucket
+head-object
+import-api-keys
+import-app-catalog
+import-as-provisioned-product
+import-catalog-to-glue
+import-certificate
+import-c
