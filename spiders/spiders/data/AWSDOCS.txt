@@ -3584,4 +3584,14 @@ get-test-grid-project
 get-test-grid-session
 get-text-detection
 get-thing-runtime-configuration
-get-thing-sh
+get-thing-shadow
+get-third-party-job-details
+get-threat-intel-set
+get-time-series-service-statistics
+get-topic-attributes
+get-topic-rule
+get-topic-rule-destination
+get-trace-graph
+get-trace-summaries
+get-traffic-policy
+get-traffic-polic
