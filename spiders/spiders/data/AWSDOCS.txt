@@ -3641,4 +3641,14 @@ get-voice-template
 get-vpc-link
 get-vpc-links
 get-vpce-configuration
-get-vpn-connection
+get-vpn-connection-device-sample-configuration
+get-vpn-connection-device-types
+get-web-acl
+get-web-acl-for-resource
+get-work-group
+get-workflow
+get-workflow-execution-history
+get-workflow-run
+get-workflow-run-properties
+get-workflow-runs
+get-xss-ma
