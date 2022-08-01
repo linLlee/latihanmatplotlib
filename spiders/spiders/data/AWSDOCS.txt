@@ -3629,4 +3629,16 @@ get-user-defined-functions
 get-user-endpoints
 get-user-policy
 get-user-pool-mfa-config
-get-utteranc
+get-utterances-view
+get-v2-logging-options
+get-vault-access-policy
+get-vault-lock
+get-vault-notifications
+get-vocabulary
+get-vocabulary-filter
+get-voice-channel
+get-voice-template
+get-vpc-link
+get-vpc-links
+get-vpce-configuration
+get-vpn-connection
