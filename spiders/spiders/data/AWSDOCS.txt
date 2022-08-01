@@ -3609,4 +3609,14 @@ get-triggers
 get-type
 get-typed-link-facet-information
 get-ui-customization
-get-unfil
+get-unfiltered-partition-metadata
+get-unfiltered-partitions-metadata
+get-unfiltered-table-metadata
+get-upgrade-history
+get-upgrade-status
+get-upload
+get-usage
+get-usage-forecast
+get-usage-plan
+get-usage-plan-key
+get-usage-p
