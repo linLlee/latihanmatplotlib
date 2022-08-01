@@ -3619,4 +3619,14 @@ get-usage
 get-usage-forecast
 get-usage-plan
 get-usage-plan-key
-get-usage-p
+get-usage-plan-keys
+get-usage-plans
+get-usage-statistics
+get-user
+get-user-attribute-verification-code
+get-user-defined-function
+get-user-defined-functions
+get-user-endpoints
+get-user-policy
+get-user-pool-mfa-config
+get-utteranc
