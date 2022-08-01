@@ -3594,4 +3594,11 @@ get-topic-rule-destination
 get-trace-graph
 get-trace-summaries
 get-traffic-policy
-get-traffic-polic
+get-traffic-policy-instance
+get-traffic-policy-instance-count
+get-trail
+get-trail-status
+get-transcription-job
+get-transit-gateway-attachment-propagations
+get-transit-gateway-multicast-domain-associations
+get-transit-gateway-pref
