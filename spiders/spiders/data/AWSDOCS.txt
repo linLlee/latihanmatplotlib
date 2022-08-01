@@ -3601,4 +3601,12 @@ get-trail-status
 get-transcription-job
 get-transit-gateway-attachment-propagations
 get-transit-gateway-multicast-domain-associations
-get-transit-gateway-pref
+get-transit-gateway-prefix-list-references
+get-transit-gateway-route-table-associations
+get-transit-gateway-route-table-propagations
+get-trigger
+get-triggers
+get-type
+get-typed-link-facet-information
+get-ui-customization
+get-unfil
