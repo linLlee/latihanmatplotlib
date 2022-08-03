@@ -3662,4 +3662,13 @@ import-app-catalog
 import-as-provisioned-product
 import-catalog-to-glue
 import-certificate
-import-c
+import-client-vpn-client-certificate-revocation-list
+import-documentation-parts
+import-image
+import-installation-media
+import-key-material
+import-key-pair
+import-migration-task
+import-rest-api
+import-server-catalog
+impo
