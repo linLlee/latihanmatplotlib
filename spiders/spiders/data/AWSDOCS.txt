@@ -3678,4 +3678,15 @@ import-terminology
 import-workspace-image
 increase-node-groups-in-global-replication-group
 increase-replica-count
-increase-replication-fac
+increase-replication-factor
+increase-stream-retention-period
+index-documents
+index-faces
+initialize-cluster
+initiate-auth
+initiate-document-version-upload
+initiate-job
+initiate-layer-upload
+initiate-multipart-upload
+initiate-vault-lock
+ins
