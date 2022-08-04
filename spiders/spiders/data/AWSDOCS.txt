@@ -3671,4 +3671,11 @@ import-key-pair
 import-migration-task
 import-rest-api
 import-server-catalog
-impo
+import-snapshot
+import-source-credentials
+import-stacks-to-stack-set
+import-terminology
+import-workspace-image
+increase-node-groups-in-global-replication-group
+increase-replica-count
+increase-replication-fac
