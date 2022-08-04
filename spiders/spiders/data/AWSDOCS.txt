@@ -3689,4 +3689,16 @@ initiate-job
 initiate-layer-upload
 initiate-multipart-upload
 initiate-vault-lock
-ins
+install
+install-applications
+install-to-remote-access-session
+invalidate-project-cache
+invite-account-to-organization
+invite-members
+invoke
+invoke-endpoint
+invoke-endpoint-async
+is-vpc-peered
+join-domain
+label-parameter-version
+launch-
