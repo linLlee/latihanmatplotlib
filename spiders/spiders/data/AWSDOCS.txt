@@ -3701,4 +3701,13 @@ invoke-endpoint-async
 is-vpc-peered
 join-domain
 label-parameter-version
-launch-
+launch-app
+leave-organization
+list
+list-accepted-portfolio-shares
+list-access-control-rules
+list-access-keys
+list-account-aliases
+list-account-settings
+list-accounts
+list-accounts-for-paren
