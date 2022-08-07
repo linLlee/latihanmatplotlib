@@ -3710,4 +3710,14 @@ list-access-keys
 list-account-aliases
 list-account-settings
 list-accounts
-list-accounts-for-paren
+list-accounts-for-parent
+list-action-executions
+list-action-types
+list-actions
+list-activated-rules-in-rule-group
+list-active-violations
+list-activities
+list-activity-types
+list-aggregate-discovered-resources
+list-algorithms
+list-aliases
