@@ -3739,3 +3739,12 @@ list-assessment-run-agents
 list-assessment-runs
 list-assessment-targets
 list-assessment-templates
+list-assignments-for-hit
+list-associated-approval-rule-templates-for-repository
+list-associated-fleets
+list-associated-stacks
+list-association-versions
+list-associations
+list-attached-group-policies
+list-attached-indices
+list-atta
