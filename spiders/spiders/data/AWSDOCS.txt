@@ -3755,4 +3755,12 @@ list-attributes
 list-audit-findings
 list-audit-mitigation-actions-executions
 list-audit-mitigation-actions-tasks
-list-a
+list-audit-suppressions
+list-audit-tasks
+list-authorizers
+list-auto-ml-jobs
+list-automatic-tape-creation-policies
+list-available-management-cidr-ranges
+list-available-solution-stacks
+list-available-zones
+list-aws-servic
