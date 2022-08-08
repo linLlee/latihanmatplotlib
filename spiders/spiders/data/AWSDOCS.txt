@@ -3721,3 +3721,13 @@ list-activity-types
 list-aggregate-discovered-resources
 list-algorithms
 list-aliases
+list-allowed-node-type-modifications
+list-api-destinations
+list-api-keys
+list-app-image-configs
+list-application-dependencies
+list-application-revisions
+list-application-states
+list-application-versions
+list-applications
+lis
