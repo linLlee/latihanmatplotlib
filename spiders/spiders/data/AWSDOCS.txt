@@ -3763,4 +3763,13 @@ list-automatic-tape-creation-policies
 list-available-management-cidr-ranges
 list-available-solution-stacks
 list-available-zones
-list-aws-servic
+list-aws-service-access-for-organization
+list-backups
+list-billing-groups
+list-blueprints
+list-bonus-payments
+list-branches
+list-brokers
+list-bucket-analytics-configurations
+list-bucket-intelligent-tiering-configurations
+list-bucket-inventory-
