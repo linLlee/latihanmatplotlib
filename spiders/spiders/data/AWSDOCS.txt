@@ -3747,4 +3747,12 @@ list-association-versions
 list-associations
 list-attached-group-policies
 list-attached-indices
-list-atta
+list-attached-policies
+list-attached-role-policies
+list-attached-user-policies
+list-attacks
+list-attributes
+list-audit-findings
+list-audit-mitigation-actions-executions
+list-audit-mitigation-actions-tasks
+list-a
