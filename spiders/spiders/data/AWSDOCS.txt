@@ -3780,4 +3780,13 @@ list-build-batches
 list-build-batches-for-project
 list-builds
 list-builds-for-project
-list-bulk-deployment-detailed-re
+list-bulk-deployment-detailed-reports
+list-bulk-deployments
+list-bundles
+list-business-report-schedules
+list-byte-match-sets
+list-ca-certificates
+list-cache-policies
+list-call-analytics-categories
+list-call-analytics-jobs
+list-candidates-for-auto-m
