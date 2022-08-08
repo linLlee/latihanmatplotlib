@@ -3772,4 +3772,12 @@ list-branches
 list-brokers
 list-bucket-analytics-configurations
 list-bucket-intelligent-tiering-configurations
-list-bucket-inventory-
+list-bucket-inventory-configurations
+list-bucket-metrics-configurations
+list-buckets
+list-budgets-for-resource
+list-build-batches
+list-build-batches-for-project
+list-builds
+list-builds-for-project
+list-bulk-deployment-detailed-re
