@@ -3730,4 +3730,12 @@ list-application-revisions
 list-application-states
 list-application-versions
 list-applications
-lis
+list-applied-schema-arns
+list-approval-rule-templates
+list-apps
+list-archives
+list-artifacts
+list-assessment-run-agents
+list-assessment-runs
+list-assessment-targets
+list-assessment-templates
