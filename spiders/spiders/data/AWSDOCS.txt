@@ -3789,4 +3789,14 @@ list-ca-certificates
 list-cache-policies
 list-call-analytics-categories
 list-call-analytics-jobs
-list-candidates-for-auto-m
+list-candidates-for-auto-ml-job
+list-certificates
+list-certificates-by-ca
+list-change-sets
+list-channels
+list-children
+list-closed-workflow-executions
+list-cloud-front-origin-access-identities
+list-cluster-jobs
+list-clusters
+list-code-
