@@ -3799,4 +3799,15 @@ list-closed-workflow-executions
 list-cloud-front-origin-access-identities
 list-cluster-jobs
 list-clusters
-list-code-
+list-code-repositories
+list-code-signing-configs
+list-collections
+list-command-invocations
+list-commands
+list-compatible-images
+list-compilation-jobs
+list-compliance-items
+list-compliance-summaries
+list-conference-providers
+list-configuration-revisions
+l
