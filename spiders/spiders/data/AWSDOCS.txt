@@ -3810,4 +3810,12 @@ list-compliance-items
 list-compliance-summaries
 list-conference-providers
 list-configuration-revisions
-l
+list-configuration-sets
+list-configurations
+list-conflicting-aliases
+list-connections
+list-connector-definition-versions
+list-connector-definitions
+list-constraints-for-portfolio
+list-container-instances
+lis
