@@ -3835,4 +3835,12 @@ list-data-catalogs
 list-data-quality-job-definitions
 list-data-sources
 list-databases
-list-
+list-dataset-entries
+list-dataset-labels
+list-datasets
+list-dead-letter-source-queues
+list-delegated-administrators
+list-delegated-services-for-account
+list-delivery-streams
+list-deployment-configs
+list-deployment
