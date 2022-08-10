@@ -3827,4 +3827,12 @@ list-cost-category-definitions
 list-crawlers
 list-create-account-status
 list-created-artifacts
-l
+list-curated-environment-images
+list-custom-metrics
+list-custom-verification-email-templates
+list-dashboards
+list-data-catalogs
+list-data-quality-job-definitions
+list-data-sources
+list-databases
+list-
