@@ -3850,4 +3850,15 @@ list-detect-mitigation-actions-executions
 list-detect-mitigation-actions-tasks
 list-detectors
 list-dev-endpoints
-list-development-sch
+list-development-schema-arns
+list-device-definition-versions
+list-device-definitions
+list-device-events
+list-device-fleets
+list-device-instances
+list-device-pools
+list-devices
+list-dimensions
+list-directories
+list-discovered-resources
+list-distr
