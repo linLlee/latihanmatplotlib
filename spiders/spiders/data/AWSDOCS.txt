@@ -3843,4 +3843,11 @@ list-delegated-administrators
 list-delegated-services-for-account
 list-delivery-streams
 list-deployment-configs
-list-deployment
+list-deployment-groups
+list-deployment-targets
+list-deployments
+list-detect-mitigation-actions-executions
+list-detect-mitigation-actions-tasks
+list-detectors
+list-dev-endpoints
+list-development-sch
