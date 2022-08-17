@@ -3861,4 +3861,9 @@ list-devices
 list-dimensions
 list-directories
 list-discovered-resources
-list-distr
+list-distributions
+list-distributions-by-cache-policy-id
+list-distributions-by-key-group
+list-distributions-by-origin-request-policy-id
+list-distributions-by-realtime-log-config
+list-distributions-by-
