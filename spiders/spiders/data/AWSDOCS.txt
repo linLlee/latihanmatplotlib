@@ -3866,4 +3866,11 @@ list-distributions-by-cache-policy-id
 list-distributions-by-key-group
 list-distributions-by-origin-request-policy-id
 list-distributions-by-realtime-log-config
-list-distributions-by-
+list-distributions-by-response-headers-policy-id
+list-distributions-by-web-acl-id
+list-document-classification-jobs
+list-document-classifier-summaries
+list-document-classifiers
+list-document-metadata-history
+list-document-versions
+li
