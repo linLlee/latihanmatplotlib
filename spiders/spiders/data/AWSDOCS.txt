@@ -3881,4 +3881,12 @@ list-domains-for-package
 list-dominant-language-detection-jobs
 list-edge-packaging-jobs
 list-elasticsearch-instance-types
-list-
+list-elasticsearch-versions
+list-endpoint-configs
+list-endpoints
+list-endpoints-by-platform-application
+list-engine-versions
+list-entities-detection-jobs
+list-entities-for-policy
+list-entitled-applications
+l
