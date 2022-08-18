@@ -3873,4 +3873,12 @@ list-document-classifier-summaries
 list-document-classifiers
 list-document-metadata-history
 list-document-versions
-li
+list-documents
+list-domain-configurations
+list-domain-names
+list-domains
+list-domains-for-package
+list-dominant-language-detection-jobs
+list-edge-packaging-jobs
+list-elasticsearch-instance-types
+list-
