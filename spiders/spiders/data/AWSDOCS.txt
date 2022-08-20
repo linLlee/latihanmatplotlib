@@ -3889,4 +3889,12 @@ list-engine-versions
 list-entities-detection-jobs
 list-entities-for-policy
 list-entitled-applications
-l
+list-entity-recognizer-summaries
+list-entity-recognizers
+list-environments
+list-event-buses
+list-event-data-stores
+list-event-source-mappings
+list-event-sources
+list-event-subscriptions
+list-events-
