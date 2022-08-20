@@ -3938,4 +3938,15 @@ list-group-resources
 list-group-versions
 list-groups
 list-groups-for-user
-list-handshakes-
+list-handshakes-for-account
+list-handshakes-for-organization
+list-hapgs
+list-harvest-jobs
+list-health-checks
+list-hits
+list-hits-for-qualification-type
+list-hosted-zones
+list-hosted-zones-by-name
+list-hosted-zones-by-vpc
+list-hsms
+list-human
