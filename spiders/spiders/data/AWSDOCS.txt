@@ -3927,4 +3927,15 @@ list-gateway-groups
 list-gateways
 list-geo-locations
 list-geo-match-sets
-l
+list-git-hub-account-token-names
+list-global-tables
+list-grants
+list-graphql-apis
+list-group-certificate-authorities
+list-group-members
+list-group-policies
+list-group-resources
+list-group-versions
+list-groups
+list-groups-for-user
+list-handshakes-
