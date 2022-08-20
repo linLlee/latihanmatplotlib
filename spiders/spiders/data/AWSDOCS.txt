@@ -3949,4 +3949,14 @@ list-hosted-zones
 list-hosted-zones-by-name
 list-hosted-zones-by-vpc
 list-hsms
-list-human
+list-human-task-uis
+list-hyper-parameter-tuning-jobs
+list-identities
+list-identity-policies
+list-identity-pool-usage
+list-identity-pools
+list-identity-providers
+list-image-versions
+list-images
+list-imports
+list-in
