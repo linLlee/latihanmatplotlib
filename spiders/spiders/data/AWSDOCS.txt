@@ -3917,4 +3917,14 @@ list-fleets
 list-flow-definitions
 list-fragments
 list-function-definition-versions
-list-function-definitio
+list-function-definitions
+list-function-event-invoke-configs
+list-functions
+list-functions-by-code-signing-config
+list-game-server-groups
+list-game-servers
+list-gateway-groups
+list-gateways
+list-geo-locations
+list-geo-match-sets
+l
