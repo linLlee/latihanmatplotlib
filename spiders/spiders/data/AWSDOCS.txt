@@ -3907,4 +3907,14 @@ list-facet-attributes
 list-facet-names
 list-feature-groups
 list-field-level-encryption-configs
-list-field-level-en
+list-field-level-encryption-profiles
+list-file-shares
+list-file-system-associations
+list-filters
+list-findings
+list-fleet-metrics
+list-fleets
+list-flow-definitions
+list-fragments
+list-function-definition-versions
+list-function-definitio
