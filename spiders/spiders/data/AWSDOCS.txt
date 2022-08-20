@@ -3897,4 +3897,14 @@ list-event-data-stores
 list-event-source-mappings
 list-event-sources
 list-event-subscriptions
-list-events-
+list-events-detection-jobs
+list-exclusions
+list-executions
+list-experiments
+list-exports
+list-faces
+list-facet-attributes
+list-facet-names
+list-feature-groups
+list-field-level-encryption-configs
+list-field-level-en
