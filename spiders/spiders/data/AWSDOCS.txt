@@ -3959,4 +3959,14 @@ list-identity-providers
 list-image-versions
 list-images
 list-imports
-list-in
+list-incoming-typed-links
+list-index
+list-indices
+list-inference-recommendations-jobs
+list-input-device-transfers
+list-input-devices
+list-input-security-groups
+list-inputs
+list-instance-fleets
+list-instance-profile-tags
+l
