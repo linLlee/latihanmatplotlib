@@ -3969,4 +3969,14 @@ list-input-security-groups
 list-inputs
 list-instance-fleets
 list-instance-profile-tags
-l
+list-instance-profiles
+list-instance-profiles-for-role
+list-instances
+list-invalidations
+list-inventory-entries
+list-invitations
+list-ip-routes
+list-ip-sets
+list-items
+list-job-executions-for-job
+list
