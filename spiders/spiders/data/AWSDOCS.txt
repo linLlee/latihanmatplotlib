@@ -3979,4 +3979,15 @@ list-ip-routes
 list-ip-sets
 list-items
 list-job-executions-for-job
-list
+list-job-executions-for-thing
+list-job-templates
+list-jobs
+list-jobs-by-pipeline
+list-jobs-by-status
+list-journeys
+list-key-groups
+list-key-phrases-detection-jobs
+list-key-policies
+list-keys
+list-labeling-jobs
+list-labeling-jobs
