@@ -4000,4 +4000,12 @@ list-lineage-groups
 list-local-disks
 list-log-subscriptions
 list-logger-definition-versions
-li
+list-logger-definitions
+list-logging-configurations
+list-long-term-pricing
+list-luna-clients
+list-mail-domains
+list-mailbox-export-jobs
+list-mailbox-permissions
+list-managed-job-templates
+list-managed-schema-arns
