@@ -3990,4 +3990,14 @@ list-key-phrases-detection-jobs
 list-key-policies
 list-keys
 list-labeling-jobs
-list-labeling-jobs
+list-labeling-jobs-for-workteam
+list-language-models
+list-launch-paths
+list-layer-versions
+list-layers
+list-lexicons
+list-lineage-groups
+list-local-disks
+list-log-subscriptions
+list-logger-definition-versions
+li
