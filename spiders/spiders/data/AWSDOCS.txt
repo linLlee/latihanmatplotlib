@@ -4009,3 +4009,13 @@ list-mailbox-export-jobs
 list-mailbox-permissions
 list-managed-job-templates
 list-managed-schema-arns
+list-medical-transcription-jobs
+list-medical-vocabularies
+list-members
+list-metric-streams
+list-metrics
+list-mfa-device-tags
+list-mfa-devices
+list-migration-tasks
+list-mitigation-actions
+list-ml-tr
