@@ -4024,4 +4024,13 @@ list-mobile-device-access-rules
 list-model-bias-job-definitions
 list-model-explainability-job-definitions
 list-model-metadata
-list-mod
+list-model-package-groups
+list-model-packages
+list-model-quality-job-definitions
+list-models
+list-monitoring-executions
+list-monitoring-schedules
+list-multipart-uploads
+list-multiplex-programs
+list-multiplexes
+list-named-que
