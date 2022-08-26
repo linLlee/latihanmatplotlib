@@ -4018,4 +4018,10 @@ list-mfa-device-tags
 list-mfa-devices
 list-migration-tasks
 list-mitigation-actions
-list-ml-tr
+list-ml-transforms
+list-mobile-device-access-overrides
+list-mobile-device-access-rules
+list-model-bias-job-definitions
+list-model-explainability-job-definitions
+list-model-metadata
+list-mod
