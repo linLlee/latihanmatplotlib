@@ -4051,4 +4051,11 @@ list-objects-v2
 list-offering-promotions
 list-offering-transactions
 list-offerings
-list
+list-on-premises-instances
+list-open-id-connect-provider-tags
+list-open-id-connect-providers
+list-open-workflow-executions
+list-operations
+list-ops-item-events
+list-ops-item-related-items
+list-ops-metad
