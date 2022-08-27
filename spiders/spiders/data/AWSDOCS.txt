@@ -4082,4 +4082,13 @@ list-pipeline-executions
 list-pipeline-parameters-for-execution
 list-pipelines
 list-platform-applications
-list-platform-branche
+list-platform-branches
+list-platform-versions
+list-policies
+list-policies-for-target
+list-policies-granting-service-access
+list-policy-attachments
+list-policy-tags
+list-policy-versions
+list-portfolio-access
+list-po
