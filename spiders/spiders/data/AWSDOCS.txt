@@ -4066,4 +4066,13 @@ list-organizations
 list-origin-endpoints
 list-origin-request-policies
 list-origination-numbers
-l
+list-ota-updates
+list-outgoing-certificates
+list-outgoing-typed-links
+list-packages-for-domain
+list-parallel-data
+list-parents
+list-partner-event-source-accounts
+list-partner-event-sources
+list-parts
+list-phone
