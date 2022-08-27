@@ -4108,4 +4108,13 @@ list-provisioned-concurrency-configs
 list-provisioned-product-plans
 list-provisioning-artifacts
 list-provisioning-artifacts-for-service-action
-list-provisio
+list-provisioning-template-versions
+list-provisioning-templates
+list-public-keys
+list-published-schema-arns
+list-publishing-destinations
+list-pull-requests
+list-qualification-requests
+list-qualification-types
+list-queries
+list-query-ex
