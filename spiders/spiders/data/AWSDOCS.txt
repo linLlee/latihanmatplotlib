@@ -4058,4 +4058,12 @@ list-open-workflow-executions
 list-operations
 list-ops-item-events
 list-ops-item-related-items
-list-ops-metad
+list-ops-metadata
+list-organization-admin-accounts
+list-organization-portfolio-access
+list-organizational-units-for-parent
+list-organizations
+list-origin-endpoints
+list-origin-request-policies
+list-origination-numbers
+l
