@@ -4042,4 +4042,13 @@ list-notebook-instance-lifecycle-configs
 list-notebook-instances
 list-object-attributes
 list-object-children
-list-obj
+list-object-parent-paths
+list-object-parents
+list-object-policies
+list-object-versions
+list-objects
+list-objects-v2
+list-offering-promotions
+list-offering-transactions
+list-offerings
+list
