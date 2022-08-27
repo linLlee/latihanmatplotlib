@@ -4075,4 +4075,11 @@ list-parents
 list-partner-event-source-accounts
 list-partner-event-sources
 list-parts
-list-phone
+list-phone-numbers-opted-out
+list-pii-entities-detection-jobs
+list-pipeline-execution-steps
+list-pipeline-executions
+list-pipeline-parameters-for-execution
+list-pipelines
+list-platform-applications
+list-platform-branche
