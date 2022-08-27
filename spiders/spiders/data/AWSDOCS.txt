@@ -4101,4 +4101,11 @@ list-principals-for-portfolio
 list-processing-jobs
 list-progress-update-streams
 list-projects
-list-prote
+list-protection-groups
+list-protections
+list-provisioned-capacity
+list-provisioned-concurrency-configs
+list-provisioned-product-plans
+list-provisioning-artifacts
+list-provisioning-artifacts-for-service-action
+list-provisio
