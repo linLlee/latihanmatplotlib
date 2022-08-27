@@ -4091,4 +4091,14 @@ list-policy-attachments
 list-policy-tags
 list-policy-versions
 list-portfolio-access
-list-po
+list-portfolios
+list-portfolios-for-product
+list-prepared-statements
+list-presets
+list-prices
+list-principal-things
+list-principals-for-portfolio
+list-processing-jobs
+list-progress-update-streams
+list-projects
+list-prote
