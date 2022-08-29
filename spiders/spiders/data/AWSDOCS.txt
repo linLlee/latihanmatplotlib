@@ -4173,4 +4173,13 @@ list-saml-provider-tags
 list-saml-providers
 list-samples
 list-scheduled-audits
-list-scheduling-poli
+list-scheduling-policies
+list-schema-extensions
+list-schema-versions
+list-schemas
+list-scripts
+list-security-configurations
+list-security-profiles
+list-security-profiles-for-target
+list-sentiment-detection-jobs
+list-server-
