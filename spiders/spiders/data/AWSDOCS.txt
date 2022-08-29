@@ -4153,4 +4153,11 @@ list-resources
 list-resources-for-tag-option
 list-resources-for-web-acl
 list-resources-in-protection-group
-list-resp
+list-response-headers-policies
+list-retained-messages
+list-retirable-grants
+list-reusable-delegation-sets
+list-review-policy-results-for-hit
+list-reviewable-hits
+list-role-aliases
+list-role-po
