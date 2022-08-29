@@ -4117,4 +4117,15 @@ list-pull-requests
 list-qualification-requests
 list-qualification-types
 list-queries
-list-query-ex
+list-query-executions
+list-query-logging-configs
+list-queue-tags
+list-queues
+list-rate-based-rules
+list-realtime-log-configs
+list-receipt-filters
+list-receipt-rule-sets
+list-record-history
+list-records
+list-regex-match-sets
+list-rege
