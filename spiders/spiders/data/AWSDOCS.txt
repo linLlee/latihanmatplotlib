@@ -4137,4 +4137,12 @@ list-report-groups
 list-reports
 list-reports-for-report-group
 list-repositories
-list-repositories-for-approva
+list-repositories-for-approval-rule-template
+list-reservations
+list-resolvers
+list-resolvers-by-function
+list-resource-compliance-summaries
+list-resource-data-sync
+list-resource-definition-versions
+list-resource-definitions
+list-resou
