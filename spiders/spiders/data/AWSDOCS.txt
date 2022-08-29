@@ -4145,4 +4145,12 @@ list-resource-compliance-summaries
 list-resource-data-sync
 list-resource-definition-versions
 list-resource-definitions
-list-resou
+list-resource-delegates
+list-resource-record-sets
+list-resource-servers
+list-resource-tags
+list-resources
+list-resources-for-tag-option
+list-resources-for-web-acl
+list-resources-in-protection-group
+list-resp
