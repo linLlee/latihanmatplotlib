@@ -4128,4 +4128,13 @@ list-receipt-rule-sets
 list-record-history
 list-records
 list-regex-match-sets
-list-rege
+list-regex-pattern-sets
+list-registries
+list-release-labels
+list-remote-access-sessions
+list-replays
+list-report-groups
+list-reports
+list-reports-for-report-group
+list-repositories
+list-repositories-for-approva
