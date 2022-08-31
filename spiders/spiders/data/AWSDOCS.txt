@@ -4182,4 +4182,13 @@ list-security-configurations
 list-security-profiles
 list-security-profiles-for-target
 list-sentiment-detection-jobs
-list-server-
+list-server-certificate-tags
+list-server-certificates
+list-server-neighbors
+list-service-actions
+list-service-actions-for-provisioning-artifact
+list-service-specific-credentials
+list-services
+list-shards
+list-shared-projects
+list-shared-report
