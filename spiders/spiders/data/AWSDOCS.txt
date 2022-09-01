@@ -4191,4 +4191,12 @@ list-service-specific-credentials
 list-services
 list-shards
 list-shared-projects
-list-shared-report
+list-shared-report-groups
+list-signaling-channels
+list-signing-certificates
+list-size-constraint-sets
+list-skills
+list-skills-store-categories
+list-skills-store-skills-by-category
+list-smart-home-appliances
+list-sms-sandbox-phone-numbers
