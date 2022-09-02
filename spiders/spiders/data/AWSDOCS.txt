@@ -4200,3 +4200,12 @@ list-skills-store-categories
 list-skills-store-skills-by-category
 list-smart-home-appliances
 list-sms-sandbox-phone-numbers
+list-snapshots-in-recycle-bin
+list-source-credentials
+list-speech-synthesis-tasks
+list-sql-injection-match-sets
+list-ssh-public-keys
+list-stack-instances
+list-stack-instances-for-provisioned-product
+list-stack-resources
+list-sta
