@@ -4208,4 +4208,13 @@ list-ssh-public-keys
 list-stack-instances
 list-stack-instances-for-provisioned-product
 list-stack-resources
-list-sta
+list-stack-set-operation-results
+list-stack-set-operations
+list-stack-sets
+list-stacks
+list-state-machines
+list-steps
+list-stored-queries
+list-stream-consumers
+list-stream-processors
+list-streaming-distributions
