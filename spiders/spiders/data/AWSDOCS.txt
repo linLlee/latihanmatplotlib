@@ -4218,3 +4218,13 @@ list-stored-queries
 list-stream-consumers
 list-stream-processors
 list-streaming-distributions
+list-streams
+list-studio-lifecycle-configs
+list-studio-session-mappings
+list-studios
+list-subscribed-rule-groups
+list-subscribed-workteams
+list-subscription-definition-versions
+list-subscription-definitions
+list-subscriptions
+list-su
