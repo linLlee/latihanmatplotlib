@@ -4227,4 +4227,14 @@ list-subscribed-workteams
 list-subscription-definition-versions
 list-subscription-definitions
 list-subscriptions
-list-su
+list-subscriptions-by-topic
+list-suites
+list-table-metadata
+list-tables
+list-tag-options
+list-tags
+list-tags-for-certificate
+list-tags-for-delivery-stream
+list-tags-for-domain
+list-tags-for-project
+list-tags-for-resource
