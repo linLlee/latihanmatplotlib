@@ -4238,3 +4238,13 @@ list-tags-for-delivery-stream
 list-tags-for-domain
 list-tags-for-project
 list-tags-for-resource
+list-tags-for-resources
+list-tags-for-stream
+list-tags-for-vault
+list-tags-log-group
+list-tags-of-resource
+list-tape-pools
+list-tapes
+list-targets-by-rule
+list-targets-for-policy
+list-targets-for-security-p
