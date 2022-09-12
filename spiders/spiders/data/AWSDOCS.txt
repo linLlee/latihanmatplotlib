@@ -4247,4 +4247,14 @@ list-tape-pools
 list-tapes
 list-targets-by-rule
 list-targets-for-policy
-list-targets-for-security-p
+list-targets-for-security-profile
+list-task-definition-families
+list-task-definitions
+list-tasks
+list-team-members
+list-template-versions
+list-templates
+list-terminologies
+list-test-grid-projects
+list-test-grid-session-actions
+list-test-grid-
