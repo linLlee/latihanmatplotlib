@@ -4257,4 +4257,12 @@ list-templates
 list-terminologies
 list-test-grid-projects
 list-test-grid-session-actions
-list-test-grid-
+list-test-grid-session-artifacts
+list-test-grid-sessions
+list-tests
+list-text-translation-jobs
+list-thing-groups
+list-thing-groups-for-thing
+list-thing-principals
+list-thing-registration-task-reports
+list-thing
