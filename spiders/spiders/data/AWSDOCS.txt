@@ -4274,4 +4274,12 @@ list-threat-intel-sets
 list-topic-rule-destinations
 list-topic-rules
 list-topics
-list-topics-detection-jo
+list-topics-detection-jobs
+list-traffic-policies
+list-traffic-policy-instances
+list-traffic-policy-instances-by-hosted-zone
+list-traffic-policy-instances-by-policy
+list-traffic-policy-versions
+list-trails
+list-training-jobs
+lis
