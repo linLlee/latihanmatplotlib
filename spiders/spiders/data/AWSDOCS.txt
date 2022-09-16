@@ -4265,4 +4265,13 @@ list-thing-groups
 list-thing-groups-for-thing
 list-thing-principals
 list-thing-registration-task-reports
-list-thing
+list-thing-registration-tasks
+list-thing-types
+list-things
+list-things-in-billing-group
+list-things-in-thing-group
+list-threat-intel-sets
+list-topic-rule-destinations
+list-topic-rules
+list-topics
+list-topics-detection-jo
