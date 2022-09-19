@@ -4282,4 +4282,12 @@ list-traffic-policy-instances-by-policy
 list-traffic-policy-versions
 list-trails
 list-training-jobs
-lis
+list-training-jobs-for-hyper-parameter-tuning-job
+list-transcription-jobs
+list-transform-jobs
+list-trial-components
+list-trials
+list-triggers
+list-type-registrations
+list-type-versions
+list-typed-link-facet-attr
