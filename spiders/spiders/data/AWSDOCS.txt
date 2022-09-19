@@ -4302,4 +4302,14 @@ list-user-pools
 list-user-profiles
 list-user-tags
 list-users
-list-users-i
+list-users-in-group
+list-v2-logging-levels
+list-vaults
+list-versions-by-function
+list-violation-events
+list-virtual-interface-test-history
+list-virtual-mfa-devices
+list-vocabularies
+list-vocabulary-filters
+list-volume-initiators
+list-
