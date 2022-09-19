@@ -4290,4 +4290,16 @@ list-trials
 list-triggers
 list-type-registrations
 list-type-versions
-list-typed-link-facet-attr
+list-typed-link-facet-attributes
+list-typed-link-facet-names
+list-types
+list-unique-problems
+list-uploads
+list-user-import-jobs
+list-user-policies
+list-user-pool-clients
+list-user-pools
+list-user-profiles
+list-user-tags
+list-users
+list-users-i
