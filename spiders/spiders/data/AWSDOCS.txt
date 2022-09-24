@@ -4312,4 +4312,13 @@ list-virtual-mfa-devices
 list-vocabularies
 list-vocabulary-filters
 list-volume-initiators
-list-
+list-volume-recovery-points
+list-volumes
+list-vpc-association-authorizations
+list-vpce-configurations
+list-web-acls
+list-webhooks
+list-work-groups
+list-worker-blocks
+list-workers-with-qualification-type
+list-work
