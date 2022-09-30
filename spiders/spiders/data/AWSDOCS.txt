@@ -4343,4 +4343,12 @@ meter-usage
 migrate-workspace
 modify-account
 modify-address-attribute
-modify-aqua-config
+modify-aqua-configuration
+modify-authentication-profile
+modify-availability-zone-group
+modify-backup-attributes
+modify-cache-cluster
+modify-cache-parameter-group
+modify-cache-subnet-group
+modify-capacity-reservation
+modify-capacity-reserva
