@@ -4351,4 +4351,13 @@ modify-cache-cluster
 modify-cache-parameter-group
 modify-cache-subnet-group
 modify-capacity-reservation
-modify-capacity-reserva
+modify-capacity-reservation-fleet
+modify-certificates
+modify-client-properties
+modify-client-vpn-endpoint
+modify-cluster
+modify-cluster-attributes
+modify-cluster-db-revision
+modify-cluster-iam-roles
+modify-cluster-maintenance
+modify-clus
