@@ -4360,4 +4360,12 @@ modify-cluster-attributes
 modify-cluster-db-revision
 modify-cluster-iam-roles
 modify-cluster-maintenance
-modify-clus
+modify-cluster-parameter-group
+modify-cluster-snapshot
+modify-cluster-snapshot-schedule
+modify-cluster-subnet-group
+modify-current-db-cluster-capacity
+modify-custom-db-engine-version
+modify-db-cluster
+modify-db-cluster-endpoint
+modify-db
