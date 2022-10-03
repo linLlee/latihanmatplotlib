@@ -4368,4 +4368,12 @@ modify-current-db-cluster-capacity
 modify-custom-db-engine-version
 modify-db-cluster
 modify-db-cluster-endpoint
-modify-db
+modify-db-cluster-parameter-group
+modify-db-cluster-snapshot-attribute
+modify-db-instance
+modify-db-parameter-group
+modify-db-proxy
+modify-db-proxy-endpoint
+modify-db-proxy-target-group
+modify-db-snapshot
+modify-db-sn
