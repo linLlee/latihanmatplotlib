@@ -4376,4 +4376,14 @@ modify-db-proxy
 modify-db-proxy-endpoint
 modify-db-proxy-target-group
 modify-db-snapshot
-modify-db-sn
+modify-db-snapshot-attribute
+modify-db-subnet-group
+modify-default-credit-specification
+modify-document-permission
+modify-ebs-default-kms-key-id
+modify-endpoint
+modify-endpoint-access
+modify-event-subscription
+modify-fleet
+modify-fpga-image-attribute
+modify-glo
