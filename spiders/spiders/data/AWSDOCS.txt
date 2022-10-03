@@ -4386,4 +4386,13 @@ modify-endpoint-access
 modify-event-subscription
 modify-fleet
 modify-fpga-image-attribute
-modify-glo
+modify-global-cluster
+modify-global-replication-group
+modify-hapg
+modify-hosts
+modify-hsm
+modify-id-format
+modify-identity-id-format
+modify-image-attribute
+modify-instance-attribute
+modify-instance-capacity-reservation-
