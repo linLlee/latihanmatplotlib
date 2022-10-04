@@ -4449,4 +4449,11 @@ modify-vpc-attribute
 modify-vpc-endpoint
 modify-vpc-endpoint-connection-notification
 modify-vpc-endpoint-service-configuration
-modify-vpc-endpoint-serv
+modify-vpc-endpoint-service-payer-responsibility
+modify-vpc-endpoint-service-permissions
+modify-vpc-peering-connection-options
+modify-vpc-tenancy
+modify-vpn-connection
+modify-vpn-connection-options
+modify-vpn-tunnel-certificate
+modify-vpn-tunnel-op
