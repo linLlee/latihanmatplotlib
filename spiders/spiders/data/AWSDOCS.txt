@@ -4402,4 +4402,14 @@ modify-instance-event-window
 modify-instance-fleet
 modify-instance-groups
 modify-instance-metadata-options
-modify-instance-pl
+modify-instance-placement
+modify-ipam
+modify-ipam-pool
+modify-ipam-resource-cidr
+modify-ipam-scope
+modify-launch-template
+modify-listener
+modify-load-balancer-attributes
+modify-luna-client
+modify-managed-prefix-list
+modify-mount-target-se
