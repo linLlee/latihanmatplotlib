@@ -4412,4 +4412,11 @@ modify-listener
 modify-load-balancer-attributes
 modify-luna-client
 modify-managed-prefix-list
-modify-mount-target-se
+modify-mount-target-security-groups
+modify-network-interface-attribute
+modify-private-dns-name-options
+modify-replication-group
+modify-replication-group-shard-configuration
+modify-replication-instance
+modify-replication-subnet-group
+modify-replicat
