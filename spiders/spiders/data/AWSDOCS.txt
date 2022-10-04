@@ -4395,4 +4395,11 @@ modify-id-format
 modify-identity-id-format
 modify-image-attribute
 modify-instance-attribute
-modify-instance-capacity-reservation-
+modify-instance-capacity-reservation-attributes
+modify-instance-credit-specification
+modify-instance-event-start-time
+modify-instance-event-window
+modify-instance-fleet
+modify-instance-groups
+modify-instance-metadata-options
+modify-instance-pl
