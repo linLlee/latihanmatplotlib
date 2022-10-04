@@ -4434,4 +4434,11 @@ modify-spot-fleet-request
 modify-subnet-attribute
 modify-target-group
 modify-target-group-attributes
-modify-traffic-mirror-filter-
+modify-traffic-mirror-filter-network-services
+modify-traffic-mirror-filter-rule
+modify-traffic-mirror-session
+modify-transit-gateway
+modify-transit-gateway-prefix-list-reference
+modify-transit-gateway-vpc-attachment
+modify-usage-limit
+modify-user
