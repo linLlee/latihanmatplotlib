@@ -4419,4 +4419,11 @@ modify-replication-group
 modify-replication-group-shard-configuration
 modify-replication-instance
 modify-replication-subnet-group
-modify-replicat
+modify-replication-task
+modify-report-definition
+modify-reserved-instances
+modify-rule
+modify-scheduled-action
+modify-security-group-rules
+modify-selfservice-permissions
+modify-snapshot-attribute
