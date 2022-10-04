@@ -4442,3 +4442,11 @@ modify-transit-gateway-prefix-list-reference
 modify-transit-gateway-vpc-attachment
 modify-usage-limit
 modify-user
+modify-user-group
+modify-volume
+modify-volume-attribute
+modify-vpc-attribute
+modify-vpc-endpoint
+modify-vpc-endpoint-connection-notification
+modify-vpc-endpoint-service-configuration
+modify-vpc-endpoint-serv
