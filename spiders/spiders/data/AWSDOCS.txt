@@ -4456,4 +4456,13 @@ modify-vpc-tenancy
 modify-vpn-connection
 modify-vpn-connection-options
 modify-vpn-tunnel-certificate
-modify-vpn-tunnel-op
+modify-vpn-tunnel-options
+modify-workspace-access-properties
+modify-workspace-creation-properties
+modify-workspace-properties
+modify-workspace-state
+monitor-instances
+move-account
+move-address-to-vpc
+move-byoip-cidr-to-ipam
+move-replica
