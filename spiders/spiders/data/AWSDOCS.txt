@@ -4427,3 +4427,11 @@ modify-scheduled-action
 modify-security-group-rules
 modify-selfservice-permissions
 modify-snapshot-attribute
+modify-snapshot-copy-retention-period
+modify-snapshot-schedule
+modify-snapshot-tier
+modify-spot-fleet-request
+modify-subnet-attribute
+modify-target-group
+modify-target-group-attributes
+modify-traffic-mirror-filter-
