@@ -4465,4 +4465,13 @@ monitor-instances
 move-account
 move-address-to-vpc
 move-byoip-cidr-to-ipam
-move-replica
+move-replication-task
+mv
+notify-app-validation-output
+notify-application-state
+notify-migration-task-state
+notify-when-uploaded
+notify-workers
+open-instance-public-ports
+opt-in-phone-number
+override-pull-request-approval-ru
