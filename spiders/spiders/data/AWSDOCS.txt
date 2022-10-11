@@ -4474,4 +4474,15 @@ notify-when-uploaded
 notify-workers
 open-instance-public-ports
 opt-in-phone-number
-override-pull-request-approval-ru
+override-pull-request-approval-rules
+package
+pause-cluster
+peer-vpc
+phone-number-validate
+poll-for-activity-task
+poll-for-decision-task
+poll-for-jobs
+poll-for-task
+poll-for-third-party-jobs
+post-comment-for-compared-commit
+post-comment
