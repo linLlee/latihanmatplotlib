@@ -4485,4 +4485,16 @@ poll-for-jobs
 poll-for-task
 poll-for-third-party-jobs
 post-comment-for-compared-commit
-post-comment
+post-comment-for-pull-request
+post-comment-reply
+post-content
+post-text
+predict
+presign
+preview-agents
+promote-read-replica
+promote-read-replica-db-cluster
+provide-anomaly-feedback
+provision-byoip-cidr
+provision-ipam-pool-cidr
+provision-produc
