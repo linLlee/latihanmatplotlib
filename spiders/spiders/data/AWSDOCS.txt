@@ -4497,4 +4497,15 @@ promote-read-replica-db-cluster
 provide-anomaly-feedback
 provision-byoip-cidr
 provision-ipam-pool-cidr
-provision-produc
+provision-product
+provision-public-ipv4-pool-cidr
+publish
+publish-batch
+publish-function
+publish-layer-version
+publish-schema
+publish-type
+publish-version
+purchase-host-reservation
+purchase-offering
+purchase-provisi
