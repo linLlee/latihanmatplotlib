@@ -4524,4 +4524,12 @@ put-account-preferences
 put-account-setting
 put-account-setting-default
 put-action-revision
-put-aggregation-
+put-aggregation-authorization
+put-alarm
+put-anomaly-detector
+put-app-launch-configuration
+put-app-replication-configuration
+put-app-validation-configuration
+put-application-policy
+put-approval-result
+put-attrib
