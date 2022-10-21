@@ -4508,4 +4508,9 @@ publish-type
 publish-version
 purchase-host-reservation
 purchase-offering
-purchase-provisi
+purchase-provisioned-capacity
+purchase-reserved-cache-nodes-offering
+purchase-reserved-db-instances-offering
+purchase-reserved-elasticsearch-instance-offering
+purchase-reserved-instances-offering
+purchase-reserved-node-
