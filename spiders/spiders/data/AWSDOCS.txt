@@ -4532,4 +4532,14 @@ put-app-replication-configuration
 put-app-validation-configuration
 put-application-policy
 put-approval-result
-put-attrib
+put-attributes
+put-auto-scaling-policy
+put-auto-termination-policy
+put-backup-policy
+put-block-public-access-configuration
+put-bot
+put-bot-alias
+put-bucket-accelerate-configuration
+put-bucket-acl
+put-bucket-analytics-configuration
+put-buc
