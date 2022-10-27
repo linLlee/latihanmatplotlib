@@ -4542,4 +4542,11 @@ put-bot-alias
 put-bucket-accelerate-configuration
 put-bucket-acl
 put-bucket-analytics-configuration
-put-buc
+put-bucket-cors
+put-bucket-encryption
+put-bucket-intelligent-tiering-configuration
+put-bucket-inventory-configuration
+put-bucket-lifecycle-configuration
+put-bucket-logging
+put-bucket-metrics-configuration
+put-bucket-notification
