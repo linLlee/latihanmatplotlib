@@ -4558,4 +4558,13 @@ put-bucket-tagging
 put-bucket-versioning
 put-bucket-website
 put-cluster-capacity-providers
-put-comm
+put-comment-reaction
+put-compliance-items
+put-composite-alarm
+put-conference-preference
+put-config-rule
+put-configuration-aggregator
+put-configuration-recorder
+put-configuration-set-delivery-options
+put-conformance-pack
+put-container
