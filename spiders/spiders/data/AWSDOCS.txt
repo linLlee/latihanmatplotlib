@@ -4549,4 +4549,13 @@ put-bucket-inventory-configuration
 put-bucket-lifecycle-configuration
 put-bucket-logging
 put-bucket-metrics-configuration
-put-bucket-notification
+put-bucket-notification-configuration
+put-bucket-ownership-controls
+put-bucket-policy
+put-bucket-replication
+put-bucket-request-payment
+put-bucket-tagging
+put-bucket-versioning
+put-bucket-website
+put-cluster-capacity-providers
+put-comm
