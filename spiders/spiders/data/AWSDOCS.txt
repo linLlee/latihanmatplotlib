@@ -4567,4 +4567,14 @@ put-configuration-aggregator
 put-configuration-recorder
 put-configuration-set-delivery-options
 put-conformance-pack
-put-container
+put-container-policy
+put-cors-policy
+put-dashboard
+put-data-catalog-encryption-settings
+put-delivery-channel
+put-destination
+put-destination-policy
+put-email-monitoring-configuration
+put-encryption-config
+put-evaluations
+put-event-se
