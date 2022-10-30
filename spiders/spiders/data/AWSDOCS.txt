@@ -4636,4 +4636,15 @@ put-organization-conformance-pack
 put-parameter
 put-partner-events
 put-permission
-put-permission-poli
+put-permission-policy
+put-pipeline-definition
+put-policy
+put-provisioned-concurrency-config
+put-public-access-block
+put-query-definition
+put-record
+put-record-batch
+put-records
+put-registry-policy
+put-registry-scanning-configuration
+put-remedia
