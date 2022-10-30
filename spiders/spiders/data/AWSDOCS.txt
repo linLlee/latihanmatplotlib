@@ -4596,3 +4596,15 @@ put-image-tag-mutability
 put-inbound-dmarc-settings
 put-insight-rule
 put-insight-selectors
+put-instance-public-ports
+put-integration
+put-integration-response
+put-intent
+put-inventory
+put-invitation-configuration
+put-item
+put-job-failure-result
+put-job-success-result
+put-key-policy
+put-lexicon
+put-lifecycle
