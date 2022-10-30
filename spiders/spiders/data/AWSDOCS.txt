@@ -4586,4 +4586,13 @@ put-file-system-policy
 put-function-code-signing-config
 put-function-concurrency
 put-function-event-invoke-config
-put-gatew
+put-gateway-response
+put-group-configuration
+put-group-policy
+put-identity-policy
+put-image
+put-image-scanning-configuration
+put-image-tag-mutability
+put-inbound-dmarc-settings
+put-insight-rule
+put-insight-selectors
