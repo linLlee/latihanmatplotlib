@@ -4577,4 +4577,13 @@ put-destination-policy
 put-email-monitoring-configuration
 put-encryption-config
 put-evaluations
-put-event-se
+put-event-selectors
+put-event-stream
+put-events
+put-external-evaluation
+put-file
+put-file-system-policy
+put-function-code-signing-config
+put-function-concurrency
+put-function-event-invoke-config
+put-gatew
