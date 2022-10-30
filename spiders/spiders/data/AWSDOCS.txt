@@ -4617,4 +4617,13 @@ put-mailbox-permissions
 put-managed-scaling-policy
 put-method
 put-method-response
-pu
+put-metric-alarm
+put-metric-data
+put-metric-filter
+put-metric-policy
+put-metric-stream
+put-mobile-device-access-override
+put-model-package-group-policy
+put-notification-configuration
+put-object
+put-object-acl
