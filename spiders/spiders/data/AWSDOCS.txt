@@ -4627,3 +4627,13 @@ put-model-package-group-policy
 put-notification-configuration
 put-object
 put-object-acl
+put-object-legal-hold
+put-object-lock-configuration
+put-object-retention
+put-object-tagging
+put-organization-config-rule
+put-organization-conformance-pack
+put-parameter
+put-partner-events
+put-permission
+put-permission-poli
