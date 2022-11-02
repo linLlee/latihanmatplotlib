@@ -4666,4 +4666,15 @@ put-scaling-policy
 put-scheduled-action
 put-scheduled-update-group-action
 put-schema-from-json
-put-schema-version-
+put-schema-version-metadata
+put-session
+put-skill-authorization
+put-slot-type
+put-stored-query
+put-subscription-filter
+put-targets
+put-telemetry-records
+put-third-party-job-failure-result
+put-third-party-job-success-result
+put-trace-segments
+put-u
