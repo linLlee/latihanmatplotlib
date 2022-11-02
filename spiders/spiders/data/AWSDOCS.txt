@@ -4647,4 +4647,13 @@ put-record-batch
 put-records
 put-registry-policy
 put-registry-scanning-configuration
-put-remedia
+put-remediation-configurations
+put-remediation-exceptions
+put-replication-configuration
+put-report-definition
+put-repository-triggers
+put-resource-attributes
+put-resource-config
+put-resource-policy
+put-rest-api
+put-retenti
