@@ -4689,4 +4689,16 @@ query-objects
 query-schema-version-metadata
 rb
 re-encrypt
-read-
+read-job
+read-pipeline
+read-preset
+rebalance-slots-in-global-replication-group
+reboot-broker
+reboot-cache-cluster
+reboot-cluster
+reboot-db-cluster
+reboot-db-instance
+reboot-instance
+reboot-instances
+reboot-node
+r
