@@ -4701,4 +4701,13 @@ reboot-db-instance
 reboot-instance
 reboot-instances
 reboot-node
+reboot-relational-database
+reboot-replication-instance
+reboot-workspaces
+rebuild-environment
+rebuild-workspaces
+receive-message
+recognize-celebrities
+record-activity-task-heartbeat
+record-handler-progress
 r
