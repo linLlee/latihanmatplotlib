@@ -4677,4 +4677,16 @@ put-telemetry-records
 put-third-party-job-failure-result
 put-third-party-job-success-result
 put-trace-segments
-put-u
+put-user-permissions-boundary
+put-user-policy
+put-verification-state-on-violation
+put-warm-pool
+put-webhook
+put-workflow-run-properties
+query
+query-lineage
+query-objects
+query-schema-version-metadata
+rb
+re-encrypt
+read-
