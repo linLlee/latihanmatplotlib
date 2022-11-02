@@ -4656,4 +4656,14 @@ put-resource-attributes
 put-resource-config
 put-resource-policy
 put-rest-api
-put-retenti
+put-retention-configuration
+put-retention-policy
+put-role-permissions-boundary
+put-role-policy
+put-room-skill-parameter
+put-rule
+put-scaling-policy
+put-scheduled-action
+put-scheduled-update-group-action
+put-schema-from-json
+put-schema-version-
