@@ -4710,4 +4710,14 @@ receive-message
 recognize-celebrities
 record-activity-task-heartbeat
 record-handler-progress
-r
+record-lifecycle-action-heartbeat
+refresh-cache
+refresh-schemas
+refresh-trusted-advisor-check
+register
+register-activity-type
+register-application-revision
+register-avs-device
+register-ca-certificate
+register-certificate
+register-certificate
