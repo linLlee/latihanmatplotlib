@@ -4720,4 +4720,11 @@ register-application-revision
 register-avs-device
 register-ca-certificate
 register-certificate
-register-certificate
+register-certificate-without-ca
+register-container-image
+register-container-instance
+register-cross-account-access-role
+register-db-proxy-targets
+register-default-patch-baseline
+register-delegated-administrator
+register-
