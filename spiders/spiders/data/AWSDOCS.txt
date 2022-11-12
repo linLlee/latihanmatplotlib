@@ -4727,4 +4727,13 @@ register-cross-account-access-role
 register-db-proxy-targets
 register-default-patch-baseline
 register-delegated-administrator
-register-
+register-device
+register-devices
+register-domain
+register-ecs-cluster
+register-elastic-ip
+register-event-topic
+register-game-server
+register-image
+register-instance
+register-instance-event-notification-attributes
