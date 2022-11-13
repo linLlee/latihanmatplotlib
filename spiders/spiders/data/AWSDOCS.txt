@@ -4744,4 +4744,13 @@ register-on-premises-instance
 register-patch-baseline-for-patch-group
 register-publisher
 register-rds-db-instance
-register-scalable-tar
+register-scalable-target
+register-schema-version
+register-stream-consumer
+register-target-with-maintenance-window
+register-targets
+register-task-definition
+register-task-with-maintenance-window
+register-thing
+register-to-work-mail
+register-transit-gateway-multica
