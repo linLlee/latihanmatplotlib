@@ -4737,3 +4737,11 @@ register-game-server
 register-image
 register-instance
 register-instance-event-notification-attributes
+register-instances-with-load-balancer
+register-job-definition
+register-mail-domain
+register-on-premises-instance
+register-patch-baseline-for-patch-group
+register-publisher
+register-rds-db-instance
+register-scalable-tar
