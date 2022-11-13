@@ -4753,4 +4753,13 @@ register-task-definition
 register-task-with-maintenance-window
 register-thing
 register-to-work-mail
-register-transit-gateway-multica
+register-transit-gateway-multicast-group-members
+register-transit-gateway-multicast-group-sources
+register-type
+register-usage
+register-volume
+register-webhook-with-third-party
+register-workflow-type
+register-workspace-directory
+reject-assignment
+reject-certific
