@@ -4769,3 +4769,10 @@ reject-inbound-cross-cluster-search-connection
 reject-input-device-transfer
 reject-portfolio-share
 reject-qualification-request
+reject-shared-directory
+reject-skill
+reject-transit-gateway-multicast-domain-associations
+reject-transit-gateway-peering-attachment
+reject-transit-gateway-vpc-attachment
+reject-vpc-endpoint-connections
+reject-vp
