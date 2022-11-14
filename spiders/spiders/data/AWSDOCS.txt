@@ -4762,4 +4762,10 @@ register-webhook-with-third-party
 register-workflow-type
 register-workspace-directory
 reject-assignment
-reject-certific
+reject-certificate-transfer
+reject-data-share
+reject-domain-transfer-from-another-aws-account
+reject-inbound-cross-cluster-search-connection
+reject-input-device-transfer
+reject-portfolio-share
+reject-qualification-request
