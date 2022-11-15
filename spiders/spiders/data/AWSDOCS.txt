@@ -4775,4 +4775,13 @@ reject-transit-gateway-multicast-domain-associations
 reject-transit-gateway-peering-attachment
 reject-transit-gateway-vpc-attachment
 reject-vpc-endpoint-connections
-reject-vp
+reject-vpc-peering-connection
+release-address
+release-hosts
+release-ipam-pool-allocation
+release-static-ip
+reload-tables
+remove-account-from-organization
+remove-all-resource-permissions
+remove-attributes
+remove-attributes-from-findi
