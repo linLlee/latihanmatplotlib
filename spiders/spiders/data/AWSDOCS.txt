@@ -4792,4 +4792,13 @@ remove-facet-from-object
 remove-from-global-cluster
 remove-ip-routes
 remove-layer-version-permission
-remove-listener-certif
+remove-listener-certificates
+remove-managed-scaling-policy
+remove-option-from-option-group
+remove-permission
+remove-region
+remove-resource-permission
+remove-role-from-db-cluster
+remove-role-from-db-instance
+remove-role-from-instance-profile
+remove-schema
