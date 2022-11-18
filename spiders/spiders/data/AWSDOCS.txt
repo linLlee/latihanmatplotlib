@@ -4784,4 +4784,12 @@ reload-tables
 remove-account-from-organization
 remove-all-resource-permissions
 remove-attributes
-remove-attributes-from-findi
+remove-attributes-from-findings
+remove-auto-scaling-policy
+remove-auto-termination-policy
+remove-client-id-from-open-id-connect-provider
+remove-facet-from-object
+remove-from-global-cluster
+remove-ip-routes
+remove-layer-version-permission
+remove-listener-certif
