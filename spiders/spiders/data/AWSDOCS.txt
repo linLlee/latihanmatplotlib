@@ -4801,4 +4801,11 @@ remove-resource-permission
 remove-role-from-db-cluster
 remove-role-from-db-instance
 remove-role-from-instance-profile
-remove-schema
+remove-schema-version-metadata
+remove-source-identifier-from-subscription
+remove-tags
+remove-tags-from-certificate
+remove-tags-from-on-premises-instances
+remove-tags-from-resource
+remove-tags-from-stream
+remove-
