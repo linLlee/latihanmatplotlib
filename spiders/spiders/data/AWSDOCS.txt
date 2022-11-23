@@ -4818,4 +4818,13 @@ renew-certificate
 renew-domain
 renew-offering
 reorder-receipt-rule-set
-rep
+replace-iam-instance-profile-association
+replace-network-acl-association
+replace-network-acl-entry
+replace-route
+replace-route-table-association
+replace-topic-rule
+replace-transit-gateway-route
+replicate-key
+report-instance-status
+repor
