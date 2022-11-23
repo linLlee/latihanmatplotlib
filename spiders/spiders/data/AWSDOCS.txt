@@ -4808,4 +4808,14 @@ remove-tags-from-certificate
 remove-tags-from-on-premises-instances
 remove-tags-from-resource
 remove-tags-from-stream
-remove-
+remove-tags-from-vault
+remove-targets
+remove-thing-from-billing-group
+remove-thing-from-thing-group
+remove-user-from-group
+render-ui-template
+renew-certificate
+renew-domain
+renew-offering
+reorder-receipt-rule-set
+rep
