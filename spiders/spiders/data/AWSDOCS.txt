@@ -4827,4 +4827,12 @@ replace-topic-rule
 replace-transit-gateway-route
 replicate-key
 report-instance-status
-repor
+report-task-progress
+report-task-runner-heartbeat
+request-cancel-workflow-execution
+request-certificate
+request-environment-info
+request-spot-fleet
+request-spot-instances
+request-upload-credentials
+res
