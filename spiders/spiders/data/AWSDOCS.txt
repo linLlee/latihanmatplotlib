@@ -4835,4 +4835,11 @@ request-environment-info
 request-spot-fleet
 request-spot-instances
 request-upload-credentials
-res
+resend-confirmation-code
+resend-contact-reachability-email
+resend-validation-email
+reset-address-attribute
+reset-cache
+reset-cache-parameter-group
+reset-cluster-parameter-group
+reset-db-cluster-par
