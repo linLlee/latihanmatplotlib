@@ -4861,4 +4861,13 @@ resize-cluster
 resolve-alias
 resolve-case
 resolve-customer
-resolve-
+resolve-room
+respond-activity-task-canceled
+respond-activity-task-completed
+respond-activity-task-failed
+respond-decision-task-completed
+respond-to-auth-challenge
+restart-app-server
+restore-address-to-classic
+restore-backup
+restore-
