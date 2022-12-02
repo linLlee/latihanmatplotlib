@@ -4885,4 +4885,13 @@ restore-object
 restore-server
 restore-snapshot-from-recycle-bin
 restore-snapshot-tier
-restore-table-f
+restore-table-from-backup
+restore-table-from-cluster-snapshot
+restore-table-to-point-in-time
+restore-workspace
+resume-cluster
+resume-game-server-group
+resume-processes
+resume-session
+resume-workflow-run
+resync-mfa-dev
