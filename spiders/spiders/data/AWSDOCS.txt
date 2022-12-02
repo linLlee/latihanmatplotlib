@@ -4894,4 +4894,14 @@ resume-game-server-group
 resume-processes
 resume-session
 resume-workflow-run
-resync-mfa-dev
+resync-mfa-device
+retire-grant
+retrieve-domain-auth-code
+retrieve-environment-info
+retrieve-tape-archive
+retrieve-tape-recovery-point
+retry-build
+retry-build-batch
+retry-pipeline-execution
+retry-stage-execution
+r
