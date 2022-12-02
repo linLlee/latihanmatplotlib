@@ -4877,4 +4877,12 @@ restore-db-instance-from-db-snapshot
 restore-db-instance-from-s3
 restore-db-instance-to-point-in-time
 restore-event-data-store
-restore-from-cluster-sna
+restore-from-cluster-snapshot
+restore-from-hbase-backup
+restore-from-snapshot
+restore-managed-prefix-list-version
+restore-object
+restore-server
+restore-snapshot-from-recycle-bin
+restore-snapshot-tier
+restore-table-f
