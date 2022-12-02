@@ -4870,4 +4870,11 @@ respond-to-auth-challenge
 restart-app-server
 restore-address-to-classic
 restore-backup
-restore-
+restore-db-cluster-from-s3
+restore-db-cluster-from-snapshot
+restore-db-cluster-to-point-in-time
+restore-db-instance-from-db-snapshot
+restore-db-instance-from-s3
+restore-db-instance-to-point-in-time
+restore-event-data-store
+restore-from-cluster-sna
