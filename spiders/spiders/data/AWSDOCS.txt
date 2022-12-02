@@ -4904,4 +4904,13 @@ retry-build
 retry-build-batch
 retry-pipeline-execution
 retry-stage-execution
-r
+revoke-cache-security-group-ingress
+revoke-client-vpn-ingress
+revoke-cluster-security-group-ingress
+revoke-db-security-group-ingress
+revoke-endpoint-access
+revoke-grant
+revoke-invitation
+revoke-ip-rules
+revoke-security-group-egress
+revoke-security-
