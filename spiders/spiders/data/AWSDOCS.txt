@@ -4913,4 +4913,15 @@ revoke-grant
 revoke-invitation
 revoke-ip-rules
 revoke-security-group-egress
-revoke-security-
+revoke-security-group-ingress
+revoke-snapshot-access
+revoke-token
+rm
+rollback-stack
+rotate-encryption-key
+rotate-ingest-endpoint-credentials
+run-instances
+run-scheduled-instances
+run-task
+scan
+scan-provisioned-p
