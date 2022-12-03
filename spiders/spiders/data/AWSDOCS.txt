@@ -4957,4 +4957,15 @@ send-announcement
 send-automation-signal
 send-bonus
 send-bounce
-send-bulk
+send-bulk-templated-email
+send-command
+send-contact-method-verification
+send-custom-verification-email
+send-diagnostic-interrupt
+send-email
+send-invitation
+send-message
+send-message-batch
+send-messages
+send-otp-message
+send-pipeline-exec
