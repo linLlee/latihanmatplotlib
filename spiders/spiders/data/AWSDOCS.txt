@@ -4946,4 +4946,15 @@ search-resources
 search-rooms
 search-skill-groups
 search-tables
-search-transit-gateway-multicast-
+search-transit-gateway-multicast-groups
+search-transit-gateway-routes
+search-users
+select
+select-aggregate-resource-config
+select-object-content
+select-resource-config
+send-announcement
+send-automation-signal
+send-bonus
+send-bounce
+send-bulk
