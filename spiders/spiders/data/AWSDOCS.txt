@@ -4968,4 +4968,14 @@ send-message
 send-message-batch
 send-messages
 send-otp-message
-send-pipeline-exec
+send-pipeline-execution-step-failure
+send-pipeline-execution-step-success
+send-raw-email
+send-task-failure
+send-task-heartbeat
+send-task-success
+send-templated-email
+send-test-event-notification
+send-users-messages
+set
+set-act
