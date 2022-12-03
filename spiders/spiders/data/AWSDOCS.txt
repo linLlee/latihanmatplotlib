@@ -4937,4 +4937,13 @@ search-faces-by-image
 search-game-sessions
 search-index
 search-local-gateway-routes
-search-net
+search-network-profiles
+search-products
+search-products-as-admin
+search-profiles
+search-provisioned-products
+search-resources
+search-rooms
+search-skill-groups
+search-tables
+search-transit-gateway-multicast-
