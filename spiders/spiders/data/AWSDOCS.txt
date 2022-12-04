@@ -4987,4 +4987,11 @@ set-default-policy-version
 set-desired-capacity
 set-endpoint-attributes
 set-identity-dkim-enabled
-set-identity-feedback
+set-identity-feedback-forwarding-enabled
+set-identity-headers-in-notifications-enabled
+set-identity-mail-from-domain
+set-identity-notification-topic
+set-identity-pool-configuration
+set-identity-pool-roles
+set-instance-health
+set-instan
