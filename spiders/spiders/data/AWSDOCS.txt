@@ -4978,4 +4978,13 @@ send-templated-email
 send-test-event-notification
 send-users-messages
 set
-set-act
+set-active-receipt-rule-set
+set-alarm-state
+set-cognito-events
+set-data-retrieval-policy
+set-default-authorizer
+set-default-policy-version
+set-desired-capacity
+set-endpoint-attributes
+set-identity-dkim-enabled
+set-identity-feedback
