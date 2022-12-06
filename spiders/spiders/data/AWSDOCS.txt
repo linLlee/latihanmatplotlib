@@ -4994,4 +4994,11 @@ set-identity-notification-topic
 set-identity-pool-configuration
 set-identity-pool-roles
 set-instance-health
-set-instan
+set-instance-protection
+set-ip-address-type
+set-load-balancer-listener-ssl-certificate
+set-load-balancer-policies-for-backend-server
+set-load-balancer-policies-of-listener
+set-load-based-auto-scaling
+set-local-console-password
+se
