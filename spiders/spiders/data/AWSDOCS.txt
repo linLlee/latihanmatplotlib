@@ -5001,4 +5001,11 @@ set-load-balancer-policies-for-backend-server
 set-load-balancer-policies-of-listener
 set-load-based-auto-scaling
 set-local-console-password
-se
+set-logging-options
+set-permission
+set-platform-application-attributes
+set-principal-tag-attribute-map
+set-queue-attributes
+set-receipt-rule-position
+set-repository-policy
+set-reso
