@@ -5018,4 +5018,13 @@ set-sms-attributes
 set-stack-policy
 set-status
 set-subnets
-set-sub
+set-subscription-attributes
+set-tags-for-resource
+set-task-status
+set-time-based-auto-scaling
+set-topic-attributes
+set-type-configuration
+set-type-default-version
+set-ui-customization
+set-user-mfa-preference
+set-u
