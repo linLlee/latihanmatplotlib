@@ -5027,4 +5027,16 @@ set-type-configuration
 set-type-default-version
 set-ui-customization
 set-user-mfa-preference
-set-u
+set-user-pool-mfa-config
+set-user-settings
+set-v2-logging-level
+set-v2-logging-options
+set-vault-access-policy
+set-vault-notifications
+share-directory
+show
+shutdown-gateway
+sign
+sign-up
+signal-resource
+signal-work
