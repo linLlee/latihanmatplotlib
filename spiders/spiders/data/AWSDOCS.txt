@@ -5008,4 +5008,14 @@ set-principal-tag-attribute-map
 set-queue-attributes
 set-receipt-rule-position
 set-repository-policy
-set-reso
+set-resource-access-for-bucket
+set-risk-configuration
+set-rule-priorities
+set-security-groups
+set-security-token-service-preferences
+set-smb-guest-password
+set-sms-attributes
+set-stack-policy
+set-status
+set-subnets
+set-sub
