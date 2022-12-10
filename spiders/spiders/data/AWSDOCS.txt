@@ -5039,4 +5039,16 @@ shutdown-gateway
 sign
 sign-up
 signal-resource
-signal-work
+signal-workflow-execution
+simulate-custom-policy
+simulate-principal-policy
+socks
+split-shard
+ssh
+start-access-logging
+start-activity-stream
+start-app-replication
+start-application
+start-assessment-run
+start-associations-once
+sta
