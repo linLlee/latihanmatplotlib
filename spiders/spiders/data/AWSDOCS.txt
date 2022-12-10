@@ -5051,4 +5051,13 @@ start-app-replication
 start-application
 start-assessment-run
 start-associations-once
-sta
+start-audit-mitigation-actions-task
+start-automation-execution
+start-availability-monitor-test
+start-bgp-failover-test
+start-blueprint-run
+start-build
+start-build-batch
+start-bulk-deployment
+start-call-analytics-job
+start-celebrit
