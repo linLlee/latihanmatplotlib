@@ -5060,4 +5060,12 @@ start-build
 start-build-batch
 start-bulk-deployment
 start-call-analytics-job
-start-celebrit
+start-celebrity-recognition
+start-change-request-execution
+start-channel
+start-config-rules-evaluation
+start-configuration-recorder
+start-content-moderation
+start-continuous-export
+start-crawler
+start-crawler-schedule
