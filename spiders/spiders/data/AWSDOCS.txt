@@ -5084,4 +5084,15 @@ start-events-detection-job
 start-execution
 start-export-labels-task-run
 start-export-task
-start-face
+start-face-detection
+start-face-search
+start-fleet
+start-fleet-actions
+start-game-session-placement
+start-gateway
+start-image-builder
+start-image-scan
+start-import
+start-import-labels-task-run
+start-import-task
+s
