@@ -5069,3 +5069,11 @@ start-content-moderation
 start-continuous-export
 start-crawler
 start-crawler-schedule
+start-data-collection-by-agent-ids
+start-db-cluster
+start-db-instance
+start-db-instance-automated-backups-replication
+start-delivery-stream-encryption
+start-detect-mitigation-actions-task
+start-device-sync
+start-document-class
