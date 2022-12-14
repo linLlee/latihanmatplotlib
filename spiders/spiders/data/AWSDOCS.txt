@@ -5076,4 +5076,12 @@ start-db-instance-automated-backups-replication
 start-delivery-stream-encryption
 start-detect-mitigation-actions-task
 start-device-sync
-start-document-class
+start-document-classification-job
+start-dominant-language-detection-job
+start-elasticsearch-service-software-update
+start-entities-detection-job
+start-events-detection-job
+start-execution
+start-export-labels-task-run
+start-export-task
+start-face
