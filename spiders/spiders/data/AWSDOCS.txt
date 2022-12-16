@@ -5105,4 +5105,12 @@ start-lifecycle-policy-preview
 start-logging
 start-mailbox-export-job
 start-maintenance
-start-match-b
+start-match-backfill
+start-matchmaking
+start-medical-transcription-job
+start-metric-streams
+start-migration
+start-ml-evaluation-task-run
+start-ml-labeling-set-generation-task-run
+start-monitoring-members
+start-monitoring
