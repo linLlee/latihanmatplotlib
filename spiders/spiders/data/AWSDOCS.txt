@@ -5095,4 +5095,14 @@ start-image-scan
 start-import
 start-import-labels-task-run
 start-import-task
-s
+start-instance
+start-instance-refresh
+start-instances
+start-job-run
+start-key-phrases-detection-job
+start-label-detection
+start-lifecycle-policy-preview
+start-logging
+start-mailbox-export-job
+start-maintenance
+start-match-b
