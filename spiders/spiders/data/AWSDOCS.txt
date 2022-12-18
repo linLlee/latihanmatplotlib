@@ -5113,4 +5113,11 @@ start-migration
 start-ml-evaluation-task-run
 start-ml-labeling-set-generation-task-run
 start-monitoring-members
-start-monitoring
+start-monitoring-schedule
+start-multiplex
+start-network-insights-access-scope-analysis
+start-network-insights-analysis
+start-next-pending-job-execution
+start-notebook-execution
+start-notebook-instance
+start-on-demand-app-replicati
