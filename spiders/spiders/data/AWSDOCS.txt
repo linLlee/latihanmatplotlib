@@ -5120,4 +5120,12 @@ start-network-insights-analysis
 start-next-pending-job-execution
 start-notebook-execution
 start-notebook-instance
-start-on-demand-app-replicati
+start-on-demand-app-replication
+start-on-demand-audit-task
+start-on-demand-replication-run
+start-person-tracking
+start-pii-entities-detection-job
+start-pipeline-execution
+start-project-version
+start-query
+start-query-exe
