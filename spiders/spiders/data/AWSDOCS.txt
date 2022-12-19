@@ -5136,4 +5136,14 @@ start-replication-task
 start-replication-task-assessment
 start-replication-task-assessment-run
 start-report-creation
-start-schema-creati
+start-schema-creation
+start-schema-extension
+start-segment-detection
+start-sentiment-detection-job
+start-session
+start-smart-home-appliance-discovery
+start-speech-synthesis-task
+start-stack
+start-stream-encryption
+start-stream-processor
+s
