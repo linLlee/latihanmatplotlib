@@ -5128,4 +5128,12 @@ start-pii-entities-detection-job
 start-pipeline-execution
 start-project-version
 start-query
-start-query-exe
+start-query-execution
+start-relational-database
+start-remediation-execution
+start-replay
+start-replication-task
+start-replication-task-assessment
+start-replication-task-assessment-run
+start-report-creation
+start-schema-creati
