@@ -5146,4 +5146,11 @@ start-speech-synthesis-task
 start-stack
 start-stream-encryption
 start-stream-processor
-s
+start-support-data-export
+start-sync-execution
+start-task
+start-text-detection
+start-text-translation-job
+start-thing-registration-task
+start-topics-detection-job
+start-transcription-j
