@@ -5174,4 +5174,13 @@ stop-bulk-deployment
 stop-channel
 stop-compilation-job
 stop-configuration-recorder
-stop-continuous-expo
+stop-continuous-export
+stop-crawler
+stop-crawler-schedule
+stop-data-collection-by-agent-ids
+stop-db-cluster
+stop-db-instance
+stop-db-instance-automated-backups-replication
+stop-delivery-stream-encryption
+stop-deployment
+stop-dom
