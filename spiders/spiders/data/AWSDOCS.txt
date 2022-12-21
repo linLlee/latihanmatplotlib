@@ -5153,4 +5153,14 @@ start-text-detection
 start-text-translation-job
 start-thing-registration-task
 start-topics-detection-job
-start-transcription-j
+start-transcription-job
+start-trigger
+start-user-import-job
+start-vpc-endpoint-service-private-dns-verification
+start-workflow-execution
+start-workflow-run
+start-workspaces
+stop-access-logging
+stop-activity-stream
+stop-app-replication
+stop-applica
