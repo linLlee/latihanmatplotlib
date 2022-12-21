@@ -5163,4 +5163,15 @@ start-workspaces
 stop-access-logging
 stop-activity-stream
 stop-app-replication
-stop-applica
+stop-application
+stop-assessment-run
+stop-auto-ml-job
+stop-automation-execution
+stop-bgp-failover-test
+stop-build
+stop-build-batch
+stop-bulk-deployment
+stop-channel
+stop-compilation-job
+stop-configuration-recorder
+stop-continuous-expo
