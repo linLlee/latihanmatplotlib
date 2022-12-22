@@ -5191,4 +5191,14 @@ stop-execution
 stop-fleet
 stop-fleet-actions
 stop-game-session-placement
-stop-hyper-parameter
+stop-hyper-parameter-tuning-job
+stop-image-builder
+stop-inference-recommendations-job
+stop-instance
+stop-instances
+stop-job
+stop-key-phrases-detection-job
+stop-labeling-job
+stop-logging
+stop-matchmaking
+stop-metr
