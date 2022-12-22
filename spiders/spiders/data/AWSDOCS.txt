@@ -5183,4 +5183,12 @@ stop-db-instance
 stop-db-instance-automated-backups-replication
 stop-delivery-stream-encryption
 stop-deployment
-stop-dom
+stop-dominant-language-detection-job
+stop-edge-packaging-job
+stop-entities-detection-job
+stop-events-detection-job
+stop-execution
+stop-fleet
+stop-fleet-actions
+stop-game-session-placement
+stop-hyper-parameter
