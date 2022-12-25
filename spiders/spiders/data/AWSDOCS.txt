@@ -5258,3 +5258,14 @@ tag-queue
 tag-resource
 tag-resources
 tag-role
+tag-saml-provider
+tag-server-certificate
+tag-stream
+tag-user
+terminate-app
+terminate-client-vpn-connections
+terminate-clusters
+terminate-environment
+terminate-instance-in-auto-scaling-group
+terminate-instances
+term
