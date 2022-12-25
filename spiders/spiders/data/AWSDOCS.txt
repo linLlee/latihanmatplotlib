@@ -5232,4 +5232,15 @@ stop-transform-job
 stop-trigger
 stop-user-import-job
 stop-workflow-run
-st
+stop-workspaces
+submit-attachment-state-changes
+submit-container-state-change
+submit-job
+submit-task-state-change
+subscribe
+subscribe-to-dataset
+subscribe-to-event
+suggest
+suspend-game-server-group
+suspend-processes
+s
