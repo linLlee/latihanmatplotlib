@@ -5211,4 +5211,16 @@ stop-pii-entities-detection-job
 stop-pipeline-execution
 stop-processing-job
 stop-project-version
-stop-quer
+stop-query
+stop-query-execution
+stop-relational-database
+stop-remote-access-session
+stop-replication-task
+stop-run
+stop-sentiment-detection-job
+stop-stack
+stop-stack-set-operation
+stop-stream-encryption
+stop-stream-processor
+stop-task
+st
