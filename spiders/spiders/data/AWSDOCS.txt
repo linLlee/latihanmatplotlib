@@ -5223,4 +5223,13 @@ stop-stack-set-operation
 stop-stream-encryption
 stop-stream-processor
 stop-task
+stop-text-translation-job
+stop-thing-registration-task
+stop-training-document-classifier
+stop-training-entity-recognizer
+stop-training-job
+stop-transform-job
+stop-trigger
+stop-user-import-job
+stop-workflow-run
 st
