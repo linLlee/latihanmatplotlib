@@ -5268,4 +5268,15 @@ terminate-clusters
 terminate-environment
 terminate-instance-in-auto-scaling-group
 terminate-instances
-term
+terminate-job
+terminate-provisioned-product
+terminate-session
+terminate-workflow-execution
+terminate-workspaces
+test-alarm
+test-authorization
+test-connection
+test-dns-answer
+test-event-pattern
+test-failover
+test-
