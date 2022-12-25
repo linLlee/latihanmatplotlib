@@ -5201,4 +5201,14 @@ stop-key-phrases-detection-job
 stop-labeling-job
 stop-logging
 stop-matchmaking
-stop-metr
+stop-metric-streams
+stop-monitoring-members
+stop-monitoring-schedule
+stop-multiplex
+stop-notebook-execution
+stop-notebook-instance
+stop-pii-entities-detection-job
+stop-pipeline-execution
+stop-processing-job
+stop-project-version
+stop-quer
