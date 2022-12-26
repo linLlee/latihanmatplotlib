@@ -5290,4 +5290,14 @@ transact-get-items
 transact-write-items
 transfer-certificate
 transfer-domain
-transfer-doma
+transfer-domain-to-another-aws-account
+transfer-input-device
+translate-text
+unarchive-findings
+unassign-instance
+unassign-ipv6-addresses
+unassign-private-ip-addresses
+unassign-volume
+undeprecate-activity-type
+undeprecate-domain
+undep
