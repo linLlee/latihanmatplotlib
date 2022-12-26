@@ -5279,4 +5279,15 @@ test-connection
 test-dns-answer
 test-event-pattern
 test-failover
-test-
+test-function
+test-invoke-authorizer
+test-invoke-method
+test-metric-filter
+test-render-template
+test-repository-triggers
+test-type
+transact-get-items
+transact-write-items
+transfer-certificate
+transfer-domain
+transfer-doma
