@@ -5300,4 +5300,15 @@ unassign-private-ip-addresses
 unassign-volume
 undeprecate-activity-type
 undeprecate-domain
-undep
+undeprecate-workflow-type
+ungroup-resources
+uninstall
+unlabel-parameter-version
+unlink-developer-identity
+unlink-identity
+unmonitor-instances
+unpeer-vpc
+unshare-application
+unshare-directory
+unsubscribe
+unsubscribe-fro
