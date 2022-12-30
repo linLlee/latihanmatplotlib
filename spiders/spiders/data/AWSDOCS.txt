@@ -5345,4 +5345,11 @@ update-api-cache
 update-api-destination
 update-api-key
 update-apns-channel
-update-apns-sa
+update-apns-sandbox-channel
+update-apns-voip-channel
+update-apns-voip-sandbox-channel
+update-app
+update-app-image-config
+update-application
+update-application-layer-automatic-response
+update-application-resource
