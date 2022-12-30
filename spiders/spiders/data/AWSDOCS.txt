@@ -5324,4 +5324,15 @@ untag-project
 untag-queue
 untag-resource
 untag-resources
-untag-r
+untag-role
+untag-saml-provider
+untag-server-certificate
+untag-stream
+untag-user
+update-access-key
+update-account
+update-account-audit-configuration
+update-account-password-policy
+update-account-sending-enabled
+update-action
+upd
