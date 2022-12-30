@@ -5335,4 +5335,14 @@ update-account-audit-configuration
 update-account-password-policy
 update-account-sending-enabled
 update-action
-upd
+update-action-type
+update-address-book
+update-adm-channel
+update-alias
+update-anomaly-monitor
+update-anomaly-subscription
+update-api-cache
+update-api-destination
+update-api-key
+update-apns-channel
+update-apns-sa
