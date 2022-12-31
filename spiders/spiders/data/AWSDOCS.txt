@@ -5352,4 +5352,11 @@ update-app
 update-app-image-config
 update-application
 update-application-layer-automatic-response
-update-application-resource
+update-application-resource-lifecycle
+update-application-settings
+update-application-version
+update-approval-rule-template-content
+update-approval-rule-template-description
+update-approval-rule-template-name
+update-archive
+update-artifact
