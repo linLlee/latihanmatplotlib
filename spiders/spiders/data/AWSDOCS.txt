@@ -5377,3 +5377,14 @@ update-base-path-mapping
 update-batch-prediction
 update-billing-group
 update-blueprint
+update-broker
+update-bucket
+update-bucket-bundle
+update-budget
+update-budget-action
+update-build
+update-business-report-schedule
+update-byte-match-set
+update-ca-certificate
+update-cache-policy
+update-call-an
