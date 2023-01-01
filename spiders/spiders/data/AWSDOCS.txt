@@ -5427,4 +5427,13 @@ update-context
 update-continuous-backups
 update-contributor-insights
 update-core-definition
-update-cost-category-definit
+update-cost-category-definition
+update-crawler
+update-crawler-schedule
+update-custom-key-store
+update-custom-metric
+update-custom-verification-email-template
+update-data-catalog
+update-data-retention
+update-data-source
+update-datab
