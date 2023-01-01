@@ -5360,3 +5360,12 @@ update-approval-rule-template-description
 update-approval-rule-template-name
 update-archive
 update-artifact
+update-assessment-target
+update-association
+update-association-status
+update-assume-role-policy
+update-audit-suppression
+update-auth-event-feedback
+update-authorizer
+update-auto-scaling-group
+update-automatic-tape-creation-pol
