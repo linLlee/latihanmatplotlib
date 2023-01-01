@@ -5397,4 +5397,10 @@ update-channel-class
 update-chap-credentials
 update-classifier
 update-client-certificate
-update-cloud-front-origi
+update-cloud-front-origin-access-identity
+update-cluster
+update-cluster-settings
+update-code-repository
+update-code-signing-config
+update-column-statistics-for-partition
+update-column-statistics-for-
