@@ -5403,4 +5403,12 @@ update-cluster-settings
 update-code-repository
 update-code-signing-config
 update-column-statistics-for-partition
-update-column-statistics-for-
+update-column-statistics-for-table
+update-comment
+update-compute-environment
+update-conditional-forwarder
+update-conference-provider
+update-configuration
+update-configuration-set-event-destination
+update-configuration-set-reputation-metrics-enabled
+update-conf
