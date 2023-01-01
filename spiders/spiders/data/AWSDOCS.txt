@@ -5387,4 +5387,14 @@ update-business-report-schedule
 update-byte-match-set
 update-ca-certificate
 update-cache-policy
-update-call-an
+update-call-analytics-category
+update-campaign
+update-capacity-provider
+update-certificate
+update-certificate-options
+update-channel
+update-channel-class
+update-chap-credentials
+update-classifier
+update-client-certificate
+update-cloud-front-origi
