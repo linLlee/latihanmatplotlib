@@ -5419,4 +5419,12 @@ update-connection-alias-permission
 update-connectivity-info
 update-connector-definition
 update-constraint
-upd
+update-contact
+update-container-agent
+update-container-instances-state
+update-container-service
+update-context
+update-continuous-backups
+update-contributor-insights
+update-core-definition
+update-cost-category-definit
