@@ -5368,4 +5368,12 @@ update-audit-suppression
 update-auth-event-feedback
 update-authorizer
 update-auto-scaling-group
-update-automatic-tape-creation-pol
+update-automatic-tape-creation-policy
+update-availability-options
+update-baidu-channel
+update-bandwidth-rate-limit
+update-bandwidth-rate-limit-schedule
+update-base-path-mapping
+update-batch-prediction
+update-billing-group
+update-blueprint
