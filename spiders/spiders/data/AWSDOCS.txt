@@ -5411,4 +5411,12 @@ update-conference-provider
 update-configuration
 update-configuration-set-event-destination
 update-configuration-set-reputation-metrics-enabled
-update-conf
+update-configuration-set-sending-enabled
+update-configuration-set-tracking-options
+update-configuration-template
+update-connection
+update-connection-alias-permission
+update-connectivity-info
+update-connector-definition
+update-constraint
+upd
