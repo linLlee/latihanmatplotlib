@@ -5436,4 +5436,15 @@ update-custom-verification-email-template
 update-data-catalog
 update-data-retention
 update-data-source
-update-datab
+update-database
+update-dataset-entries
+update-default-branch
+update-default-mail-domain
+update-deployment
+update-deployment-group
+update-destination
+update-detector
+update-dev-endpoint
+update-device
+update-device-definition
+update
