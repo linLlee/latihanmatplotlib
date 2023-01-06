@@ -5447,4 +5447,12 @@ update-detector
 update-dev-endpoint
 update-device
 update-device-definition
-update
+update-device-fleet
+update-device-instance
+update-device-pool
+update-device-status
+update-devices
+update-dimension
+update-direct-connect-gateway
+update-direct-connect-gateway-association
+update-
