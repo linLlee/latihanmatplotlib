@@ -5455,4 +5455,12 @@ update-devices
 update-dimension
 update-direct-connect-gateway
 update-direct-connect-gateway-association
-update-
+update-directory-config
+update-distribution
+update-distribution-bundle
+update-document
+update-document-default-version
+update-document-metadata
+update-document-version
+update-documentation-part
+update-documentation-vers
