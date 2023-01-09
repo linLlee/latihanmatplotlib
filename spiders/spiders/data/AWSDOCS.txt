@@ -5463,4 +5463,14 @@ update-document-default-version
 update-document-metadata
 update-document-version
 update-documentation-part
-update-documentation-vers
+update-documentation-version
+update-domain
+update-domain-configuration
+update-domain-contact
+update-domain-contact-privacy
+update-domain-endpoint-options
+update-domain-entry
+update-domain-name
+update-domain-nameservers
+update-dynamic-thing-group
+update-elasti
