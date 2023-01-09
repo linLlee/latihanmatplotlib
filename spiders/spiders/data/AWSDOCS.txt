@@ -5473,4 +5473,13 @@ update-domain-entry
 update-domain-name
 update-domain-nameservers
 update-dynamic-thing-group
-update-elasti
+update-elastic-ip
+update-elasticsearch-domain-config
+update-email-channel
+update-email-template
+update-emergency-contact-settings
+update-endpoint
+update-endpoint-weights-and-capacities
+update-endpoints-batch
+update-entitlement
+updat
