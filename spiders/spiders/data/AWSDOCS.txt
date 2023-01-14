@@ -5498,4 +5498,15 @@ update-file-system-association
 update-filter
 update-findings-feedback
 update-fleet
-update-fleet-att
+update-fleet-attributes
+update-fleet-capacity
+update-fleet-metric
+update-fleet-port-settings
+update-folder
+update-function
+update-function-code
+update-function-configuration
+update-function-definition
+update-function-event-invoke-config
+update-game-server
+update-ga
