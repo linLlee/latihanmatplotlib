@@ -5509,4 +5509,13 @@ update-function-configuration
 update-function-definition
 update-function-event-invoke-config
 update-game-server
-update-ga
+update-game-server-group
+update-game-session
+update-game-session-queue
+update-gateway
+update-gateway-group
+update-gateway-information
+update-gateway-response
+update-gateway-software-now
+update-gcm-channel
+u
