@@ -5527,4 +5527,14 @@ update-group-certificate-configuration
 update-group-query
 update-health-check
 update-hit-review-status
-update-hit-type-
+update-hit-type-of-hit
+update-hosted-zone-comment
+update-http-namespace
+update-identity-pool
+update-identity-provider
+update-image
+update-image-permissions
+update-in-app-template
+update-indexing-configuration
+update-input
+upd
