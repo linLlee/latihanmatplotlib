@@ -5518,4 +5518,13 @@ update-gateway-information
 update-gateway-response
 update-gateway-software-now
 update-gcm-channel
-u
+update-geo-match-set
+update-global-table
+update-global-table-settings
+update-graphql-api
+update-group
+update-group-certificate-configuration
+update-group-query
+update-health-check
+update-hit-review-status
+update-hit-type-
