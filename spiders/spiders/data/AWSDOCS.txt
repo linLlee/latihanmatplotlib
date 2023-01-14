@@ -5490,4 +5490,12 @@ update-event-data-store
 update-event-source-mapping
 update-experiment
 update-expiration-for-hit
-update-fa
+update-facet
+update-field-level-encryption-config
+update-field-level-encryption-profile
+update-file-system
+update-file-system-association
+update-filter
+update-findings-feedback
+update-fleet
+update-fleet-att
