@@ -5537,4 +5537,14 @@ update-image-permissions
 update-in-app-template
 update-indexing-configuration
 update-input
-upd
+update-input-device
+update-input-security-group
+update-instance
+update-instance-custom-health-status
+update-instance-profile
+update-integration
+update-integration-response
+update-ip-set
+update-item
+update-job
+u
