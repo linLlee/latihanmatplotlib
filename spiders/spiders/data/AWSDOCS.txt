@@ -5482,4 +5482,12 @@ update-endpoint
 update-endpoint-weights-and-capacities
 update-endpoints-batch
 update-entitlement
-updat
+update-environment
+update-environment-membership
+update-evaluation
+update-event-configurations
+update-event-data-store
+update-event-source-mapping
+update-experiment
+update-expiration-for-hit
+update-fa
