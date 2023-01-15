@@ -5559,4 +5559,12 @@ update-lag
 update-layer
 update-link-attributes
 update-load-balancer-attribute
-updat
+update-logger-definition
+update-login-profile
+update-long-term-pricing
+update-mailbox-quota
+update-maintenance-start-time
+update-maintenance-window
+update-maintenance-window-target
+update-maintenance-window-task
+update-managed
