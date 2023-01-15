@@ -5547,4 +5547,16 @@ update-integration-response
 update-ip-set
 update-item
 update-job
-u
+update-job-execution
+update-job-queue
+update-job-shipment-state
+update-job-template
+update-journey
+update-journey-state
+update-key-description
+update-key-group
+update-lag
+update-layer
+update-link-attributes
+update-load-balancer-attribute
+updat
