@@ -5567,4 +5567,13 @@ update-maintenance-start-time
 update-maintenance-window
 update-maintenance-window-target
 update-maintenance-window-task
-update-managed
+update-managed-instance-role
+update-matchmaking-configuration
+update-medical-vocabulary
+update-member-detectors
+update-method
+update-method-response
+update-mitigation-action
+update-ml-model
+update-ml-transform
+update-mobile-device-a
