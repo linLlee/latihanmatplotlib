@@ -5576,4 +5576,13 @@ update-method-response
 update-mitigation-action
 update-ml-model
 update-ml-transform
-update-mobile-device-a
+update-mobile-device-access-rule
+update-model
+update-model-package
+update-monitoring-schedule
+update-multiplex
+update-multiplex-program
+update-my-user-profile
+update-network-profile
+update-nfs-file-share
+update-notebook
