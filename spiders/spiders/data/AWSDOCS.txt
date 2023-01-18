@@ -5585,4 +5585,11 @@ update-multiplex-program
 update-my-user-profile
 update-network-profile
 update-nfs-file-share
-update-notebook
+update-notebook-instance
+update-notebook-instance-lifecycle-config
+update-notification
+update-notification-settings
+update-number-of-domain-controllers
+update-object-attributes
+update-open-id-connect-provider-thumbprint
+update-
