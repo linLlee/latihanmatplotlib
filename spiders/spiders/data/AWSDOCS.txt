@@ -5592,4 +5592,13 @@ update-notification-settings
 update-number-of-domain-controllers
 update-object-attributes
 update-open-id-connect-provider-thumbprint
+update-ops-item
+update-ops-metadata
+update-organization-configuration
+update-organizational-unit
+update-origin-endpoint
+update-origin-request-policy
+update-package
+update-parallel-data
+update-parameter-group
 update-
