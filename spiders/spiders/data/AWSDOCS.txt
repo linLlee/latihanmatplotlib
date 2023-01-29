@@ -5601,4 +5601,13 @@ update-origin-request-policy
 update-package
 update-parallel-data
 update-parameter-group
-update-
+update-partition
+update-partner-status
+update-patch-baseline
+update-pipeline
+update-pipeline-execution
+update-pipeline-notifications
+update-pipeline-status
+update-policy
+update-portfolio
+update-portfolio-sh
