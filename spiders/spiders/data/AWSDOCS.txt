@@ -5610,4 +5610,15 @@ update-pipeline-notifications
 update-pipeline-status
 update-policy
 update-portfolio
-update-portfolio-sh
+update-portfolio-share
+update-prepared-statement
+update-preset
+update-primary-email-address
+update-primary-region
+update-private-dns-namespace
+update-product
+update-profile
+update-project
+update-project-visibility
+update-protection-group
+upda
