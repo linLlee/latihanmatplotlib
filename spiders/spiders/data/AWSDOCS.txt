@@ -5621,4 +5621,11 @@ update-profile
 update-project
 update-project-visibility
 update-protection-group
-upda
+update-provisioned-product
+update-provisioned-product-properties
+update-provisioning-artifact
+update-provisioning-template
+update-public-dns-namespace
+update-public-key
+update-publishing-destination
+update-pull-request-approval-rule
