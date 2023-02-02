@@ -5628,4 +5628,13 @@ update-provisioning-template
 update-public-dns-namespace
 update-public-key
 update-publishing-destination
-update-pull-request-approval-rule
+update-pull-request-approval-rule-content
+update-pull-request-approval-state
+update-pull-request-description
+update-pull-request-status
+update-pull-request-title
+update-push-template
+update-qualification-type
+update-queue
+update-radius
+update-rate-based
