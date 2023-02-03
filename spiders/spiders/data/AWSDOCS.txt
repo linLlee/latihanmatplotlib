@@ -5637,4 +5637,13 @@ update-push-template
 update-qualification-type
 update-queue
 update-radius
-update-rate-based
+update-rate-based-rule
+update-rds-db-instance
+update-realtime-log-config
+update-receipt-rule
+update-recommender-configuration
+update-records
+update-regex-match-set
+update-regex-pattern-set
+update-registry
+update-rela
