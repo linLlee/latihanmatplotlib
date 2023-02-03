@@ -5646,4 +5646,14 @@ update-records
 update-regex-match-set
 update-regex-pattern-set
 update-registry
-update-rela
+update-relational-database
+update-relational-database-parameters
+update-replication-job
+update-report-group
+update-repository-description
+update-repository-name
+update-request-validator
+update-reservation
+update-resolver
+update-resource
+update-resource-dat
