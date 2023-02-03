@@ -5656,4 +5656,16 @@ update-request-validator
 update-reservation
 update-resolver
 update-resource
-update-resource-dat
+update-resource-data-sync
+update-resource-definition
+update-resource-server
+update-response-headers-policy
+update-rest-api
+update-role
+update-role-alias
+update-role-description
+update-room
+update-rule
+update-rule-group
+update-rules-of-ip-group
+upda
