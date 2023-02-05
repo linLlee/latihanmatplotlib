@@ -5677,4 +5677,12 @@ update-scheduled-audit
 update-scheduling-policy
 update-schema
 update-script
-update-securi
+update-security-group-rule-descriptions-egress
+update-security-group-rule-descriptions-ingress
+update-security-profile
+update-segment
+update-server
+update-server-certificate
+update-server-engine-attributes
+update-service
+update-service-a
