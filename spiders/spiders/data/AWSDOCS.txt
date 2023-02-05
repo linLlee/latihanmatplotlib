@@ -5668,4 +5668,13 @@ update-room
 update-rule
 update-rule-group
 update-rules-of-ip-group
-upda
+update-runtime-configuration
+update-saml-provider
+update-sampling-rule
+update-scaling-parameters
+update-scaling-plan
+update-scheduled-audit
+update-scheduling-policy
+update-schema
+update-script
+update-securi
