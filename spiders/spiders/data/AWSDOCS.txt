@@ -5685,4 +5685,12 @@ update-server
 update-server-certificate
 update-server-engine-attributes
 update-service
-update-service-a
+update-service-access-policies
+update-service-action
+update-service-primary-task-set
+update-service-setting
+update-service-specific-credential
+update-shard-count
+update-signaling-channel
+update-signing-certificate
+update-size-constraint-s
