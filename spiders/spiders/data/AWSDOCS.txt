@@ -5693,4 +5693,14 @@ update-service-specific-credential
 update-shard-count
 update-signaling-channel
 update-signing-certificate
-update-size-constraint-s
+update-size-constraint-set
+update-skill-group
+update-smb-file-share
+update-smb-file-share-visibility
+update-smb-local-groups
+update-smb-security-strategy
+update-sms-channel
+update-sms-template
+update-snapshot-schedule
+update-sql-injection-match-set
+update
