@@ -5703,4 +5703,15 @@ update-sms-channel
 update-sms-template
 update-snapshot-schedule
 update-sql-injection-match-set
-update
+update-ssh-public-key
+update-stack
+update-stack-instances
+update-stack-set
+update-stage
+update-state-machine
+update-stream
+update-stream-mode
+update-streaming-distribution
+update-studio
+update-studio-session-mapping
+update-su
