@@ -5726,4 +5726,11 @@ update-tags-for-resource
 update-task-set
 update-team-member
 update-template
-up
+update-template-active-version
+update-termination-protection
+update-test-grid-project
+update-thing
+update-thing-group
+update-thing-groups-for-thing
+update-thing-runtime-configuration
+update-thing
