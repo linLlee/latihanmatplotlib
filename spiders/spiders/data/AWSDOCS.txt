@@ -5714,4 +5714,16 @@ update-stream-mode
 update-streaming-distribution
 update-studio
 update-studio-session-mapping
-update-su
+update-subnet-group
+update-subscriber
+update-subscription
+update-subscription-definition
+update-table
+update-table-replica-auto-scaling
+update-tag-option
+update-tags-for-domain
+update-tags-for-resource
+update-task-set
+update-team-member
+update-template
+up
