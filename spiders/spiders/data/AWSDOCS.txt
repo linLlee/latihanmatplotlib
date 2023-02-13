@@ -5733,4 +5733,13 @@ update-thing
 update-thing-group
 update-thing-groups-for-thing
 update-thing-runtime-configuration
-update-thing
+update-thing-shadow
+update-threat-intel-set
+update-time-to-live
+update-topic-rule-destination
+update-traffic-policy-comment
+update-traffic-policy-instance
+update-trail
+update-training-job
+update-trial
+update-trial-compo
