@@ -5756,4 +5756,14 @@ update-user-defined-function
 update-user-pool
 update-user-pool-client
 update-user-pool-domain
-updat
+update-user-profile
+update-virtual-interface-attributes
+update-vocabulary
+update-vocabulary-filter
+update-voice-channel
+update-voice-template
+update-volume
+update-vpc-link
+update-vpce-configuration
+update-vtl-device-type
+update-web-acl
