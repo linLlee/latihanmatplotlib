@@ -5767,3 +5767,13 @@ update-vpc-link
 update-vpce-configuration
 update-vtl-device-type
 update-web-acl
+update-webhook
+update-work-group
+update-workflow
+update-workforce
+update-workspace-bundle
+update-workspace-image-permission
+update-workteam
+update-xss-match-set
+upgrade-applied-schema
+upgrade-elasticsearch-dom
