@@ -5776,4 +5776,15 @@ update-workspace-image-permission
 update-workteam
 update-xss-match-set
 upgrade-applied-schema
-upgrade-elasticsearch-dom
+upgrade-elasticsearch-domain
+upgrade-published-schema
+upload-archive
+upload-build
+upload-documents
+upload-layer-part
+upload-multipart-part
+upload-part
+upload-part-copy
+upload-server-certificate
+upload-signing-certificate
+upload-ssh-public-key
