@@ -5788,3 +5788,12 @@ upload-part-copy
 upload-server-certificate
 upload-signing-certificate
 upload-ssh-public-key
+validate-configuration-settings
+validate-logs
+validate-matchmaking-rule-set
+validate-pipeline-definition
+validate-security-profile-behaviors
+validate-template
+verify
+verify-domain-dkim
+verif
