@@ -5796,4 +5796,16 @@ validate-security-profile-behaviors
 validate-template
 verify
 verify-domain-dkim
-verif
+verify-domain-identity
+verify-email-identity
+verify-otp-message
+verify-sms-sandbox-phone-number
+verify-software-token
+verify-trust
+verify-user-attribute
+view-billing
+wait
+website
+withdraw-byoip-cidr
+write-get-object-response
+[global_opti
