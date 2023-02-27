@@ -5808,4 +5808,19 @@ wait
 website
 withdraw-byoip-cidr
 write-get-object-response
-[global_opti
+[global_options]: 11
+--color
+--debug
+--endpoint-url
+--no-paginate
+--no-sign-request
+--no-verify-ssl
+--output
+--profile
+--query
+--region
+--version
+[resource_options]: 3
+--bucket
+--cluster-states
+--instance-ids
